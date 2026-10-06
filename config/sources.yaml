@@ -1,0 +1,157 @@
+# Feeds, Gewichte und Ressort. Geprueft am 2026-10-06 (tools/probe_feeds.py).
+# weight: 0.5 (Randquelle) bis 1.5 (Leitquelle), geht als Hinweis in Lauf 1.
+# paywall: true = Feed liefert nur Teaser, daraus keine Details ableiten.
+# window_hours: optional, ueberschreibt das Standardfenster von 24h.
+defaults:
+  window_hours: 24
+  max_items_per_source: 25
+  teaser_chars: 700
+
+sources:
+  # Nachrichtenlage
+  - id: tagesschau
+    name: Tagesschau
+    ressort: nachrichten
+    weight: 1.5
+    url: https://www.tagesschau.de/index~rss2.xml
+  - id: deutschlandfunk
+    name: Deutschlandfunk
+    ressort: nachrichten
+    weight: 1.3
+    url: https://www.deutschlandfunk.de/nachrichten-100.rss
+  - id: deutschlandfunk_politik
+    name: Deutschlandfunk
+    ressort: nachrichten
+    weight: 1.1
+    url: https://www.deutschlandfunk.de/politikportal-100.rss
+  - id: spiegel
+    name: Spiegel
+    ressort: nachrichten
+    weight: 1.2
+    paywall: true
+    url: https://www.spiegel.de/schlagzeilen/index.rss
+  - id: zeit
+    name: Zeit Online
+    ressort: nachrichten
+    weight: 1.2
+    url: https://newsfeed.zeit.de/index
+
+  # Wirtschaft und Maerkte
+  - id: tagesschau_wirtschaft
+    name: Tagesschau
+    ressort: wirtschaft
+    weight: 1.3
+    url: https://www.tagesschau.de/wirtschaft/index~rss2.xml
+  - id: handelsblatt_top
+    name: Handelsblatt
+    ressort: wirtschaft
+    weight: 1.5
+    paywall: true
+    url: https://www.handelsblatt.com/contentexport/feed/top-themen
+  - id: handelsblatt_unternehmen
+    name: Handelsblatt
+    ressort: wirtschaft
+    weight: 1.4
+    paywall: true
+    url: https://www.handelsblatt.com/contentexport/feed/unternehmen
+  - id: faz_wirtschaft
+    name: FAZ
+    ressort: wirtschaft
+    weight: 1.3
+    paywall: true
+    url: https://www.faz.net/rss/aktuell/wirtschaft/
+  - id: faz_unternehmen
+    name: FAZ
+    ressort: wirtschaft
+    weight: 1.3
+    paywall: true
+    url: https://www.faz.net/rss/aktuell/wirtschaft/unternehmen/
+  - id: spiegel_wirtschaft
+    name: Spiegel
+    ressort: wirtschaft
+    weight: 1.1
+    paywall: true
+    url: https://www.spiegel.de/wirtschaft/index.rss
+  - id: zeit_wirtschaft
+    name: Zeit Online
+    ressort: wirtschaft
+    weight: 1.0
+    url: https://newsfeed.zeit.de/wirtschaft/index
+  - id: manager_magazin
+    name: Manager Magazin
+    ressort: wirtschaft
+    weight: 1.2
+    paywall: true
+    url: https://www.manager-magazin.de/unternehmen/index.rss
+  - id: wiwo
+    name: WirtschaftsWoche
+    ressort: wirtschaft
+    weight: 1.1
+    paywall: true
+    url: https://www.wiwo.de/contentexport/feed/rss/unternehmen
+
+  # AI und Tech
+  - id: anthropic_news
+    name: Anthropic
+    ressort: tech
+    weight: 1.5
+    # Kein offizieller Feed. Community-Feed auf GitHub, taeglich aus der News-Seite gebaut.
+    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
+  - id: claude_code_releases
+    name: Claude Code Releases
+    ressort: tech
+    weight: 1.0
+    url: https://github.com/anthropics/claude-code/releases.atom
+  - id: openai
+    name: OpenAI
+    ressort: tech
+    weight: 1.4
+    url: https://openai.com/news/rss.xml
+  - id: deepmind
+    name: Google DeepMind
+    ressort: tech
+    weight: 1.2
+    url: https://deepmind.google/blog/rss.xml
+  - id: google_ai
+    name: Google AI Blog
+    ressort: tech
+    weight: 1.0
+    url: https://blog.google/technology/ai/rss/
+  - id: the_decoder
+    name: The Decoder
+    ressort: tech
+    weight: 1.3
+    url: https://the-decoder.de/feed/
+  - id: heise
+    name: Heise
+    ressort: tech
+    weight: 1.1
+    url: https://www.heise.de/rss/heise-atom.xml
+  - id: hackernews
+    name: Hacker News
+    ressort: tech
+    weight: 0.7
+    url: https://hnrss.org/frontpage?points=200
+  - id: techcrunch_ai
+    name: TechCrunch
+    ressort: tech
+    weight: 1.0
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+
+  # Kommunikation, nur bei Anlass (kein Pflichtblock)
+  - id: horizont
+    name: Horizont
+    ressort: kommunikation
+    weight: 0.8
+    url: https://www.horizont.net/news/feed/
+  - id: pr_journal
+    name: PR Journal
+    ressort: kommunikation
+    weight: 0.8
+    window_hours: 48
+    url: https://www.pr-journal.de/?format=feed&type=rss
+  - id: socialmediatoday
+    name: Social Media Today
+    ressort: kommunikation
+    weight: 0.8
+    url: https://www.socialmediatoday.com/feeds/news/
