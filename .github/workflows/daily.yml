@@ -1,0 +1,115 @@
+name: Daily Briefing
+
+on:
+  schedule:
+    # UTC. Drei Eintraege decken Sommer- und Winterzeit plus einen Retry ab.
+    # Der Guard laesst nur Laeufe zwischen 05:00 und 06:59 Berlin zu und nur, wenn die Folge des Tages fehlt.
+    - cron: "0 3 * * *"
+    - cron: "0 4 * * *"
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Auch ausfuehren, wenn heute schon eine Folge existiert"
+        type: boolean
+        default: true
+
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+env:
+  TZ: Europe/Berlin
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    outputs:
+      ran: ${{ steps.guard.outputs.run }}
+    steps:
+      - name: Guard (Uhrzeit Berlin, Folge schon vorhanden?)
+        id: guard
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ github.event_name }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          HOUR=$(date +%H)
+          TAG="ep-$(date +%Y-%m-%d)"
+          echo "Berlin-Stunde: $HOUR, Tag: $TAG, Event: $EVENT"
+          if [ "$EVENT" = "workflow_dispatch" ] && [ "$FORCE" = "true" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if [ "$HOUR" != "05" ] && [ "$HOUR" != "06" ]; then echo "Ausserhalb des Fensters"; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then echo "Folge existiert"; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          echo "run=true" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/checkout@v4
+        if: steps.guard.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.guard.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Abhaengigkeiten
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -r requirements.txt trafilatura
+
+      - name: Pipeline
+        if: steps.guard.outputs.run == 'true'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          FEED_SLUG: ${{ vars.FEED_SLUG }}
+        run: |
+          python src/fetch.py
+          python src/edit.py
+          python src/enrich.py
+          python src/script.py
+          python src/tts.py
+          python src/publish.py
+
+      - name: Feed und Zustand committen
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          git config user.name "daily-briefing-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state
+          git diff --cached --quiet || git commit -m "Feed $(date +%Y-%m-%d)"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.guard.outputs.run == 'true'
+        with:
+          path: docs
+
+      - name: Skript als Artefakt sichern
+        if: steps.guard.outputs.run == 'true' && always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: briefing-${{ github.run_id }}
+          path: |
+            out/script.txt
+            out/briefing.md
+            out/plan.json
+          retention-days: 14
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: needs.build.outputs.ran == 'true'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
