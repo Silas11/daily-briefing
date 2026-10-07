@@ -69,23 +69,37 @@ def clean(text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--dry-run", action="store_true", help="Budget und Prompt ausgeben, kein API-Aufruf")
+    ap.add_argument("--dry-run", action="store_true", help="Budget und Prompts ausgeben, kein API-Aufruf")
     args = ap.parse_args()
     plan = json.loads((OUT / "plan.json").read_text(encoding="utf-8"))
     topics, total = allocate(plan["cluster"])
     now = datetime.now(ZoneInfo(TIMEZONE))
-    prompt = (PROMPTS / "script_prompt.md").read_text(encoding="utf-8").format(
-        editorial=(CONFIG / "editorial.md").read_text(encoding="utf-8"),
-        weekday=WEEKDAYS[now.weekday()],
-        date_spoken=f"{now.day}. {MONTHS[now.month - 1]} {now.year}",
-        target_words=total,
-        topics=topics_block(topics),
-    )
-    log.info("%d Themen, Zielwortzahl %d (ca. %.1f Minuten)", len(topics), total, total / WPM)
+    tpl = (PROMPTS / "script_prompt.md").read_text(encoding="utf-8")
+    editorial = (CONFIG / "editorial.md").read_text(encoding="utf-8")
+    weekday, date_spoken = WEEKDAYS[now.weekday()], f"{now.day}. {MONTHS[now.month - 1]} {now.year}"
+    blocks = [(r, [c for c in topics if c["ressort"] == r]) for r in RESSORT_ORDER]
+    blocks = [(r, cs) for r, cs in blocks if cs]
+    log.info("%d Themen in %d Bloecken, Zielwortzahl %d (ca. %.1f Minuten)", len(topics), len(blocks), total, total / WPM)
+    parts = []
+    for n, (ressort, cs) in enumerate(blocks):
+        opening = (
+            f'Beginne mit: "Daily Briefing, {weekday}, {date_spoken}." und einem Satz zur Lage des Tages, dann der Blockeinstieg.'
+            if n == 0
+            else "Kein Sendungsintro. Beginne direkt mit dem Blockeinstieg, die Sendung laeuft bereits."
+        )
+        prompt = tpl.format(
+            editorial=editorial, weekday=weekday, date_spoken=date_spoken, block_name=ressort, opening=opening,
+            part_desc=f"Teil {n + 1} von {len(blocks)}", target_words=sum(c["words"] for c in cs), topics=topics_block(cs),
+        )
+        if args.dry_run:
+            print(prompt)
+            continue
+        text = clean(llm.generate(prompt, temperature=0.5))
+        log.info("Block %s: %d Woerter (Ziel %d)", ressort, len(text.split()), sum(c["words"] for c in cs))
+        parts.append(text)
     if args.dry_run:
-        print(prompt)
         return
-    text = clean(llm.generate(prompt, temperature=0.5))
+    text = "\n\n".join(parts)
     words = len(text.split())
     (OUT / "script.txt").write_text(text, encoding="utf-8")
     log.info("Skript: %d Woerter, ca. %.1f Minuten (Ziel %d)", words, words / WPM, total)

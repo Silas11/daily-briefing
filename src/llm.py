@@ -22,7 +22,7 @@ def _client():
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
         raise SystemExit("GEMINI_API_KEY fehlt (Env-Variable bzw. Repo-Secret).")
-    return genai.Client(api_key=key)
+    return genai.Client(api_key=key, http_options=types.HttpOptions(timeout=int(os.environ.get("GEMINI_TIMEOUT_S", "240")) * 1000))
 
 
 class QuotaExhausted(Exception):
@@ -65,7 +65,7 @@ def generate(prompt, schema=None, temperature=0.4):
         except QuotaExhausted:
             log.warning("Tageskontingent von %s erschoepft, naechstes Modell", m)
             last = f"Kontingent {m}"
-        except (errors.ServerError, errors.ClientError) as ex:
+        except Exception as ex:  # noqa: BLE001  (Timeouts, Verbindungsfehler)
             log.error("Modell %s nach Retries erfolglos: %s", m, ex)
             last = ex
     raise SystemExit(f"Alle Modelle erfolglos: {last}")
