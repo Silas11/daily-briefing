@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daily Briefing</title>
+    <link>https://Silas11.github.io/daily-briefing/</link>
+    <language>de-DE</language>
+    <description>Persönlicher Morgen-Podcast: Nachrichtenlage, Wirtschaft und Märkte, AI und Tech. KI-generiert aus öffentlichen Nachrichtenquellen.</description>
+    <itunes:author>Daily Briefing</itunes:author>
+    <itunes:image href="https://Silas11.github.io/daily-briefing/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Briefing, Mittwoch, 7. Oktober 2026</title>
+      <description>Themen heute: Spionageverdacht gegen Ex-BND-Chef August Hanning (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Handelsblatt); Wahl von AfD-Politiker Rausch zum Landtagspräsidenten (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Porsche-Chef Michael Leiters plant harten Sparkurs und Verbrenner-Fokus (Spiegel, Handelsblatt, WirtschaftsWoche, Manager Magazin, Zeit Online); Paramount schließt Übernahme von Warner Bros. ab (FAZ, Manager Magazin, WirtschaftsWoche, Tagesschau, Horizont, Spiegel, Handelsblatt, Zeit Online); Deutsch-französischer Kompromiss zum Verbrenner-Aus nach 2035 (Handelsblatt, FAZ); SpaceX plant 40-Milliarden-Dollar-Kauf von Nvidia-KI-Chips (Zeit Online, Handelsblatt); Mistral AI veröffentlicht neues Modell Mistral Large 4 (TechCrunch, The Decoder, Hacker News); Gedenken an die Opfer des Hamas-Überfalls vor drei Jahren (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Spitzen von Union und SPD beraten im Koalitionsausschuss (Deutschlandfunk, Tagesschau, Handelsblatt, FAZ); Unerwartet starker Einbruch der deutschen Industrieaufträge (FAZ, Spiegel, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Wed, 07 Oct 2026 06:38:02 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-10-07</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-07/daily-briefing-2026-10-07.mp3" length="7132519" type="audio/mpeg"/>
+      <itunes:duration>713</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
