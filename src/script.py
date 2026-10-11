@@ -10,10 +10,10 @@ from common import CONFIG, OUT, PROMPTS, TIMEZONE, get_logger
 
 log = get_logger("script")
 RESSORT_ORDER = ["nachrichten", "wirtschaft", "tech", "kommunikation"]
-WPM = 180  # Katja bei 1,2-facher Geschwindigkeit
-WORDS_PER_RELEVANCE = 60
-MIN_WORDS, MAX_WORDS = 45, 540  # 2 Saetze bis ca. 3 Minuten
-TARGET_MIN, TARGET_MAX = 2700, 3600  # 15 bis 20 Minuten, Orientierung statt harter Grenze
+WPM = 142  # gemessen: Katja bei 1,2-facher Geschwindigkeit, geschriebene Woerter pro Minute
+WORDS_PER_RELEVANCE = 45
+MIN_WORDS, MAX_WORDS = 35, 430  # 2 Saetze bis ca. 3 Minuten
+TARGET_MIN, TARGET_MAX = 2150, 2850  # 15 bis 20 Minuten, Orientierung statt harter Grenze
 WEEKDAYS = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
 MONTHS = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
 
@@ -36,7 +36,7 @@ def allocate(clusters):
         if total > TARGET_MAX:
             topics.pop()
             total = sum(c["words"] for c in topics)
-    if total < TARGET_MIN and sum(c["relevanz"] for c in topics) >= 60:
+    if total < TARGET_MIN and sum(c["relevanz"] for c in topics) >= 50:
         scale = min(1.3, TARGET_MIN / total)
         for c in topics:
             c["words"] = min(MAX_WORDS, round(c["words"] * scale))
