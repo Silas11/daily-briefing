@@ -1,6 +1,7 @@
 """Gemini Lauf 2: Sprechskript mit Wortbudget je Thema. Output out/script.txt."""
 import argparse
 import json
+import os
 import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -10,10 +11,10 @@ from common import CONFIG, OUT, PROMPTS, TIMEZONE, get_logger
 
 log = get_logger("script")
 RESSORT_ORDER = ["nachrichten", "wirtschaft", "tech", "kommunikation"]
-WPM = 142  # gemessen: Katja bei 1,2-facher Geschwindigkeit, geschriebene Woerter pro Minute
-WORDS_PER_RELEVANCE = 45
-MIN_WORDS, MAX_WORDS = 35, 430  # 2 Saetze bis ca. 3 Minuten
-TARGET_MIN, TARGET_MAX = 2150, 2850  # 15 bis 20 Minuten, Orientierung statt harter Grenze
+WPM = int(os.environ.get("TTS_WPM", "140"))  # geschriebene Woerter pro Minute der gewaehlten Stimme, nach Messung anpassen
+WORDS_PER_RELEVANCE = round(WPM * 0.32)
+MIN_WORDS, MAX_WORDS = 35, round(WPM * 3)  # 2 Saetze bis ca. 3 Minuten
+TARGET_MIN, TARGET_MAX = 15 * WPM, 20 * WPM  # 15 bis 20 Minuten, Orientierung statt harter Grenze
 WEEKDAYS = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
 MONTHS = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
 
@@ -59,6 +60,17 @@ def topics_block(topics):
     return "\n".join(out)
 
 
+BANNED = ["verdeutlicht", "unterstreicht", "markiert", "Das bedeutet", "bleibt abzuwarten", "wirft Fragen auf", "bergen das Risiko",
+          "katastrophal", "alarmierend", "verheerend", "dramatisch", "spektakulär", "verschärft die Lage", "macht sichtbar", "machen sichtbar", "volatil", "gravierend", "extrem"]
+
+
+def lint(text):
+    hits = {w: text.count(w) for w in BANNED if w in text}
+    long_sent = sum(1 for sent in re.split(r"(?<=[.!?])\s+", text) if len(sent.split()) > 30)
+    if hits or long_sent:
+        log.warning("Lektorat-Hinweis: Floskeln %s, Saetze ueber 30 Woerter: %d", hits or "keine", long_sent)
+
+
 def clean(text):
     text = re.sub(r"[*_#`>]+", "", text)
     text = re.sub(r"\s*[–—]\s*", ", ", text)
@@ -100,6 +112,7 @@ def main():
     if args.dry_run:
         return
     text = "\n\n".join(parts)
+    lint(text)
     words = len(text.split())
     (OUT / "script.txt").write_text(text, encoding="utf-8")
     log.info("Skript: %d Woerter, ca. %.1f Minuten (Ziel %d)", words, words / WPM, total)

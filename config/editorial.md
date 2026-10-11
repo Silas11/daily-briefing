@@ -12,8 +12,8 @@ Kein "Mitnehmen"-Block. Kein Verabschiedungsritual am Ende.
 
 ## Dynamische Laenge
 - Pro Meldung ein Relevanzwert von 1 bis 10. Kriterien: Nachrichtenwert, Auswirkung, Beratungsprofil, Anzahl Quellen, die dasselbe melden (mehr Quellen = wichtiger).
-- Wortbudget proportional zum Relevanzwert. Grosses Thema bis ca. 3 Minuten (rund 430 Woerter), Randnotiz 2 Saetze.
-- Gesamtlaenge Richtwert 15 bis 20 Minuten bei ca. 142 Woertern pro Minute (gemessen bei 1,2-facher Sprechgeschwindigkeit), also ca. 2.150 bis 2.850 Woerter. Eine Minute mehr oder weniger spielt keine Rolle. Die Materiallage entscheidet: ruhiger Tag = kuerzer, kein Fuellmaterial.
+- Wortbudget proportional zum Relevanzwert. Grosses Thema bis ca. 3 Minuten (rund 480 Woerter), Randnotiz 2 Saetze.
+- Gesamtlaenge Richtwert 15 bis 20 Minuten. Die Zielwortzahl ergibt sich aus der Sprechgeschwindigkeit der Stimme (derzeit ca. 140 Woerter pro Minute, also ca. 2.100 bis 2.800 Woerter). Eine Minute mehr oder weniger spielt keine Rolle. Die Materiallage entscheidet: ruhiger Tag = kuerzer, kein Fuellmaterial.
 - Kein Mindestanteil pro Block, ein Block darf fast verschwinden.
 - Lieber wenige Themen mit Einordnung als viele im Schnelldurchlauf.
 
