@@ -2,11 +2,16 @@ name: Daily Briefing
 
 on:
   schedule:
-    # UTC. Drei Eintraege decken Sommer- und Winterzeit plus einen Retry ab.
-    # Der Guard laesst nur Laeufe zwischen 05:00 und 06:59 Berlin zu und nur, wenn die Folge des Tages fehlt.
-    - cron: "0 3 * * *"
-    - cron: "0 4 * * *"
-    - cron: "0 5 * * *"
+    # UTC, auf ungeraden Minuten (runde Uhrzeiten werden von GitHub am staerksten verzoegert).
+    # Mehrere Eintraege, weil geplante Laeufe stundenlang spaet starten koennen. Der Guard laesst den
+    # ersten Lauf ab 05:00 Berlin durch und alle weiteren aus, sobald die Folge des Tages existiert.
+    - cron: "11 2 * * *"
+    - cron: "41 2 * * *"
+    - cron: "11 3 * * *"
+    - cron: "41 3 * * *"
+    - cron: "11 4 * * *"
+    - cron: "41 4 * * *"
+    - cron: "17 6 * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -44,7 +49,7 @@ jobs:
           TAG="ep-$(date +%Y-%m-%d)"
           echo "Berlin-Stunde: $HOUR, Tag: $TAG, Event: $EVENT"
           if [ "$EVENT" = "workflow_dispatch" ] && [ "$FORCE" = "true" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; exit 0; fi
-          if [ "$HOUR" != "05" ] && [ "$HOUR" != "06" ]; then echo "Ausserhalb des Fensters"; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if [ "$((10#$HOUR))" -lt 5 ] || [ "$((10#$HOUR))" -ge 12 ]; then echo "Ausserhalb des Fensters"; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
           if gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then echo "Folge existiert"; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
           echo "run=true" >> "$GITHUB_OUTPUT"
 
