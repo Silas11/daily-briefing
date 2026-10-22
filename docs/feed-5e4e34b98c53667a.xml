@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Donnerstag, 22. Oktober 2026</title>
+      <description>Themen heute: Weltweite Sicherheitsluecke in PHP fuehrt zu Webseiten-Ausfaellen (Deutschlandfunk, Spiegel, Zeit Online, Handelsblatt, Hacker News, Tagesschau, The Decoder, TechCrunch, WirtschaftsWoche, Manager Magazin, FAZ, Heise, OpenAI); Meta zu 25 Milliarden Dollar Strafe wegen Cambridge Analytica verurteilt (Deutschlandfunk, Tagesschau, Heise, FAZ, Spiegel, WirtschaftsWoche, Handelsblatt, Hacker News); Ukraine-Krieg: Diplomatische Gespraechsbereitschaft bei anhaltenden Angriffen (Deutschlandfunk, Tagesschau, Spiegel, Heise); Meta: Rekordausgaben fuer KI, neue Aktienklasse und Gewinnsprung (Zeit Online, Heise, Spiegel, Social Media Today, TechCrunch, Handelsblatt); Finanzinvestor EQT vor Milliardenuebernahme von Qiagen (Handelsblatt, FAZ, WirtschaftsWoche, Manager Magazin); Unruhen in Frankreich belasten Staatsfinanzen und Wirtschaft (Deutschlandfunk, Tagesschau, WirtschaftsWoche, Spiegel); Tesla: Gewinnrueckgang und Spekulationen ueber SpaceX-Fusion (FAZ, Handelsblatt, Manager Magazin, Tagesschau); BGH faellt Grundsatzurteil zur Transparenz des Schufa-Scores (Tagesschau, Zeit Online, Spiegel); EU-Kommission leitet Betrugsverfahren gegen Booking.com ein (Tagesschau, Manager Magazin, Zeit Online, Spiegel, FAZ, Handelsblatt); Google Cloud buendelt Spitzenmodelle von OpenAI, Anthropic und Google (The Decoder, OpenAI, Hacker News). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Thu, 22 Oct 2026 04:26:25 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-10-22</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-22/daily-briefing-2026-10-22.mp3" length="10574151" type="audio/mpeg"/>
+      <itunes:duration>1057</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Mittwoch, 21. Oktober 2026</title>
       <description>Themen heute: Diplomatie im Ukraine-Krieg: Selenskyj pocht auf Verhandlungsteilnahme bei US-Russland-Gesprächen (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Handelsblatt); Investorengipfel in Berlin: Merz vermeldet Milliardenzusagen unter anderem von Amazon (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, FAZ, Handelsblatt, WirtschaftsWoche); Schwere Ausschreitungen in Frankreich: Städte verhängen Ausgangssperren (Deutschlandfunk, Tagesschau, FAZ, Handelsblatt); Musk prüft Fusion von Tesla und SpaceX nach Milliardengewinn im Raumfahrtgeschäft (Deutschlandfunk, Spiegel, Zeit Online, Manager Magazin, FAZ, Handelsblatt); Volkswagen ruft weltweit über 70.000 Elektrofahrzeuge wegen Brandgefahr zurück (Deutschlandfunk, Tagesschau, Manager Magazin, Spiegel, FAZ, Handelsblatt); EU-Parlament einigt sich auf Aufweichung des Verbrenner-Aus ab 2035 (Tagesschau, Spiegel); USA verbannen KI-Modelle von DeepSeek aus Bundesbehörden – China protestiert (Deutschlandfunk, Handelsblatt, Heise, TechCrunch, The Decoder); Schwerer Google-Cloud-Ausfall in London stört europäische Finanz- und Onlinedienste (Zeit Online, Manager Magazin, Heise, Hacker News); Bundeswehr warnt intern vor russischen Sabotageakten in Deutschland (Tagesschau); Deutsche Post plant Anhebung des Standardbriefportos auf 1,15 Euro (Deutschlandfunk, Tagesschau, Zeit Online, WirtschaftsWoche, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Wed, 21 Oct 2026 04:27:32 +0000</pubDate>
@@ -106,15 +115,6 @@
       <guid isPermaLink="false">ep-2026-10-11</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-11/daily-briefing-2026-10-11.mp3" length="13157923" type="audio/mpeg"/>
       <itunes:duration>1316</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Mittwoch, 7. Oktober 2026</title>
-      <description>Themen heute: Spionageverdacht gegen Ex-BND-Chef August Hanning (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Handelsblatt); Wahl von AfD-Politiker Rausch zum Landtagspräsidenten (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Porsche-Chef Michael Leiters plant harten Sparkurs und Verbrenner-Fokus (Spiegel, Handelsblatt, WirtschaftsWoche, Manager Magazin, Zeit Online); Paramount schließt Übernahme von Warner Bros. ab (FAZ, Manager Magazin, WirtschaftsWoche, Tagesschau, Horizont, Spiegel, Handelsblatt, Zeit Online); Deutsch-französischer Kompromiss zum Verbrenner-Aus nach 2035 (Handelsblatt, FAZ); SpaceX plant 40-Milliarden-Dollar-Kauf von Nvidia-KI-Chips (Zeit Online, Handelsblatt); Mistral AI veröffentlicht neues Modell Mistral Large 4 (TechCrunch, The Decoder, Hacker News); Gedenken an die Opfer des Hamas-Überfalls vor drei Jahren (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Spitzen von Union und SPD beraten im Koalitionsausschuss (Deutschlandfunk, Tagesschau, Handelsblatt, FAZ); Unerwartet starker Einbruch der deutschen Industrieaufträge (FAZ, Spiegel, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Wed, 07 Oct 2026 06:38:02 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-07</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-07/daily-briefing-2026-10-07.mp3" length="7132519" type="audio/mpeg"/>
-      <itunes:duration>713</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
