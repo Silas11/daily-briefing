@@ -106,5 +106,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-22/daily-briefing-2026-10-22.mp3",
   "bytes": 10574151,
   "duration": 1057
+ },
+ {
+  "tag": "ep-2026-10-23",
+  "title": "Daily Briefing, Freitag, 23. Oktober 2026",
+  "description": "Themen heute: Globale PHP-Sicherheitslücke bedroht Web-Infrastruktur und zwingt Dienste offline (Deutschlandfunk, Tagesschau, FAZ, Heise, Handelsblatt, Hacker News, Manager Magazin, WirtschaftsWoche); Steuerschätzung: Rekordeinnahmen bringen Bund dennoch keine neuen Spielräume (Tagesschau, Spiegel, Zeit Online, Handelsblatt, FAZ); Starlink für die Ukraine: Trump verkündet Ende der Drosselung durch Elon Musk (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Volkswagen: Ringen um Sparkurs, Gehälter und Neuaufstellung der Fahrassistenz (Deutschlandfunk, WirtschaftsWoche, Manager Magazin); Konzernumbau bei Bosch: Ausgliederung der Mobilitätssparte betrifft Zehntausende (Manager Magazin, FAZ, Handelsblatt); Chemiebranche: Evonik prüft US-Zukauf inmitten der Übernahmeofferte von BASF (Handelsblatt, Manager Magazin, WirtschaftsWoche, FAZ); Anthropic startet autonomen Agenten Claude Duet und behebt Sandbox-Lücken (Claude Code Releases, TechCrunch, The Decoder); OpenAI plant 30-Milliarden-Runde, launcht Decisions API und untersucht Agenten-Vorfall (TechCrunch, OpenAI, Heise, The Decoder); Energiepreise: Bundesländer fordern Stromsteuersenkung und Spritpreisdeckel (Deutschlandfunk, Tagesschau, WirtschaftsWoche); Proteste gegen Lebenshaltungskosten in Frankreich und Südeuropa (Zeit Online, Deutschlandfunk, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-10-23T04:32:13.571194+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-23/daily-briefing-2026-10-23.mp3",
+  "bytes": 11017449,
+  "duration": 1102
  }
 ]
