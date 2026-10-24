@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Samstag, 24. Oktober 2026</title>
+      <description>Themen heute: Tarifstreit und Eskalation bei Volkswagen (Deutschlandfunk, Zeit Online, Tagesschau, Manager Magazin, Handelsblatt, FAZ, WirtschaftsWoche); Anthropics Vorstoß mit KI-Beratung und neuen Claude-Tools (Claude Code Releases, Manager Magazin, The Decoder, Heise); OpenAI stellt Modelltraining ohne Internetzugang um (Deutschlandfunk, TechCrunch, The Decoder, OpenAI); Proteste und Gewalt in Frankreich (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, FAZ); Übernahmekampf zwischen BASF und Evonik (Handelsblatt, WirtschaftsWoche, FAZ, Manager Magazin); Zinsdruck und Wirtschaftskrise in Frankreich (Handelsblatt, Tagesschau); CSU-Parteitag und politische Debatten (Spiegel, Deutschlandfunk, Tagesschau, Handelsblatt); Eskalation und Anschläge im Nahen Osten (Spiegel, Deutschlandfunk, Tagesschau); Datenleck bei der AfD (Tagesschau, Handelsblatt, Heise); Lokale Waffenruhe in Oleschky (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Sat, 24 Oct 2026 04:29:00 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-10-24</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-24/daily-briefing-2026-10-24.mp3" length="11171049" type="audio/mpeg"/>
+      <itunes:duration>1117</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Freitag, 23. Oktober 2026</title>
       <description>Themen heute: Globale PHP-Sicherheitslücke bedroht Web-Infrastruktur und zwingt Dienste offline (Deutschlandfunk, Tagesschau, FAZ, Heise, Handelsblatt, Hacker News, Manager Magazin, WirtschaftsWoche); Steuerschätzung: Rekordeinnahmen bringen Bund dennoch keine neuen Spielräume (Tagesschau, Spiegel, Zeit Online, Handelsblatt, FAZ); Starlink für die Ukraine: Trump verkündet Ende der Drosselung durch Elon Musk (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Volkswagen: Ringen um Sparkurs, Gehälter und Neuaufstellung der Fahrassistenz (Deutschlandfunk, WirtschaftsWoche, Manager Magazin); Konzernumbau bei Bosch: Ausgliederung der Mobilitätssparte betrifft Zehntausende (Manager Magazin, FAZ, Handelsblatt); Chemiebranche: Evonik prüft US-Zukauf inmitten der Übernahmeofferte von BASF (Handelsblatt, Manager Magazin, WirtschaftsWoche, FAZ); Anthropic startet autonomen Agenten Claude Duet und behebt Sandbox-Lücken (Claude Code Releases, TechCrunch, The Decoder); OpenAI plant 30-Milliarden-Runde, launcht Decisions API und untersucht Agenten-Vorfall (TechCrunch, OpenAI, Heise, The Decoder); Energiepreise: Bundesländer fordern Stromsteuersenkung und Spritpreisdeckel (Deutschlandfunk, Tagesschau, WirtschaftsWoche); Proteste gegen Lebenshaltungskosten in Frankreich und Südeuropa (Zeit Online, Deutschlandfunk, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Fri, 23 Oct 2026 04:32:13 +0000</pubDate>
