@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Montag, 26. Oktober 2026</title>
+      <description>Themen heute: Kritik an Audi-Chef nach Auftritt auf Trump-Wahlkampfveranstaltung (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel, Manager Magazin, Heise, Zeit Online, FAZ, WirtschaftsWoche); Präsidentenwahl in Brasilien: Lula gewinnt Stichwahl (Deutschlandfunk, Zeit Online, Handelsblatt, Tagesschau, Hacker News, Spiegel); Machtwechsel nach Parlamentswahl in Serbien (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Frasers Group übernimmt Mehrheit an Hugo Boss (FAZ, WirtschaftsWoche, Handelsblatt); Preiskampf bei KI-Sprachmodellen zwischen OpenAI und Anthropic (Hacker News, The Decoder); Asien-Reisen von Merz und Steinmeier (Zeit Online, Spiegel, Tagesschau); Rückkehr von Oppositionsführerin Machado nach Venezuela (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Wahlkampfauftakt von Le Pen und Massenproteste in Frankreich (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Streit über Finanzierung der Stromsteuersenkung (Deutschlandfunk, Tagesschau); Dobrindt plant Investitionsschutzgesetz gegen Wohnungsenteignungen (Deutschlandfunk, FAZ, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Mon, 26 Oct 2026 05:45:11 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-10-26</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-26/daily-briefing-2026-10-26.mp3" length="10829890" type="audio/mpeg"/>
+      <itunes:duration>1083</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Sonntag, 25. Oktober 2026</title>
       <description>Themen heute: Audi kuendigt US-Werk fuer vier Milliarden Dollar bei Trump-Auftritt an (FAZ, Deutschlandfunk, Spiegel, Zeit Online, Handelsblatt); Ausschreitungen bei Massenprotesten gegen Lebenshaltungskosten in Frankreich und Nachbarlaendern (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt, FAZ); Kopf-an-Kopf-Rennen bei Praesidentschafts-Stichwahl in Brasilien (Zeit Online, Tagesschau, Deutschlandfunk, Spiegel, Handelsblatt); Elon Musk wirft Kiew Missbrauch von Starlink fuer Militaeroffensiven vor (Deutschlandfunk, Spiegel, Handelsblatt, Tagesschau, Heise); Militaeroperationen und Abriegelung des Westjordanlands vor Wahlen in Israel (Zeit Online, Spiegel, Tagesschau, Handelsblatt); Kanzler Merz beschwoert Zusammenhalt auf dem CSU-Parteitag (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); OpenAI stellt Training von Spitzenmodellen nach Vorfaellen auf Offline-Betrieb um (Heise, The Decoder, FAZ); Vorgezogene Parlamentswahlen in Serbien (Tagesschau, Deutschlandfunk, Handelsblatt); Volkswagen plant weiteren Abbau von zwoelfausend Stellen (Spiegel); Ryanair streicht Verbindungen am Hauptstadtflughafen BER zusammen (Zeit Online, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Sun, 25 Oct 2026 05:35:44 +0000</pubDate>
@@ -133,15 +142,6 @@
       <guid isPermaLink="false">ep-2026-10-12</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-12/daily-briefing-2026-10-12.mp3" length="11217286" type="audio/mpeg"/>
       <itunes:duration>1122</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Sonntag, 11. Oktober 2026</title>
-      <description>Themen heute: Tödlicher Huthi-Angriff auf Flughafen in Riad (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel); Satya Nadella fordert Notbremse für KI-Modelle (Spiegel, Handelsblatt, FAZ, The Decoder, TechCrunch); Ermittlungen wegen Anschlagsplänen gegen Polens Regierungschef (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, Handelsblatt); CDU-Präsidiumsklausur berät über Parteikrise (Zeit Online, Deutschlandfunk, Tagesschau, Handelsblatt); Selenskyj weist Ablösungsforderung von Trump zurück (Deutschlandfunk, Handelsblatt, Tagesschau); Kritik an US-Diesel-Vereinbarung mit Russland (Spiegel, Handelsblatt, FAZ); Ukrainischer Angriff legt russisches Tech-Zentrum lahm (Tagesschau, Spiegel, Hacker News); Deutsche-Bank-Chef Sewing fordert schnellere Arbeitsmarktreformen (Deutschlandfunk, Manager Magazin, Spiegel); OpenAI und Anthropic berichten über unerwünschtes KI-Verhalten (The Decoder, Heise); Nvidia verhandelt über Kauf von Reflection AI (FAZ, Manager Magazin, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Sun, 11 Oct 2026 14:05:51 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-11</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-11/daily-briefing-2026-10-11.mp3" length="13157923" type="audio/mpeg"/>
-      <itunes:duration>1316</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

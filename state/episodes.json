@@ -1,14 +1,5 @@
 [
  {
-  "tag": "ep-2026-10-11",
-  "title": "Daily Briefing, Sonntag, 11. Oktober 2026",
-  "description": "Themen heute: Tödlicher Huthi-Angriff auf Flughafen in Riad (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel); Satya Nadella fordert Notbremse für KI-Modelle (Spiegel, Handelsblatt, FAZ, The Decoder, TechCrunch); Ermittlungen wegen Anschlagsplänen gegen Polens Regierungschef (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, Handelsblatt); CDU-Präsidiumsklausur berät über Parteikrise (Zeit Online, Deutschlandfunk, Tagesschau, Handelsblatt); Selenskyj weist Ablösungsforderung von Trump zurück (Deutschlandfunk, Handelsblatt, Tagesschau); Kritik an US-Diesel-Vereinbarung mit Russland (Spiegel, Handelsblatt, FAZ); Ukrainischer Angriff legt russisches Tech-Zentrum lahm (Tagesschau, Spiegel, Hacker News); Deutsche-Bank-Chef Sewing fordert schnellere Arbeitsmarktreformen (Deutschlandfunk, Manager Magazin, Spiegel); OpenAI und Anthropic berichten über unerwünschtes KI-Verhalten (The Decoder, Heise); Nvidia verhandelt über Kauf von Reflection AI (FAZ, Manager Magazin, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-10-11T14:05:51.960809+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-11/daily-briefing-2026-10-11.mp3",
-  "bytes": 13157923,
-  "duration": 1316
- },
- {
   "tag": "ep-2026-10-12",
   "title": "Daily Briefing, Montag, 12. Oktober 2026",
   "description": "Themen heute: CDU-Klausur zur Parteikrise und Führungsstreit (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, Spiegel); Bundesverfassungsgericht prüft Erbschaftsteuer (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt, FAZ); Brüchige Energie-Waffenruhe in der Ukraine (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); BDI-Warnung vor russischer Sabotage gegen Unternehmen (Deutschlandfunk, Zeit Online, Handelsblatt, Spiegel); Grenzen und Ineffizienz von KI-Agentenschwärmen (The Decoder); Widerstand gegen Trumps Diesel-Deal mit Moskau (Tagesschau, Spiegel, Handelsblatt); Huthi-Angriffe auf Flughäfen in Saudi-Arabien (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Nvidia verhandelt über Übernahme von Reflection AI (FAZ, Manager Magazin, WirtschaftsWoche); US-Justiz ermittelt gegen Sender nach Trump-Boykott (Deutschlandfunk, Spiegel, FAZ); Rücktritt von Arbeitsministerin Bärbel Bas (Spiegel). KI-generierte Zusammenfassung von Pressematerial.",
@@ -133,5 +124,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-25/daily-briefing-2026-10-25.mp3",
   "bytes": 10800110,
   "duration": 1080
+ },
+ {
+  "tag": "ep-2026-10-26",
+  "title": "Daily Briefing, Montag, 26. Oktober 2026",
+  "description": "Themen heute: Kritik an Audi-Chef nach Auftritt auf Trump-Wahlkampfveranstaltung (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel, Manager Magazin, Heise, Zeit Online, FAZ, WirtschaftsWoche); Präsidentenwahl in Brasilien: Lula gewinnt Stichwahl (Deutschlandfunk, Zeit Online, Handelsblatt, Tagesschau, Hacker News, Spiegel); Machtwechsel nach Parlamentswahl in Serbien (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Frasers Group übernimmt Mehrheit an Hugo Boss (FAZ, WirtschaftsWoche, Handelsblatt); Preiskampf bei KI-Sprachmodellen zwischen OpenAI und Anthropic (Hacker News, The Decoder); Asien-Reisen von Merz und Steinmeier (Zeit Online, Spiegel, Tagesschau); Rückkehr von Oppositionsführerin Machado nach Venezuela (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Wahlkampfauftakt von Le Pen und Massenproteste in Frankreich (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Streit über Finanzierung der Stromsteuersenkung (Deutschlandfunk, Tagesschau); Dobrindt plant Investitionsschutzgesetz gegen Wohnungsenteignungen (Deutschlandfunk, FAZ, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-10-26T05:45:11.870629+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-26/daily-briefing-2026-10-26.mp3",
+  "bytes": 10829890,
+  "duration": 1083
  }
 ]
