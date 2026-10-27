@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Dienstag, 27. Oktober 2026</title>
+      <description>Themen heute: B&amp;ouml;rsengang von Anthropic enth&amp;uuml;llt Rekordzahlen und Milliardenrisiken (Handelsblatt, Spiegel, Zeit Online, The Decoder, TechCrunch, Tagesschau, Heise, Manager Magazin, Hacker News); Audi-Chef Döllner wegen Trump-Auftritt unter Druck (Deutschlandfunk, Tagesschau, WirtschaftsWoche, Zeit Online, Handelsblatt, Spiegel, FAZ, Horizont, Manager Magazin); Parlamentswahl in Israel (Deutschlandfunk, Zeit Online, Spiegel, Tagesschau); Machtwechsel und Aufarbeitung nach der Wahl in Brasilien (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Microsoft bietet 60.000 Mitarbeitern Abfindungen an (Deutschlandfunk, Zeit Online, Handelsblatt, Heise, WirtschaftsWoche, Spiegel, FAZ, Hacker News); OpenAI ver&amp;ouml;ffentlicht GPT-6.1 Terra (The Decoder, Hacker News); Wahlsieg der Studentenliste in Serbien (Tagesschau, Deutschlandfunk); Waffenruhe in Oleschky und anhaltende K&amp;auml;mpfe in der Ukraine (Deutschlandfunk, Tagesschau, Spiegel); Bundesrechnungshof kritisiert Bahn-Sanierungen scharf (Deutschlandfunk, Spiegel, Zeit Online, FAZ); Start-up Helsing steigt in Drohnenabwehr ein (Handelsblatt, FAZ, WirtschaftsWoche, Spiegel). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Tue, 27 Oct 2026 05:46:34 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-10-27</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-27/daily-briefing-2026-10-27.mp3" length="11474592" type="audio/mpeg"/>
+      <itunes:duration>1147</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Montag, 26. Oktober 2026</title>
       <description>Themen heute: Kritik an Audi-Chef nach Auftritt auf Trump-Wahlkampfveranstaltung (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel, Manager Magazin, Heise, Zeit Online, FAZ, WirtschaftsWoche); Präsidentenwahl in Brasilien: Lula gewinnt Stichwahl (Deutschlandfunk, Zeit Online, Handelsblatt, Tagesschau, Hacker News, Spiegel); Machtwechsel nach Parlamentswahl in Serbien (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Frasers Group übernimmt Mehrheit an Hugo Boss (FAZ, WirtschaftsWoche, Handelsblatt); Preiskampf bei KI-Sprachmodellen zwischen OpenAI und Anthropic (Hacker News, The Decoder); Asien-Reisen von Merz und Steinmeier (Zeit Online, Spiegel, Tagesschau); Rückkehr von Oppositionsführerin Machado nach Venezuela (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Wahlkampfauftakt von Le Pen und Massenproteste in Frankreich (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Streit über Finanzierung der Stromsteuersenkung (Deutschlandfunk, Tagesschau); Dobrindt plant Investitionsschutzgesetz gegen Wohnungsenteignungen (Deutschlandfunk, FAZ, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Mon, 26 Oct 2026 05:45:11 +0000</pubDate>
@@ -124,24 +133,6 @@
       <guid isPermaLink="false">ep-2026-10-14</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-14/daily-briefing-2026-10-14.mp3" length="9921874" type="audio/mpeg"/>
       <itunes:duration>992</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Dienstag, 13. Oktober 2026</title>
-      <description>Themen heute: Rücktritt von Bärbel Bas und Folgen für die Koalition (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt, FAZ); IWF hebt Prognose für deutsche Wirtschaft an (Deutschlandfunk, Tagesschau, Spiegel, Zeit Online); Brand an Starlink-Station in Polen und Festnahmen in Deutschland (Deutschlandfunk, Tagesschau, Spiegel); Eskalation im Nahen Osten und Angriffe auf Saudi-Arabien (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Metas neues KI-Modell Muse Wonder (Social Media Today, The Decoder, TechCrunch, Hacker News); Cyberangriff legt Kühlsysteme französischer Supermärkte lahm (Deutschlandfunk, FAZ, Manager Magazin, Heise); Bundesverfassungsgericht prüft Erbschaftsteuer (Deutschlandfunk, Handelsblatt, FAZ, Spiegel); Microsoft plant Großangriff mit eigenen Maia-KI-Chips (The Decoder, Heise). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Tue, 13 Oct 2026 04:27:03 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-13</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-13/daily-briefing-2026-10-13.mp3" length="3746004" type="audio/mpeg"/>
-      <itunes:duration>375</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Montag, 12. Oktober 2026</title>
-      <description>Themen heute: CDU-Klausur zur Parteikrise und Führungsstreit (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, Spiegel); Bundesverfassungsgericht prüft Erbschaftsteuer (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt, FAZ); Brüchige Energie-Waffenruhe in der Ukraine (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); BDI-Warnung vor russischer Sabotage gegen Unternehmen (Deutschlandfunk, Zeit Online, Handelsblatt, Spiegel); Grenzen und Ineffizienz von KI-Agentenschwärmen (The Decoder); Widerstand gegen Trumps Diesel-Deal mit Moskau (Tagesschau, Spiegel, Handelsblatt); Huthi-Angriffe auf Flughäfen in Saudi-Arabien (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Nvidia verhandelt über Übernahme von Reflection AI (FAZ, Manager Magazin, WirtschaftsWoche); US-Justiz ermittelt gegen Sender nach Trump-Boykott (Deutschlandfunk, Spiegel, FAZ); Rücktritt von Arbeitsministerin Bärbel Bas (Spiegel). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Mon, 12 Oct 2026 06:22:34 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-12</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-12/daily-briefing-2026-10-12.mp3" length="11217286" type="audio/mpeg"/>
-      <itunes:duration>1122</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
