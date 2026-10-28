@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Mittwoch, 28. Oktober 2026</title>
+      <description>Themen heute: Patt-Situation nach Parlamentswahl in Israel (Zeit Online, Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Anthropic bereitet Börsengang vor und legt Zahlen offen (TechCrunch, FAZ, Heise, Handelsblatt, The Decoder, Manager Magazin); Flávio Bolsonaro flieht trotz Ausreiseverbots in die USA (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Kritik an Audi-Chef Döllner nach Trump-Auftritt (Zeit Online, FAZ, Spiegel, WirtschaftsWoche); Mercedes-Benz senkt Gewinnprognose spürbar (Handelsblatt, WirtschaftsWoche, Manager Magazin, Spiegel); Tarifstreit in der Metall- und Elektroindustrie eskaliert (FAZ, Tagesschau, Handelsblatt, Spiegel); Google DeepMind stellt KI-Weltmodell Genie 4 vor (The Decoder, TechCrunch, Google DeepMind); Ausweitung der Waffenruhe bei Oleschky in der Ukraine (Deutschlandfunk, Spiegel, Handelsblatt); Suche nach Atommüll-Endlager eingegrenzt (Tagesschau, FAZ, Deutschlandfunk); EU plant deutlichen Ausbau der Grenzschutzagentur Frontex (Heise, Tagesschau, Deutschlandfunk). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Wed, 28 Oct 2026 05:41:33 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-10-28</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-28/daily-briefing-2026-10-28.mp3" length="11942184" type="audio/mpeg"/>
+      <itunes:duration>1194</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Dienstag, 27. Oktober 2026</title>
       <description>Themen heute: B&amp;ouml;rsengang von Anthropic enth&amp;uuml;llt Rekordzahlen und Milliardenrisiken (Handelsblatt, Spiegel, Zeit Online, The Decoder, TechCrunch, Tagesschau, Heise, Manager Magazin, Hacker News); Audi-Chef Döllner wegen Trump-Auftritt unter Druck (Deutschlandfunk, Tagesschau, WirtschaftsWoche, Zeit Online, Handelsblatt, Spiegel, FAZ, Horizont, Manager Magazin); Parlamentswahl in Israel (Deutschlandfunk, Zeit Online, Spiegel, Tagesschau); Machtwechsel und Aufarbeitung nach der Wahl in Brasilien (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Microsoft bietet 60.000 Mitarbeitern Abfindungen an (Deutschlandfunk, Zeit Online, Handelsblatt, Heise, WirtschaftsWoche, Spiegel, FAZ, Hacker News); OpenAI ver&amp;ouml;ffentlicht GPT-6.1 Terra (The Decoder, Hacker News); Wahlsieg der Studentenliste in Serbien (Tagesschau, Deutschlandfunk); Waffenruhe in Oleschky und anhaltende K&amp;auml;mpfe in der Ukraine (Deutschlandfunk, Tagesschau, Spiegel); Bundesrechnungshof kritisiert Bahn-Sanierungen scharf (Deutschlandfunk, Spiegel, Zeit Online, FAZ); Start-up Helsing steigt in Drohnenabwehr ein (Handelsblatt, FAZ, WirtschaftsWoche, Spiegel). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Tue, 27 Oct 2026 05:46:34 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-10-15</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-15/daily-briefing-2026-10-15.mp3" length="10101857" type="audio/mpeg"/>
       <itunes:duration>1010</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Mittwoch, 14. Oktober 2026</title>
-      <description>Themen heute: Verfassungsgericht verhandelt ueber Privilegien bei der Erbschaftsteuer (Deutschlandfunk, Tagesschau, FAZ, Handelsblatt, Spiegel, Zeit Online); Festnahme wegen Spionage und Abhoergeraet bei OpenAI (Zeit Online, FAZ, Spiegel, Handelsblatt, Hacker News); Koalitionseinigung auf Einfuehrung einer Zuckersteuer (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt, FAZ); Abbruch der Berliner Sondierungen wegen Antisemitismusstreit (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, Handelsblatt); Papst Leo an Lungenkrebs erkrankt (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Insolvenzgeld fuer zehntausend Beschaeftigte bei Galeria (Handelsblatt, Tagesschau, Zeit Online, FAZ, WirtschaftsWoche, Manager Magazin, Spiegel); Absatzeinbruch der deutschen Autoindustrie in China (Handelsblatt, Tagesschau, WirtschaftsWoche, FAZ, Manager Magazin); Google stellt Spitzenmodell Gemini 4 Argon vor (The Decoder, Hacker News, Google DeepMind); Insolvenz und Zerschlagung des KI-Startups Character.ai (Heise, The Decoder, TechCrunch, Hacker News); Anthropic meldet Abwehr von Reasoning-Diebstahl und warnt vor IoT-Replikation (The Decoder, Heise, WirtschaftsWoche, Claude Code Releases). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Wed, 14 Oct 2026 04:31:40 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-14</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-14/daily-briefing-2026-10-14.mp3" length="9921874" type="audio/mpeg"/>
-      <itunes:duration>992</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
