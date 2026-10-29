@@ -1,14 +1,5 @@
 [
  {
-  "tag": "ep-2026-10-15",
-  "title": "Daily Briefing, Donnerstag, 15. Oktober 2026",
-  "description": "Themen heute: US-Ukraine-Krise um Starlink-Drosselung und Aufklärungshilfen (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt, Zeit Online); Lufthansa gewinnt Bieterrennen um staatliche TAP Air Portugal (Tagesschau, Zeit Online, FAZ, Handelsblatt, Manager Magazin, WirtschaftsWoche, Spiegel); EU-Gipfel zum Gemeinschaftshaushalt bis 2034 (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel); Prozessauftakt um Sabotage der Nord-Stream-Pipelines (Tagesschau, Deutschlandfunk); Rekord-Handelsdefizit mit China bei boomenden Exporten aus Peking (Handelsblatt, FAZ, Tagesschau, Spiegel, Zeit Online); US-Inflation steigt auf 3,7 Prozent und treibt Anleiherenditen (Handelsblatt, FAZ, Tagesschau, Zeit Online); Kabinett beschliesst Zwei-Stufen-Zuckersteuer ab Juli 2027 (Tagesschau, WirtschaftsWoche, Spiegel, FAZ); Kerosin-Versorgungsengpass am Frankfurter Flughafen (Deutschlandfunk, Spiegel, Zeit Online, FAZ, Handelsblatt); Anthropic meldet Quartalsrekord und aktualisiert Claude Code (Handelsblatt, Claude Code Releases); Netflix kuendigt Entlassung von 1.000 Mitarbeitern an (Heise, Spiegel, Manager Magazin, FAZ, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-10-15T04:21:36.886216+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-15/daily-briefing-2026-10-15.mp3",
-  "bytes": 10101857,
-  "duration": 1010
- },
- {
   "tag": "ep-2026-10-16",
   "title": "Daily Briefing, Freitag, 16. Oktober 2026",
   "description": "Themen heute: UniCredit erhält EZB-Grünes Licht für Commerzbank-Übernahme (Deutschlandfunk, Tagesschau, Handelsblatt, Zeit Online, FAZ, Spiegel); EU-Gipfel: Merz und Macron einigen sich auf Autopakt und Verbrenner-Aufweichung (Tagesschau, Handelsblatt, FAZ, Spiegel, Handelsblatt, FAZ); Nvidia-Kooperation mit der Bundesregierung für KI in der Industrie (Manager Magazin, Handelsblatt, Handelsblatt); Bundestag beschließt Erhöhung der Tabaksteuer (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel, WirtschaftsWoche); EuGH-Urteil zu Phishing und Kontobetrug (Heise, Spiegel, Tagesschau, Zeit Online, Spiegel); Mittelstand verlagert Produktion ins Ausland (Handelsblatt, Handelsblatt); Lufthansa übernimmt TAP Air Portugal (Handelsblatt, Manager Magazin, WirtschaftsWoche, Manager Magazin); Siemens erhält Rekordauftrag für Batteriezüge aus Niedersachsen (Manager Magazin, Handelsblatt, Handelsblatt); Meta veröffentlicht Open-Weight-Modell Muse Spark Open (TechCrunch, The Decoder, Hacker News, The Decoder); Anthropic vor dem Börsengang: Umsatzwachstum und verringerte Valuation-Erwartungen (Handelsblatt, The Decoder, Manager Magazin). KI-generierte Zusammenfassung von Pressematerial.",
@@ -124,5 +115,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-28/daily-briefing-2026-10-28.mp3",
   "bytes": 11942184,
   "duration": 1194
+ },
+ {
+  "tag": "ep-2026-10-29",
+  "title": "Daily Briefing, Donnerstag, 29. Oktober 2026",
+  "description": "Themen heute: Schweres Zugunglueck in Spanien (Deutschlandfunk, Zeit Online, Spiegel, Tagesschau); Mercedes-Benz mit Gewinnwarnung und China-Krise (Handelsblatt, FAZ, Tagesschau); BASF plant Evonik-Uebernahme und erhoeht Gewinnprognose (WirtschaftsWoche, FAZ, Handelsblatt, Spiegel, Manager Magazin); Google stellt KI-Modell Gemini 4 Carbon vor (Heise, The Decoder, Hacker News, Google DeepMind); Microsoft waechst stark durch Cloud- und KI-Geschaeft (Heise, FAZ, Manager Magazin, TechCrunch, Handelsblatt); Flucht und Wahlsieger-Erklaerung von Flavio Bolsonaro (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Israel-Wahl ohne klare Mehrheit (Tagesschau, Spiegel, Deutschlandfunk); Kanzler Merz auf Asienreise (Deutschlandfunk, Tagesschau, FAZ, Spiegel); US-Notenbank Fed belaesst Leitzins unveraendert (Deutschlandfunk, Handelsblatt, Spiegel, Zeit Online); Wirbel um Auftritt von Audi-CEO Doellner mit Trump (Zeit Online, Handelsblatt, WirtschaftsWoche, Manager Magazin). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-10-29T05:35:00.675720+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-29/daily-briefing-2026-10-29.mp3",
+  "bytes": 10767457,
+  "duration": 1077
  }
 ]
