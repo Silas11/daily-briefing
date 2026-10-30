@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Freitag, 30. Oktober 2026</title>
+      <description>Themen heute: Volkswagen im Krisenstrudel: Milliardenverlust und Audi-Eklat (WirtschaftsWoche, Spiegel, Handelsblatt, FAZ, Tagesschau, Manager Magazin); Europäische Zentralbank: Leitzins unverändert und vorzeitiger Rückzug von Lagarde (Deutschlandfunk, Tagesschau, Handelsblatt, Zeit Online, Spiegel); Ukraine-Krieg: Waffenruhe in Oleschky und Druck auf Raffinerie-Angriffe (Deutschlandfunk, Zeit Online, Handelsblatt, Spiegel); Big-Tech-Quartalszahlen: Enorme KI-Ausgaben belasten Alphabet, Amazon und Intel (Heise, TechCrunch, FAZ, Handelsblatt, Spiegel, The Decoder, Manager Magazin); Schwarz-Gruppe investiert Milliarden in kanadisches KI-Start-up Cohere (Handelsblatt, Zeit Online, Heise, WirtschaftsWoche); Anthropic: Börsengang-Vorbereitungen und Studie zu Meinungsübernahme durch KI (The Decoder, Zeit Online, Handelsblatt, FAZ); Parlamentswahl in Israel: Politisches Patt und Betrugsvorwürfe (Deutschlandfunk, Tagesschau, Spiegel); EU-Kanada-Gipfel: Merz stoppt Assoziierungsplan von der Leyens (Deutschlandfunk, Spiegel, Tagesschau); Bundesweite Jugendproteste: Politik warnt und Einzelhandel wappnet sich (Zeit Online, Deutschlandfunk, Spiegel, Tagesschau, FAZ); Berliner Regierungskrise: Eralp-Kontroverse um interne Kommunikation (Deutschlandfunk, Spiegel, Handelsblatt, Tagesschau). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Fri, 30 Oct 2026 05:30:32 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-10-30</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-30/daily-briefing-2026-10-30.mp3" length="11300094" type="audio/mpeg"/>
+      <itunes:duration>1130</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Donnerstag, 29. Oktober 2026</title>
       <description>Themen heute: Schweres Zugunglueck in Spanien (Deutschlandfunk, Zeit Online, Spiegel, Tagesschau); Mercedes-Benz mit Gewinnwarnung und China-Krise (Handelsblatt, FAZ, Tagesschau); BASF plant Evonik-Uebernahme und erhoeht Gewinnprognose (WirtschaftsWoche, FAZ, Handelsblatt, Spiegel, Manager Magazin); Google stellt KI-Modell Gemini 4 Carbon vor (Heise, The Decoder, Hacker News, Google DeepMind); Microsoft waechst stark durch Cloud- und KI-Geschaeft (Heise, FAZ, Manager Magazin, TechCrunch, Handelsblatt); Flucht und Wahlsieger-Erklaerung von Flavio Bolsonaro (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Israel-Wahl ohne klare Mehrheit (Tagesschau, Spiegel, Deutschlandfunk); Kanzler Merz auf Asienreise (Deutschlandfunk, Tagesschau, FAZ, Spiegel); US-Notenbank Fed belaesst Leitzins unveraendert (Deutschlandfunk, Handelsblatt, Spiegel, Zeit Online); Wirbel um Auftritt von Audi-CEO Doellner mit Trump (Zeit Online, Handelsblatt, WirtschaftsWoche, Manager Magazin). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Thu, 29 Oct 2026 05:35:00 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-10-17</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-17/daily-briefing-2026-10-17.mp3" length="10708159" type="audio/mpeg"/>
       <itunes:duration>1071</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Freitag, 16. Oktober 2026</title>
-      <description>Themen heute: UniCredit erhält EZB-Grünes Licht für Commerzbank-Übernahme (Deutschlandfunk, Tagesschau, Handelsblatt, Zeit Online, FAZ, Spiegel); EU-Gipfel: Merz und Macron einigen sich auf Autopakt und Verbrenner-Aufweichung (Tagesschau, Handelsblatt, FAZ, Spiegel, Handelsblatt, FAZ); Nvidia-Kooperation mit der Bundesregierung für KI in der Industrie (Manager Magazin, Handelsblatt, Handelsblatt); Bundestag beschließt Erhöhung der Tabaksteuer (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel, WirtschaftsWoche); EuGH-Urteil zu Phishing und Kontobetrug (Heise, Spiegel, Tagesschau, Zeit Online, Spiegel); Mittelstand verlagert Produktion ins Ausland (Handelsblatt, Handelsblatt); Lufthansa übernimmt TAP Air Portugal (Handelsblatt, Manager Magazin, WirtschaftsWoche, Manager Magazin); Siemens erhält Rekordauftrag für Batteriezüge aus Niedersachsen (Manager Magazin, Handelsblatt, Handelsblatt); Meta veröffentlicht Open-Weight-Modell Muse Spark Open (TechCrunch, The Decoder, Hacker News, The Decoder); Anthropic vor dem Börsengang: Umsatzwachstum und verringerte Valuation-Erwartungen (Handelsblatt, The Decoder, Manager Magazin). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Fri, 16 Oct 2026 04:31:49 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-16</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-16/daily-briefing-2026-10-16.mp3" length="8663555" type="audio/mpeg"/>
-      <itunes:duration>866</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
