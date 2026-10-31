@@ -1,14 +1,5 @@
 [
  {
-  "tag": "ep-2026-10-17",
-  "title": "Daily Briefing, Samstag, 17. Oktober 2026",
-  "description": "Themen heute: Trump setzt Russland-Sanktionen per Dekret aus (Deutschlandfunk, Spiegel, Zeit Online, Handelsblatt); Deutsch-franzoesische Einigung auf Aufweichung des Verbrenner-Aus (Deutschlandfunk, Zeit Online, Tagesschau, FAZ); EZB genehmigt UniCredit-Einstieg bei der Commerzbank (Tagesschau, Handelsblatt, Manager Magazin, WirtschaftsWoche); Bundesregierung plant KI-Kooperation mit Nvidia (Zeit Online, Tagesschau, FAZ, Spiegel, Handelsblatt); EU-Gipfel: Milliardenhilfe fuer Ukraine und Loesung fuer Starlink-Ausfaelle (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Druck auf Bundeskanzler Merz beim Deutschlandtag der Jungen Union (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt, FAZ); Kerosinkrise durch Iran-Krieg: Eurowings streicht Fluege und prueft Kurzarbeit (Zeit Online, Tagesschau, Handelsblatt, WirtschaftsWoche, Manager Magazin, Spiegel); Anthropic veroeffentlicht Claude Code Update und oeffnet sich externen Sicherheitspruefungen (Claude Code Releases, The Decoder, Hacker News); Bundestag beschliesst Fruehstartrente fuer Kinder (Deutschlandfunk, Handelsblatt, Spiegel, Zeit Online, Tagesschau); Debatte ueber Benachteiligung gesetzlich Versicherter bei Arztterminen (Tagesschau, Deutschlandfunk, Spiegel). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-10-17T04:21:35.115972+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-17/daily-briefing-2026-10-17.mp3",
-  "bytes": 10708159,
-  "duration": 1071
- },
- {
   "tag": "ep-2026-10-18",
   "title": "Daily Briefing, Sonntag, 18. Oktober 2026",
   "description": "Themen heute: Schwere Ausschreitungen bei Massenprotesten in Frankreich und Europa (Deutschlandfunk, Zeit Online, Spiegel, Tagesschau, Handelsblatt, FAZ); Trump stoppt beschlossene Russland-Sanktionen per Dekret (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, Handelsblatt); Berliner Sondierung für Rot-Grün-Rot und Wohnungsenteignungen (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Anthropics Claude löst 25 Jahre altes NSA-Kryptografie-Rätsel (The Decoder); Merz zieht Brandmauer auf JU-Deutschlandtag (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt); Eskalierende Gewalt israelischer Siedler im Westjordanland (Deutschlandfunk, Tagesschau, Spiegel); Ukraine meldet Drohnenangriffe und beklagt Starlink-Drosselung (Deutschlandfunk, Spiegel, Heise); Reformdebatte um Facharzttermine und Duales Krankenversicherungssystem (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, Spiegel); OpenAI dokumentiert autonome Grenzüberschreitungen durch KI-Agenten (The Decoder); Koalitionsstreit im Bund nach Rücktritt von Bärbel Bas (Tagesschau, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.",
@@ -124,5 +115,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-30/daily-briefing-2026-10-30.mp3",
   "bytes": 11300094,
   "duration": 1130
+ },
+ {
+  "tag": "ep-2026-10-31",
+  "title": "Daily Briefing, Samstag, 31. Oktober 2026",
+  "description": "Themen heute: Sparzwang bei Volkswagen: Entwicklung des ID.Golf vorerst gestoppt (Deutschlandfunk, Manager Magazin, Heise, Handelsblatt, WirtschaftsWoche, FAZ); Audi-Krise: Gewinneinbruch um 87 Prozent und Nachspiel für Chef Döllner nach Trump-Auftritt (Heise, WirtschaftsWoche, Handelsblatt, FAZ, Deutschlandfunk, Manager Magazin, Tagesschau); Rekord-Hackerangriff auf Binance: 6,3 Milliarden Dollar aus Hot Wallet entwendet (Deutschlandfunk, Tagesschau, Manager Magazin, Spiegel, Handelsblatt, Hacker News); G20-Außenministertreffen in Atlanta von tiefen Gräben und Lawrow-Auftritt überschattet (Deutschlandfunk, Spiegel, Handelsblatt, Tagesschau); Juristische Härte und Ermittlungen im Vorfeld der US-Midterms (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Turbulenzen an den US-Börsen: Historischer Absturz der Intel-Aktie zieht Tech-Sektor mit (TechCrunch, Handelsblatt, Tagesschau, WirtschaftsWoche, Zeit Online, Manager Magazin); Deutsche Wirtschaft wächst im dritten Quartal überraschend um 0,2 Prozent (FAZ, Handelsblatt, Spiegel, Tagesschau, Zeit Online); Inflationsrate in Deutschland sinkt im Oktober auf 2,8 Prozent (Tagesschau, Spiegel, Zeit Online, Handelsblatt, WirtschaftsWoche); Backdoor in Claude-Code-Erweiterung auf Cursor-Marketplace entdeckt (The Decoder, Heise, Hacker News); Bundesweite Jugendproteste der Initiative Gen Z regelt (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-10-31T05:37:42.259866+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-31/daily-briefing-2026-10-31.mp3",
+  "bytes": 11614608,
+  "duration": 1161
  }
 ]
