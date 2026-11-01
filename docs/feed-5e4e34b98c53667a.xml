@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Sonntag, 1. November 2026</title>
+      <description>Themen heute: Bundesweite Ausschreitungen nach Protesten von Gen Z regelt (Tagesschau, Spiegel, Deutschlandfunk, Zeit Online, Handelsblatt, FAZ, WirtschaftsWoche); IG Metall startet bundesweite Warnstreiks in der Industrie (Tagesschau, Deutschlandfunk, Handelsblatt, FAZ, WirtschaftsWoche); OpenAI verfehlt Finanzierungsziel und senkt Bewertungserwartung (The Decoder, Handelsblatt, TechCrunch, FAZ); Machtkampf um das polnische Verfassungsgericht eskaliert (Tagesschau, Deutschlandfunk, Spiegel, Handelsblatt); FBI belastet Nordkorea fuer Milliarden-Hackerangriff auf Kryptoboerse Binance (Deutschlandfunk, Tagesschau, FAZ, Spiegel); Microsoft streicht bis zu 60000 Stellen fuer KI-Milliardeninvestitionen (The Decoder, WirtschaftsWoche); Anthropic: Claude-Updates zu Wasserzeichen, Modellsicherheit und Pharma (The Decoder, Hacker News); Massenproteste in Frankreich und Italien gegen Bildungsmissstaende und Teuerung (Deutschlandfunk, Tagesschau, Spiegel); G20-Aussenministertreffen in Atlanta und Kontroverse um Sergej Lawrow (Handelsblatt, Spiegel, Deutschlandfunk); Berliner Linke beschliesst Koalitionsverhandlungen fuer Rot-Gruen-Rot (Tagesschau, Deutschlandfunk, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Sun, 01 Nov 2026 05:22:19 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-01</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-01/daily-briefing-2026-11-01.mp3" length="10801416" type="audio/mpeg"/>
+      <itunes:duration>1080</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Samstag, 31. Oktober 2026</title>
       <description>Themen heute: Sparzwang bei Volkswagen: Entwicklung des ID.Golf vorerst gestoppt (Deutschlandfunk, Manager Magazin, Heise, Handelsblatt, WirtschaftsWoche, FAZ); Audi-Krise: Gewinneinbruch um 87 Prozent und Nachspiel für Chef Döllner nach Trump-Auftritt (Heise, WirtschaftsWoche, Handelsblatt, FAZ, Deutschlandfunk, Manager Magazin, Tagesschau); Rekord-Hackerangriff auf Binance: 6,3 Milliarden Dollar aus Hot Wallet entwendet (Deutschlandfunk, Tagesschau, Manager Magazin, Spiegel, Handelsblatt, Hacker News); G20-Außenministertreffen in Atlanta von tiefen Gräben und Lawrow-Auftritt überschattet (Deutschlandfunk, Spiegel, Handelsblatt, Tagesschau); Juristische Härte und Ermittlungen im Vorfeld der US-Midterms (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Turbulenzen an den US-Börsen: Historischer Absturz der Intel-Aktie zieht Tech-Sektor mit (TechCrunch, Handelsblatt, Tagesschau, WirtschaftsWoche, Zeit Online, Manager Magazin); Deutsche Wirtschaft wächst im dritten Quartal überraschend um 0,2 Prozent (FAZ, Handelsblatt, Spiegel, Tagesschau, Zeit Online); Inflationsrate in Deutschland sinkt im Oktober auf 2,8 Prozent (Tagesschau, Spiegel, Zeit Online, Handelsblatt, WirtschaftsWoche); Backdoor in Claude-Code-Erweiterung auf Cursor-Marketplace entdeckt (The Decoder, Heise, Hacker News); Bundesweite Jugendproteste der Initiative Gen Z regelt (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Sat, 31 Oct 2026 05:37:42 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-10-19</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-19/daily-briefing-2026-10-19.mp3" length="10719392" type="audio/mpeg"/>
       <itunes:duration>1072</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Sonntag, 18. Oktober 2026</title>
-      <description>Themen heute: Schwere Ausschreitungen bei Massenprotesten in Frankreich und Europa (Deutschlandfunk, Zeit Online, Spiegel, Tagesschau, Handelsblatt, FAZ); Trump stoppt beschlossene Russland-Sanktionen per Dekret (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, Handelsblatt); Berliner Sondierung für Rot-Grün-Rot und Wohnungsenteignungen (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Anthropics Claude löst 25 Jahre altes NSA-Kryptografie-Rätsel (The Decoder); Merz zieht Brandmauer auf JU-Deutschlandtag (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt); Eskalierende Gewalt israelischer Siedler im Westjordanland (Deutschlandfunk, Tagesschau, Spiegel); Ukraine meldet Drohnenangriffe und beklagt Starlink-Drosselung (Deutschlandfunk, Spiegel, Heise); Reformdebatte um Facharzttermine und Duales Krankenversicherungssystem (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, Spiegel); OpenAI dokumentiert autonome Grenzüberschreitungen durch KI-Agenten (The Decoder); Koalitionsstreit im Bund nach Rücktritt von Bärbel Bas (Tagesschau, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Sun, 18 Oct 2026 04:25:46 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-18</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-18/daily-briefing-2026-10-18.mp3" length="11424176" type="audio/mpeg"/>
-      <itunes:duration>1142</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
