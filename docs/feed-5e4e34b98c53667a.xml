@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Montag, 2. November 2026</title>
+      <description>Themen heute: Debatte und politische Kontroverse nach Ausschreitungen bei Gen-Z-Protesten (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, FAZ, Handelsblatt); BSI-Warnung vor Spähsoftware auf iPhones von Spitzenpolitikern (Deutschlandfunk, Heise, Spiegel, Tagesschau); Bundesweite Ausweitung der IG-Metall-Warnstreiks (Deutschlandfunk, Tagesschau, Spiegel, FAZ, WirtschaftsWoche); Start der Koalitionsverhandlungen in Berlin und Gegenwind aus der Bundes-SPD (Deutschlandfunk, Tagesschau, Spiegel); Cyberangriffe auf Notfall-Apps und Ende lokaler Waffenruhe im Ukraine-Krieg (Tagesschau, Handelsblatt, Spiegel, Deutschlandfunk); FBI identifiziert Nordkorea hinter Milliarden-Diebstahl bei Binance (Handelsblatt, Heise, Manager Magazin, FAZ); Deutsche Gasspeicher verfehlen gesetzliche Füllstandsvorgabe (Tagesschau, Zeit Online); Digitalgipfel der Bundesregierung zur europäischen KI-Strategie (Tagesschau, Spiegel, FAZ); OpenAI verschärft Gerätelimits und vereint Kontingente bei ChatGPT (The Decoder); Eskalierender Richtungsstreit bei US-Demokraten vor den Midterms (Spiegel, Handelsblatt, FAZ, Deutschlandfunk). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Mon, 02 Nov 2026 05:29:51 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-02</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-02/daily-briefing-2026-11-02.mp3" length="10927849" type="audio/mpeg"/>
+      <itunes:duration>1093</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Sonntag, 1. November 2026</title>
       <description>Themen heute: Bundesweite Ausschreitungen nach Protesten von Gen Z regelt (Tagesschau, Spiegel, Deutschlandfunk, Zeit Online, Handelsblatt, FAZ, WirtschaftsWoche); IG Metall startet bundesweite Warnstreiks in der Industrie (Tagesschau, Deutschlandfunk, Handelsblatt, FAZ, WirtschaftsWoche); OpenAI verfehlt Finanzierungsziel und senkt Bewertungserwartung (The Decoder, Handelsblatt, TechCrunch, FAZ); Machtkampf um das polnische Verfassungsgericht eskaliert (Tagesschau, Deutschlandfunk, Spiegel, Handelsblatt); FBI belastet Nordkorea fuer Milliarden-Hackerangriff auf Kryptoboerse Binance (Deutschlandfunk, Tagesschau, FAZ, Spiegel); Microsoft streicht bis zu 60000 Stellen fuer KI-Milliardeninvestitionen (The Decoder, WirtschaftsWoche); Anthropic: Claude-Updates zu Wasserzeichen, Modellsicherheit und Pharma (The Decoder, Hacker News); Massenproteste in Frankreich und Italien gegen Bildungsmissstaende und Teuerung (Deutschlandfunk, Tagesschau, Spiegel); G20-Aussenministertreffen in Atlanta und Kontroverse um Sergej Lawrow (Handelsblatt, Spiegel, Deutschlandfunk); Berliner Linke beschliesst Koalitionsverhandlungen fuer Rot-Gruen-Rot (Tagesschau, Deutschlandfunk, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Sun, 01 Nov 2026 05:22:19 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-10-20</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-20/daily-briefing-2026-10-20.mp3" length="10661661" type="audio/mpeg"/>
       <itunes:duration>1066</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Montag, 19. Oktober 2026</title>
-      <description>Themen heute: Eskalation der Sozialproteste und Krawalle in Frankreich (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Handelsblatt, FAZ); Russischer Krieg gegen die Ukraine und Unsicherheit über US-Kurs (Zeit Online, Deutschlandfunk, Handelsblatt, Spiegel, Tagesschau); Bundesregierung lädt zum Investitionsgipfel in Berlin (Zeit Online, Handelsblatt); Anthropic richtet Gemeinwohl-Fonds ein und ersetzt Nachwuchskräfte durch KI-Agenten (Handelsblatt, TechCrunch, FAZ, The Decoder); Sondierungen für Rot-Grün-Rot in Berlin und Enteignungspläne (Deutschlandfunk, Zeit Online, Spiegel, Tagesschau, FAZ, Handelsblatt); Koalitionsstreit über Zeitplan und Details der Rentenreform (Tagesschau, Handelsblatt, FAZ); Deutsches Gerichtsurteil zur Haftung von Google für KI-Fehlinformationen (The Decoder); Hubertus Heil erwägt Kandidatur für den SPD-Parteivorsitz (Deutschlandfunk, Spiegel, Handelsblatt); Umstrittener US-Russland-Dieseldeal und türkische Importpläne (FAZ, Spiegel, Handelsblatt); Airbus dringt auf Führungsrolle bei neuem europäischem Kampfflugzeug (Handelsblatt, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Mon, 19 Oct 2026 04:23:07 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-19</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-19/daily-briefing-2026-10-19.mp3" length="10719392" type="audio/mpeg"/>
-      <itunes:duration>1072</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
