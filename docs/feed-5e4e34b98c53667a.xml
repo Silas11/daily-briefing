@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Dienstag, 3. November 2026</title>
+      <description>Themen heute: US-Midterms: Entscheidende Kongresswahlen (Zeit Online, Spiegel, Deutschlandfunk, Tagesschau, Handelsblatt); Militärschläge in der Straße von Hormus (WirtschaftsWoche, Tagesschau, Deutschlandfunk, Handelsblatt); Anthropic meldet Umsatzplus und Milliardenverlust vor Börsengang (Hacker News, Handelsblatt, Spiegel, Heise, Zeit Online, Manager Magazin, FAZ, The Decoder); Neue Verhandlungsrunde im Ukraine-Krieg angekündigt (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Marvell übernimmt Lumentum für 115 Milliarden Dollar (Manager Magazin, WirtschaftsWoche, Handelsblatt); Mittelabfluss bei Binance nach Krypto-Hackerangriff (Deutschlandfunk, Handelsblatt, Spiegel, Manager Magazin, Tagesschau); Cyberangriffe auf europäischen Lebensmittelhandel (Tagesschau, WirtschaftsWoche, Handelsblatt, FAZ, Manager Magazin); Neue Regeln und Updates bei Claude Code (Claude Code Releases, Heise); Unternehmen begrenzen Einsatz von KI-Coding-Agenten (The Decoder, TechCrunch, Handelsblatt); Nachwehen der Gen-Z-Jugendproteste (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Tue, 03 Nov 2026 05:27:10 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-03</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-03/daily-briefing-2026-11-03.mp3" length="10817351" type="audio/mpeg"/>
+      <itunes:duration>1082</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Montag, 2. November 2026</title>
       <description>Themen heute: Debatte und politische Kontroverse nach Ausschreitungen bei Gen-Z-Protesten (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, FAZ, Handelsblatt); BSI-Warnung vor Spähsoftware auf iPhones von Spitzenpolitikern (Deutschlandfunk, Heise, Spiegel, Tagesschau); Bundesweite Ausweitung der IG-Metall-Warnstreiks (Deutschlandfunk, Tagesschau, Spiegel, FAZ, WirtschaftsWoche); Start der Koalitionsverhandlungen in Berlin und Gegenwind aus der Bundes-SPD (Deutschlandfunk, Tagesschau, Spiegel); Cyberangriffe auf Notfall-Apps und Ende lokaler Waffenruhe im Ukraine-Krieg (Tagesschau, Handelsblatt, Spiegel, Deutschlandfunk); FBI identifiziert Nordkorea hinter Milliarden-Diebstahl bei Binance (Handelsblatt, Heise, Manager Magazin, FAZ); Deutsche Gasspeicher verfehlen gesetzliche Füllstandsvorgabe (Tagesschau, Zeit Online); Digitalgipfel der Bundesregierung zur europäischen KI-Strategie (Tagesschau, Spiegel, FAZ); OpenAI verschärft Gerätelimits und vereint Kontingente bei ChatGPT (The Decoder); Eskalierender Richtungsstreit bei US-Demokraten vor den Midterms (Spiegel, Handelsblatt, FAZ, Deutschlandfunk). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Mon, 02 Nov 2026 05:29:51 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-10-21</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-21/daily-briefing-2026-10-21.mp3" length="11472241" type="audio/mpeg"/>
       <itunes:duration>1147</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Dienstag, 20. Oktober 2026</title>
-      <description>Themen heute: Gewaltsame Proteste und Ausgangssperren in Frankreich und Italien (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, Manager Magazin, Handelsblatt); VW-Vorstand plant weltweiten Gehaltsstopp bis 2030 (Spiegel, Handelsblatt, FAZ, Tagesschau, WirtschaftsWoche, Zeit Online, Manager Magazin); Gipfel 'Invest in Germany' und KI-Allianzen mit Nvidia und Siemens (Zeit Online, Deutschlandfunk, Heise, Handelsblatt, Spiegel, Tagesschau, FAZ, WirtschaftsWoche); Rot-Grün-Rot in Berlin und geplante Wohnungs-Enteignungen (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel, FAZ, Manager Magazin, Zeit Online); Konflikt um US-Waffenlieferungen und Debatte über Dreiertreffen mit Putin (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Anthropic plant 5-Prozent-Gemeinwohlfonds vor Börsengang (TechCrunch, Manager Magazin, Spiegel, FAZ, The Decoder, Zeit Online); Deutsche Telekom und Partner planen europäisches Satellitennetz (Zeit Online, Heise, Manager Magazin, WirtschaftsWoche, FAZ); Sanofi baut Insulinfabrik in Frankfurt, Roche stoppt Investitionen (FAZ, WirtschaftsWoche, Handelsblatt); China verschärft Exportkontrollen für Schlüsseltechnologien (Heise, FAZ); Claude Code Release 2.1.304 und Sicherheitsvorfall bei OpenCode (Claude Code Releases, TechCrunch, Hacker News). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Tue, 20 Oct 2026 04:34:37 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-20</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-20/daily-briefing-2026-10-20.mp3" length="10661661" type="audio/mpeg"/>
-      <itunes:duration>1066</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
