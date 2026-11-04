@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Mittwoch, 4. November 2026</title>
+      <description>Themen heute: US-Midterms 2026: Demokraten erobern Mehrheit in beiden Kongresskammern (Tagesschau, Zeit Online, Spiegel, Deutschlandfunk, Handelsblatt); Kahlschlag bei Schaeffler: Tausende Stellen entfallen und Standorte schließen (Deutschlandfunk, WirtschaftsWoche, FAZ, Handelsblatt, Tagesschau, Zeit Online, Spiegel, Manager Magazin); Erneute Gewinnwarnung bei BMW (Deutschlandfunk, FAZ, Spiegel, Zeit Online, Handelsblatt, WirtschaftsWoche, Manager Magazin); EU-Kommission genehmigt Verkauf von MediaMarktSaturn an JD.com (Tagesschau, Manager Magazin, Horizont, Zeit Online, WirtschaftsWoche, Handelsblatt, Spiegel); OpenAI: Hardware-Design mit GPT-6-Astra und neuer Militärberater (The Decoder, OpenAI, Hacker News); Anthropic beschleunigt API-Agenten und aktualisiert Claude Code (Claude Code Releases, TechCrunch, The Decoder); Rücktritt von Spaniens Verkehrsminister nach tödlichen Zugunglücken (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel); Selenskyj-Besuch in Berlin und Flugabwehr-Gespräche (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel, WirtschaftsWoche); Cyberattacken auf Kühlanlagen in europäischen und deutschen Supermärkten (WirtschaftsWoche, Handelsblatt, Tagesschau, Manager Magazin, Zeit Online); Ausschreibung für Gaskraftwerke: RWE und LEAG sichern sich Förderungen (FAZ, Spiegel, WirtschaftsWoche, Tagesschau). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Wed, 04 Nov 2026 05:27:50 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-04</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-04/daily-briefing-2026-11-04.mp3" length="11919719" type="audio/mpeg"/>
+      <itunes:duration>1192</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Dienstag, 3. November 2026</title>
       <description>Themen heute: US-Midterms: Entscheidende Kongresswahlen (Zeit Online, Spiegel, Deutschlandfunk, Tagesschau, Handelsblatt); Militärschläge in der Straße von Hormus (WirtschaftsWoche, Tagesschau, Deutschlandfunk, Handelsblatt); Anthropic meldet Umsatzplus und Milliardenverlust vor Börsengang (Hacker News, Handelsblatt, Spiegel, Heise, Zeit Online, Manager Magazin, FAZ, The Decoder); Neue Verhandlungsrunde im Ukraine-Krieg angekündigt (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Marvell übernimmt Lumentum für 115 Milliarden Dollar (Manager Magazin, WirtschaftsWoche, Handelsblatt); Mittelabfluss bei Binance nach Krypto-Hackerangriff (Deutschlandfunk, Handelsblatt, Spiegel, Manager Magazin, Tagesschau); Cyberangriffe auf europäischen Lebensmittelhandel (Tagesschau, WirtschaftsWoche, Handelsblatt, FAZ, Manager Magazin); Neue Regeln und Updates bei Claude Code (Claude Code Releases, Heise); Unternehmen begrenzen Einsatz von KI-Coding-Agenten (The Decoder, TechCrunch, Handelsblatt); Nachwehen der Gen-Z-Jugendproteste (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Tue, 03 Nov 2026 05:27:10 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-10-22</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-22/daily-briefing-2026-10-22.mp3" length="10574151" type="audio/mpeg"/>
       <itunes:duration>1057</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Mittwoch, 21. Oktober 2026</title>
-      <description>Themen heute: Diplomatie im Ukraine-Krieg: Selenskyj pocht auf Verhandlungsteilnahme bei US-Russland-Gesprächen (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Handelsblatt); Investorengipfel in Berlin: Merz vermeldet Milliardenzusagen unter anderem von Amazon (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, FAZ, Handelsblatt, WirtschaftsWoche); Schwere Ausschreitungen in Frankreich: Städte verhängen Ausgangssperren (Deutschlandfunk, Tagesschau, FAZ, Handelsblatt); Musk prüft Fusion von Tesla und SpaceX nach Milliardengewinn im Raumfahrtgeschäft (Deutschlandfunk, Spiegel, Zeit Online, Manager Magazin, FAZ, Handelsblatt); Volkswagen ruft weltweit über 70.000 Elektrofahrzeuge wegen Brandgefahr zurück (Deutschlandfunk, Tagesschau, Manager Magazin, Spiegel, FAZ, Handelsblatt); EU-Parlament einigt sich auf Aufweichung des Verbrenner-Aus ab 2035 (Tagesschau, Spiegel); USA verbannen KI-Modelle von DeepSeek aus Bundesbehörden – China protestiert (Deutschlandfunk, Handelsblatt, Heise, TechCrunch, The Decoder); Schwerer Google-Cloud-Ausfall in London stört europäische Finanz- und Onlinedienste (Zeit Online, Manager Magazin, Heise, Hacker News); Bundeswehr warnt intern vor russischen Sabotageakten in Deutschland (Tagesschau); Deutsche Post plant Anhebung des Standardbriefportos auf 1,15 Euro (Deutschlandfunk, Tagesschau, Zeit Online, WirtschaftsWoche, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Wed, 21 Oct 2026 04:27:32 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-21</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-21/daily-briefing-2026-10-21.mp3" length="11472241" type="audio/mpeg"/>
-      <itunes:duration>1147</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
