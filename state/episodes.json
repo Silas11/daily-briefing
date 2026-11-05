@@ -1,14 +1,5 @@
 [
  {
-  "tag": "ep-2026-10-22",
-  "title": "Daily Briefing, Donnerstag, 22. Oktober 2026",
-  "description": "Themen heute: Weltweite Sicherheitsluecke in PHP fuehrt zu Webseiten-Ausfaellen (Deutschlandfunk, Spiegel, Zeit Online, Handelsblatt, Hacker News, Tagesschau, The Decoder, TechCrunch, WirtschaftsWoche, Manager Magazin, FAZ, Heise, OpenAI); Meta zu 25 Milliarden Dollar Strafe wegen Cambridge Analytica verurteilt (Deutschlandfunk, Tagesschau, Heise, FAZ, Spiegel, WirtschaftsWoche, Handelsblatt, Hacker News); Ukraine-Krieg: Diplomatische Gespraechsbereitschaft bei anhaltenden Angriffen (Deutschlandfunk, Tagesschau, Spiegel, Heise); Meta: Rekordausgaben fuer KI, neue Aktienklasse und Gewinnsprung (Zeit Online, Heise, Spiegel, Social Media Today, TechCrunch, Handelsblatt); Finanzinvestor EQT vor Milliardenuebernahme von Qiagen (Handelsblatt, FAZ, WirtschaftsWoche, Manager Magazin); Unruhen in Frankreich belasten Staatsfinanzen und Wirtschaft (Deutschlandfunk, Tagesschau, WirtschaftsWoche, Spiegel); Tesla: Gewinnrueckgang und Spekulationen ueber SpaceX-Fusion (FAZ, Handelsblatt, Manager Magazin, Tagesschau); BGH faellt Grundsatzurteil zur Transparenz des Schufa-Scores (Tagesschau, Zeit Online, Spiegel); EU-Kommission leitet Betrugsverfahren gegen Booking.com ein (Tagesschau, Manager Magazin, Zeit Online, Spiegel, FAZ, Handelsblatt); Google Cloud buendelt Spitzenmodelle von OpenAI, Anthropic und Google (The Decoder, OpenAI, Hacker News). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-10-22T04:26:25.023074+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-22/daily-briefing-2026-10-22.mp3",
-  "bytes": 10574151,
-  "duration": 1057
- },
- {
   "tag": "ep-2026-10-23",
   "title": "Daily Briefing, Freitag, 23. Oktober 2026",
   "description": "Themen heute: Globale PHP-Sicherheitslücke bedroht Web-Infrastruktur und zwingt Dienste offline (Deutschlandfunk, Tagesschau, FAZ, Heise, Handelsblatt, Hacker News, Manager Magazin, WirtschaftsWoche); Steuerschätzung: Rekordeinnahmen bringen Bund dennoch keine neuen Spielräume (Tagesschau, Spiegel, Zeit Online, Handelsblatt, FAZ); Starlink für die Ukraine: Trump verkündet Ende der Drosselung durch Elon Musk (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Volkswagen: Ringen um Sparkurs, Gehälter und Neuaufstellung der Fahrassistenz (Deutschlandfunk, WirtschaftsWoche, Manager Magazin); Konzernumbau bei Bosch: Ausgliederung der Mobilitätssparte betrifft Zehntausende (Manager Magazin, FAZ, Handelsblatt); Chemiebranche: Evonik prüft US-Zukauf inmitten der Übernahmeofferte von BASF (Handelsblatt, Manager Magazin, WirtschaftsWoche, FAZ); Anthropic startet autonomen Agenten Claude Duet und behebt Sandbox-Lücken (Claude Code Releases, TechCrunch, The Decoder); OpenAI plant 30-Milliarden-Runde, launcht Decisions API und untersucht Agenten-Vorfall (TechCrunch, OpenAI, Heise, The Decoder); Energiepreise: Bundesländer fordern Stromsteuersenkung und Spritpreisdeckel (Deutschlandfunk, Tagesschau, WirtschaftsWoche); Proteste gegen Lebenshaltungskosten in Frankreich und Südeuropa (Zeit Online, Deutschlandfunk, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.",
@@ -124,5 +115,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-04/daily-briefing-2026-11-04.mp3",
   "bytes": 11919719,
   "duration": 1192
+ },
+ {
+  "tag": "ep-2026-11-05",
+  "title": "Daily Briefing, Donnerstag, 5. November 2026",
+  "description": "Themen heute: US-Midterms: Demokraten erobern Kongress (Tagesschau, Deutschlandfunk, Spiegel, Handelsblatt, Zeit Online, FAZ); Bayerischer Wirtschaftsminister Hubert Aiwanger gestorben (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); EU-Umweltausschuss votiert für Lockerung des Verbrenner-Aus (Heise, Spiegel, FAZ); Absatzeinbruch in China belastet deutsche Autobauer (Handelsblatt, FAZ, Spiegel, WirtschaftsWoche, Tagesschau); Bosch und Schaeffler verschärfen Personalabbau (Handelsblatt, WirtschaftsWoche); Euro-Inflation steigt auf 4,0 Prozent / EZB-Kandidatur Klaas Knot (Handelsblatt, Spiegel, Tagesschau, FAZ, Manager Magazin); OpenAI übernimmt Entwickler-Start-up Pierre (Heise, The Decoder, OpenAI); Gewerkschaften rufen zu Generalstreik in Frankreich auf (Zeit Online, Deutschlandfunk, Tagesschau); Rheinmetall senkt Jahresprognose wegen Verzögerungen (Handelsblatt, Manager Magazin); Preiskorrektur und Zinsdruck am Immobilienmarkt (Handelsblatt, FAZ, Manager Magazin). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-05T05:29:15.756052+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-05/daily-briefing-2026-11-05.mp3",
+  "bytes": 11547474,
+  "duration": 1155
  }
 ]
