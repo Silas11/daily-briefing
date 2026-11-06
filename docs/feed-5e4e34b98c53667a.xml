@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Freitag, 6. November 2026</title>
+      <description>Themen heute: US-Midterms: Wahlsieg der Demokraten schwächt Trump und Milliardäre (Zeit Online, Spiegel, Handelsblatt, FAZ, Deutschlandfunk); US-Börsen und Asien-Märkte: Kurseinbruch bei Chip- und Tech-Aktien (Handelsblatt, Zeit Online, Tagesschau); OpenAI bringt GPT-6 Cyber und plant Börsengang bis 2027 (Heise, The Decoder, TechCrunch, OpenAI); Paraguay: Präsident Peña tritt nach Kollaps von Digitalbank zurück (Tagesschau, Handelsblatt, Deutschlandfunk, Spiegel); Rheinmetall: Erneute Prognosesenkung führt zu Kurseinbruch (WirtschaftsWoche, FAZ, Handelsblatt, Manager Magazin); KNDS: Bund einigt sich auf 50-Prozent-Einstieg beim Panzerbauer (Tagesschau, Manager Magazin, Zeit Online, WirtschaftsWoche, Spiegel); Signa-Gründer René Benko erhält weitere zwei Jahre Haft wegen Betrugs (Deutschlandfunk, Tagesschau, WirtschaftsWoche, Handelsblatt, Spiegel, Manager Magazin, FAZ); Autokrise: Bosch streicht weitere 750 Stellen in Abstatt (Handelsblatt, FAZ, Spiegel, WirtschaftsWoche, Manager Magazin); Anthropic schließt erste Verlagsdeals und erweitert Claude um Finanztanz-Tools (Handelsblatt, TechCrunch, The Decoder); Frankreich: Hunderttausende protestieren für höhere Löhne und Bildung (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Fri, 06 Nov 2026 05:32:18 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-06</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-06/daily-briefing-2026-11-06.mp3" length="10435702" type="audio/mpeg"/>
+      <itunes:duration>1044</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Donnerstag, 5. November 2026</title>
       <description>Themen heute: US-Midterms: Demokraten erobern Kongress (Tagesschau, Deutschlandfunk, Spiegel, Handelsblatt, Zeit Online, FAZ); Bayerischer Wirtschaftsminister Hubert Aiwanger gestorben (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); EU-Umweltausschuss votiert für Lockerung des Verbrenner-Aus (Heise, Spiegel, FAZ); Absatzeinbruch in China belastet deutsche Autobauer (Handelsblatt, FAZ, Spiegel, WirtschaftsWoche, Tagesschau); Bosch und Schaeffler verschärfen Personalabbau (Handelsblatt, WirtschaftsWoche); Euro-Inflation steigt auf 4,0 Prozent / EZB-Kandidatur Klaas Knot (Handelsblatt, Spiegel, Tagesschau, FAZ, Manager Magazin); OpenAI übernimmt Entwickler-Start-up Pierre (Heise, The Decoder, OpenAI); Gewerkschaften rufen zu Generalstreik in Frankreich auf (Zeit Online, Deutschlandfunk, Tagesschau); Rheinmetall senkt Jahresprognose wegen Verzögerungen (Handelsblatt, Manager Magazin); Preiskorrektur und Zinsdruck am Immobilienmarkt (Handelsblatt, FAZ, Manager Magazin). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Thu, 05 Nov 2026 05:29:15 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-10-24</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-24/daily-briefing-2026-10-24.mp3" length="11171049" type="audio/mpeg"/>
       <itunes:duration>1117</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Freitag, 23. Oktober 2026</title>
-      <description>Themen heute: Globale PHP-Sicherheitslücke bedroht Web-Infrastruktur und zwingt Dienste offline (Deutschlandfunk, Tagesschau, FAZ, Heise, Handelsblatt, Hacker News, Manager Magazin, WirtschaftsWoche); Steuerschätzung: Rekordeinnahmen bringen Bund dennoch keine neuen Spielräume (Tagesschau, Spiegel, Zeit Online, Handelsblatt, FAZ); Starlink für die Ukraine: Trump verkündet Ende der Drosselung durch Elon Musk (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Volkswagen: Ringen um Sparkurs, Gehälter und Neuaufstellung der Fahrassistenz (Deutschlandfunk, WirtschaftsWoche, Manager Magazin); Konzernumbau bei Bosch: Ausgliederung der Mobilitätssparte betrifft Zehntausende (Manager Magazin, FAZ, Handelsblatt); Chemiebranche: Evonik prüft US-Zukauf inmitten der Übernahmeofferte von BASF (Handelsblatt, Manager Magazin, WirtschaftsWoche, FAZ); Anthropic startet autonomen Agenten Claude Duet und behebt Sandbox-Lücken (Claude Code Releases, TechCrunch, The Decoder); OpenAI plant 30-Milliarden-Runde, launcht Decisions API und untersucht Agenten-Vorfall (TechCrunch, OpenAI, Heise, The Decoder); Energiepreise: Bundesländer fordern Stromsteuersenkung und Spritpreisdeckel (Deutschlandfunk, Tagesschau, WirtschaftsWoche); Proteste gegen Lebenshaltungskosten in Frankreich und Südeuropa (Zeit Online, Deutschlandfunk, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Fri, 23 Oct 2026 04:32:13 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-23</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-23/daily-briefing-2026-10-23.mp3" length="11017449" type="audio/mpeg"/>
-      <itunes:duration>1102</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
