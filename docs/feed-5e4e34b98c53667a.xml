@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Samstag, 7. November 2026</title>
+      <description>Themen heute: Börsenabsturz bei Chip- und Tech-Aktien (Handelsblatt, Tagesschau, Zeit Online, Spiegel); Nominierung von Ilse Aigner als Bundespräsidentin (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Trumps neuer Stabschef Stephen Miller (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Produktionsstopp für Teslas Cybertruck (Zeit Online, Spiegel, FAZ, Heise, Tagesschau, Manager Magazin, WirtschaftsWoche, Hacker News, Handelsblatt); Milliarden-Finanzierungsrunde für OpenAI (Handelsblatt, TechCrunch); Verzögerung beim Börsengang von Anthropic (TechCrunch, The Decoder, Manager Magazin); Staatskrise und Amtsenthebung in Paraguay (Deutschlandfunk, Zeit Online, Handelsblatt, Tagesschau); AfD-E-Mail-Leak und Prüfverfahren (Tagesschau, Deutschlandfunk, Zeit Online); Koordinierte Bombendrohungen in Europa (Deutschlandfunk, Tagesschau); Gewinnsprung bei Daimler Truck (Tagesschau, Manager Magazin, Handelsblatt, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Sat, 07 Nov 2026 05:40:15 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-07</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-07/daily-briefing-2026-11-07.mp3" length="10065025" type="audio/mpeg"/>
+      <itunes:duration>1006</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Freitag, 6. November 2026</title>
       <description>Themen heute: US-Midterms: Wahlsieg der Demokraten schwächt Trump und Milliardäre (Zeit Online, Spiegel, Handelsblatt, FAZ, Deutschlandfunk); US-Börsen und Asien-Märkte: Kurseinbruch bei Chip- und Tech-Aktien (Handelsblatt, Zeit Online, Tagesschau); OpenAI bringt GPT-6 Cyber und plant Börsengang bis 2027 (Heise, The Decoder, TechCrunch, OpenAI); Paraguay: Präsident Peña tritt nach Kollaps von Digitalbank zurück (Tagesschau, Handelsblatt, Deutschlandfunk, Spiegel); Rheinmetall: Erneute Prognosesenkung führt zu Kurseinbruch (WirtschaftsWoche, FAZ, Handelsblatt, Manager Magazin); KNDS: Bund einigt sich auf 50-Prozent-Einstieg beim Panzerbauer (Tagesschau, Manager Magazin, Zeit Online, WirtschaftsWoche, Spiegel); Signa-Gründer René Benko erhält weitere zwei Jahre Haft wegen Betrugs (Deutschlandfunk, Tagesschau, WirtschaftsWoche, Handelsblatt, Spiegel, Manager Magazin, FAZ); Autokrise: Bosch streicht weitere 750 Stellen in Abstatt (Handelsblatt, FAZ, Spiegel, WirtschaftsWoche, Manager Magazin); Anthropic schließt erste Verlagsdeals und erweitert Claude um Finanztanz-Tools (Handelsblatt, TechCrunch, The Decoder); Frankreich: Hunderttausende protestieren für höhere Löhne und Bildung (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Fri, 06 Nov 2026 05:32:18 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-10-25</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-25/daily-briefing-2026-10-25.mp3" length="10800110" type="audio/mpeg"/>
       <itunes:duration>1080</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Samstag, 24. Oktober 2026</title>
-      <description>Themen heute: Tarifstreit und Eskalation bei Volkswagen (Deutschlandfunk, Zeit Online, Tagesschau, Manager Magazin, Handelsblatt, FAZ, WirtschaftsWoche); Anthropics Vorstoß mit KI-Beratung und neuen Claude-Tools (Claude Code Releases, Manager Magazin, The Decoder, Heise); OpenAI stellt Modelltraining ohne Internetzugang um (Deutschlandfunk, TechCrunch, The Decoder, OpenAI); Proteste und Gewalt in Frankreich (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, FAZ); Übernahmekampf zwischen BASF und Evonik (Handelsblatt, WirtschaftsWoche, FAZ, Manager Magazin); Zinsdruck und Wirtschaftskrise in Frankreich (Handelsblatt, Tagesschau); CSU-Parteitag und politische Debatten (Spiegel, Deutschlandfunk, Tagesschau, Handelsblatt); Eskalation und Anschläge im Nahen Osten (Spiegel, Deutschlandfunk, Tagesschau); Datenleck bei der AfD (Tagesschau, Handelsblatt, Heise); Lokale Waffenruhe in Oleschky (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Sat, 24 Oct 2026 04:29:00 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-24</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-24/daily-briefing-2026-10-24.mp3" length="11171049" type="audio/mpeg"/>
-      <itunes:duration>1117</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
