@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Montag, 9. November 2026</title>
+      <description>Themen heute: Merz schlaegt Ilse Aigner als naechste Bundespraesidentin vor (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Spionageuntersuchung gegen Nvidia-Chef Huang wegen mutmasslicher Agentin (Deutschlandfunk, FAZ, Handelsblatt, Tagesschau, Hacker News, Heise, Zeit Online, TechCrunch, Spiegel); Auftakt der 31. Weltklimakonferenz in Antalya (FAZ, Zeit Online, Deutschlandfunk, Tagesschau, Handelsblatt); Claude Code in der Praxis: Goldman Sachs zieht Tool zurueck waehrend Entwickler Erfolge vermelden (Hacker News, The Decoder, Heise); Gedenken und Terrorermittlungen nach Toetungsdelikten in Krakau (Deutschlandfunk, Tagesschau, Spiegel); Ukraine-Krieg: Erste Uebung multinationaler Schutztruppe in Polen und Verhandlungsdebatte (Deutschlandfunk, Zeit Online); Anthropic investiert ueber drei Milliarden Dollar in eigene Stromgeneratoren (Handelsblatt); Regierungsbildung in Israel: Oppositionschef Eisenkot erhaelt Auftrag (Deutschlandfunk, Tagesschau, Handelsblatt); Papst Leo XIV. kritisiert Mileis Sparpolitik bei Argentinien-Besuch (Deutschlandfunk, Spiegel, Tagesschau); US-Politik nach Midterms: Trump relativiert Abschiebepolitik und droht Demokraten (Deutschlandfunk, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Mon, 09 Nov 2026 05:34:17 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-09</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-09/daily-briefing-2026-11-09.mp3" length="11479816" type="audio/mpeg"/>
+      <itunes:duration>1148</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Sonntag, 8. November 2026</title>
       <description>Themen heute: Tödliche Schüsse in Krakau (Zeit Online, Spiegel, Deutschlandfunk, Tagesschau, Handelsblatt); Anthropic plant Börsengang noch vor Thanksgiving (The Decoder); Trumps Personalumbau im Weißen Haus (Zeit Online, Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Mandat zur Regierungsbildung in Israel an Eisenkot (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel); Union bringt Ilse Aigner für das Bundespräsidentenamt in Stellung (Zeit Online, Deutschlandfunk); OpenAI verfehlt Finanzierungsziel und öffnet Runde für Privatanleger (The Decoder, Manager Magazin, WirtschaftsWoche); Trumps Konfrontation mit Demokraten nach Midterm-Niederlage (Zeit Online, Handelsblatt, Spiegel); Spionageverdacht gegen Nvidia-Chef Jensen Huang (TechCrunch, Manager Magazin, Spiegel); Sicherheitslücke bei Claude Code legt Passwörter offen (Hacker News); Autonome KI-Agenten überwinden Firmennetzwerke (The Decoder). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Sun, 08 Nov 2026 05:33:11 +0000</pubDate>
@@ -133,15 +142,6 @@
       <guid isPermaLink="false">ep-2026-10-26</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-26/daily-briefing-2026-10-26.mp3" length="10829890" type="audio/mpeg"/>
       <itunes:duration>1083</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Sonntag, 25. Oktober 2026</title>
-      <description>Themen heute: Audi kuendigt US-Werk fuer vier Milliarden Dollar bei Trump-Auftritt an (FAZ, Deutschlandfunk, Spiegel, Zeit Online, Handelsblatt); Ausschreitungen bei Massenprotesten gegen Lebenshaltungskosten in Frankreich und Nachbarlaendern (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt, FAZ); Kopf-an-Kopf-Rennen bei Praesidentschafts-Stichwahl in Brasilien (Zeit Online, Tagesschau, Deutschlandfunk, Spiegel, Handelsblatt); Elon Musk wirft Kiew Missbrauch von Starlink fuer Militaeroffensiven vor (Deutschlandfunk, Spiegel, Handelsblatt, Tagesschau, Heise); Militaeroperationen und Abriegelung des Westjordanlands vor Wahlen in Israel (Zeit Online, Spiegel, Tagesschau, Handelsblatt); Kanzler Merz beschwoert Zusammenhalt auf dem CSU-Parteitag (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); OpenAI stellt Training von Spitzenmodellen nach Vorfaellen auf Offline-Betrieb um (Heise, The Decoder, FAZ); Vorgezogene Parlamentswahlen in Serbien (Tagesschau, Deutschlandfunk, Handelsblatt); Volkswagen plant weiteren Abbau von zwoelfausend Stellen (Spiegel); Ryanair streicht Verbindungen am Hauptstadtflughafen BER zusammen (Zeit Online, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Sun, 25 Oct 2026 05:35:44 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-25</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-25/daily-briefing-2026-10-25.mp3" length="10800110" type="audio/mpeg"/>
-      <itunes:duration>1080</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
