@@ -1,23 +1,5 @@
 [
  {
-  "tag": "ep-2026-10-26",
-  "title": "Daily Briefing, Montag, 26. Oktober 2026",
-  "description": "Themen heute: Kritik an Audi-Chef nach Auftritt auf Trump-Wahlkampfveranstaltung (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel, Manager Magazin, Heise, Zeit Online, FAZ, WirtschaftsWoche); Präsidentenwahl in Brasilien: Lula gewinnt Stichwahl (Deutschlandfunk, Zeit Online, Handelsblatt, Tagesschau, Hacker News, Spiegel); Machtwechsel nach Parlamentswahl in Serbien (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Frasers Group übernimmt Mehrheit an Hugo Boss (FAZ, WirtschaftsWoche, Handelsblatt); Preiskampf bei KI-Sprachmodellen zwischen OpenAI und Anthropic (Hacker News, The Decoder); Asien-Reisen von Merz und Steinmeier (Zeit Online, Spiegel, Tagesschau); Rückkehr von Oppositionsführerin Machado nach Venezuela (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Wahlkampfauftakt von Le Pen und Massenproteste in Frankreich (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Streit über Finanzierung der Stromsteuersenkung (Deutschlandfunk, Tagesschau); Dobrindt plant Investitionsschutzgesetz gegen Wohnungsenteignungen (Deutschlandfunk, FAZ, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-10-26T05:45:11.870629+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-26/daily-briefing-2026-10-26.mp3",
-  "bytes": 10829890,
-  "duration": 1083
- },
- {
-  "tag": "ep-2026-10-27",
-  "title": "Daily Briefing, Dienstag, 27. Oktober 2026",
-  "description": "Themen heute: B&ouml;rsengang von Anthropic enth&uuml;llt Rekordzahlen und Milliardenrisiken (Handelsblatt, Spiegel, Zeit Online, The Decoder, TechCrunch, Tagesschau, Heise, Manager Magazin, Hacker News); Audi-Chef Döllner wegen Trump-Auftritt unter Druck (Deutschlandfunk, Tagesschau, WirtschaftsWoche, Zeit Online, Handelsblatt, Spiegel, FAZ, Horizont, Manager Magazin); Parlamentswahl in Israel (Deutschlandfunk, Zeit Online, Spiegel, Tagesschau); Machtwechsel und Aufarbeitung nach der Wahl in Brasilien (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Microsoft bietet 60.000 Mitarbeitern Abfindungen an (Deutschlandfunk, Zeit Online, Handelsblatt, Heise, WirtschaftsWoche, Spiegel, FAZ, Hacker News); OpenAI ver&ouml;ffentlicht GPT-6.1 Terra (The Decoder, Hacker News); Wahlsieg der Studentenliste in Serbien (Tagesschau, Deutschlandfunk); Waffenruhe in Oleschky und anhaltende K&auml;mpfe in der Ukraine (Deutschlandfunk, Tagesschau, Spiegel); Bundesrechnungshof kritisiert Bahn-Sanierungen scharf (Deutschlandfunk, Spiegel, Zeit Online, FAZ); Start-up Helsing steigt in Drohnenabwehr ein (Handelsblatt, FAZ, WirtschaftsWoche, Spiegel). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-10-27T05:46:34.067865+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-27/daily-briefing-2026-10-27.mp3",
-  "bytes": 11474592,
-  "duration": 1147
- },
- {
   "tag": "ep-2026-10-28",
   "title": "Daily Briefing, Mittwoch, 28. Oktober 2026",
   "description": "Themen heute: Patt-Situation nach Parlamentswahl in Israel (Zeit Online, Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Anthropic bereitet Börsengang vor und legt Zahlen offen (TechCrunch, FAZ, Heise, Handelsblatt, The Decoder, Manager Magazin); Flávio Bolsonaro flieht trotz Ausreiseverbots in die USA (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Kritik an Audi-Chef Döllner nach Trump-Auftritt (Zeit Online, FAZ, Spiegel, WirtschaftsWoche); Mercedes-Benz senkt Gewinnprognose spürbar (Handelsblatt, WirtschaftsWoche, Manager Magazin, Spiegel); Tarifstreit in der Metall- und Elektroindustrie eskaliert (FAZ, Tagesschau, Handelsblatt, Spiegel); Google DeepMind stellt KI-Weltmodell Genie 4 vor (The Decoder, TechCrunch, Google DeepMind); Ausweitung der Waffenruhe bei Oleschky in der Ukraine (Deutschlandfunk, Spiegel, Handelsblatt); Suche nach Atommüll-Endlager eingegrenzt (Tagesschau, FAZ, Deutschlandfunk); EU plant deutlichen Ausbau der Grenzschutzagentur Frontex (Heise, Tagesschau, Deutschlandfunk). KI-generierte Zusammenfassung von Pressematerial.",
@@ -133,5 +115,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-09/daily-briefing-2026-11-09.mp3",
   "bytes": 11479816,
   "duration": 1148
+ },
+ {
+  "tag": "ep-2026-11-10",
+  "title": "Daily Briefing, Dienstag, 10. November 2026",
+  "description": "Themen heute: Spionageermittlungen und Krise um Nvidia-CEO Jensen Huang (Deutschlandfunk, WirtschaftsWoche, Spiegel, FAZ, Manager Magazin, Tagesschau, TechCrunch, The Decoder); Trilaterale Gespräche zum Ukraine-Krieg in Abu Dhabi (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt); Anthropic stellt Claude Fable 5.2 vor und kauft Gasturbinen (Heise, TechCrunch, The Decoder, Claude Code Releases, Hacker News); Arbeitsagentur erwartet 800.000 Jobverluste durch KI (Deutschlandfunk, Zeit Online, Handelsblatt, Spiegel); Stellenabbau bei Vodafone Deutschland (WirtschaftsWoche, FAZ, Zeit Online, Tagesschau, Manager Magazin, Spiegel); Ilse Aigner stellt sich Bundestagsfraktionen vor (Deutschlandfunk, Handelsblatt, Tagesschau); Chinas Handelsüberschuss knackt erneut Billionen-Dollar-Marke (Deutschlandfunk, Handelsblatt, Tagesschau, FAZ); Rekordumsatz bei Infineon durch KI-Boom (Deutschlandfunk, Tagesschau, FAZ, Manager Magazin, WirtschaftsWoche, Handelsblatt); Maschinenbauverband VDMA kritisiert Reformstau (Zeit Online, Handelsblatt, FAZ); Schichtausfälle bei BMW wegen Teilemangels (Handelsblatt, Heise, Manager Magazin, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-10T09:59:36.238201+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-10/daily-briefing-2026-11-10.mp3",
+  "bytes": 10979833,
+  "duration": 1098
  }
 ]
