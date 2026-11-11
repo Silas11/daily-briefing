@@ -124,5 +124,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-10/daily-briefing-2026-11-10.mp3",
   "bytes": 10979833,
   "duration": 1098
+ },
+ {
+  "tag": "ep-2026-11-11",
+  "title": "Daily Briefing, Mittwoch, 11. November 2026",
+  "description": "Themen heute: Anthropic veroeffentlicht IPO-Prospekt und praesentiert Bueroplattform Claude (The Decoder, TechCrunch, Handelsblatt, WirtschaftsWoche, Tagesschau, Spiegel, FAZ); Spionageaffaere um Nvidia-Chef Jensen Huang und Kursrutsch (Handelsblatt, FAZ, Manager Magazin, Heise, WirtschaftsWoche, Spiegel); OpenAI wandelt ChatGPT mit Business Hub und Agenten zur Geschaeftsplattform (The Decoder, TechCrunch, OpenAI); Kandidatur von Ilse Aigner als Bundespraesidentin (Spiegel, Deutschlandfunk, Tagesschau); Verhandlungen zum Ukraine-Krieg in Abu Dhabi (Deutschlandfunk, Handelsblatt, Tagesschau, Zeit Online); Historischer Tiefstand deutscher Gasspeicher und drohende Versorgungsengpaesse (WirtschaftsWoche, Handelsblatt, Manager Magazin, Spiegel); Aufstockung der Bundespraemie fuer Elektroautos (Tagesschau, Deutschlandfunk, Manager Magazin, WirtschaftsWoche); Industriekrise im deutschen Maschinenbau und Kritik an Wirtschaftsministerin Reiche (Spiegel, Handelsblatt, WirtschaftsWoche, Zeit Online); Haushaltsstreit 2027 und Plaene zur Abschaffung der Steuerklassen 3 und 5 (Zeit Online, Spiegel, FAZ); Google praesentiert Gemini 4 Carbon mit Agenten-Schwarm und Robotik-Einsatz bei Mercedes (The Decoder, Google DeepMind). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-11T05:28:36.600518+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-11/daily-briefing-2026-11-11.mp3",
+  "bytes": 11713090,
+  "duration": 1171
  }
 ]
