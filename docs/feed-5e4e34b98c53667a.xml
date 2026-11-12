@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Donnerstag, 12. November 2026</title>
+      <description>Themen heute: Führungskrise bei Nvidia um Jensen Huang (Zeit Online, Heise, TechCrunch, FAZ, Spiegel, Manager Magazin, Handelsblatt, Hacker News, WirtschaftsWoche, Tagesschau); Ukraine-Verhandlungen und US-Vorstoß (Tagesschau, Deutschlandfunk, Spiegel); Demokratischer Erfolg bei US-Midterms in Mississippi (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Kompromiss zum Bundeshaushalt 2027 (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Stopp des VW-Modernisierungsprojekts Gamechanger (Deutschlandfunk, Manager Magazin, WirtschaftsWoche, Handelsblatt, Zeit Online, FAZ); Jahresgutachten des Sachverständigenrats (Deutschlandfunk, FAZ, Zeit Online, Tagesschau, Spiegel); Rekordzahlen bei Siemens Energy (FAZ, Handelsblatt, Zeit Online, WirtschaftsWoche, Tagesschau, Manager Magazin); OpenAI-Quartalszahlen und Verlustentwicklung (TechCrunch, The Decoder, Manager Magazin); Untersuchung zu sexuellem Fehlverhalten in der Bundeswehr (Deutschlandfunk, Tagesschau, Spiegel); EU-Entwurf für den Digital Fairness Act (Deutschlandfunk, FAZ, Horizont, Heise, Tagesschau, Zeit Online). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Thu, 12 Nov 2026 05:37:51 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-12</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-12/daily-briefing-2026-11-12.mp3" length="11396746" type="audio/mpeg"/>
+      <itunes:duration>1140</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Mittwoch, 11. November 2026</title>
       <description>Themen heute: Anthropic veroeffentlicht IPO-Prospekt und praesentiert Bueroplattform Claude (The Decoder, TechCrunch, Handelsblatt, WirtschaftsWoche, Tagesschau, Spiegel, FAZ); Spionageaffaere um Nvidia-Chef Jensen Huang und Kursrutsch (Handelsblatt, FAZ, Manager Magazin, Heise, WirtschaftsWoche, Spiegel); OpenAI wandelt ChatGPT mit Business Hub und Agenten zur Geschaeftsplattform (The Decoder, TechCrunch, OpenAI); Kandidatur von Ilse Aigner als Bundespraesidentin (Spiegel, Deutschlandfunk, Tagesschau); Verhandlungen zum Ukraine-Krieg in Abu Dhabi (Deutschlandfunk, Handelsblatt, Tagesschau, Zeit Online); Historischer Tiefstand deutscher Gasspeicher und drohende Versorgungsengpaesse (WirtschaftsWoche, Handelsblatt, Manager Magazin, Spiegel); Aufstockung der Bundespraemie fuer Elektroautos (Tagesschau, Deutschlandfunk, Manager Magazin, WirtschaftsWoche); Industriekrise im deutschen Maschinenbau und Kritik an Wirtschaftsministerin Reiche (Spiegel, Handelsblatt, WirtschaftsWoche, Zeit Online); Haushaltsstreit 2027 und Plaene zur Abschaffung der Steuerklassen 3 und 5 (Zeit Online, Spiegel, FAZ); Google praesentiert Gemini 4 Carbon mit Agenten-Schwarm und Robotik-Einsatz bei Mercedes (The Decoder, Google DeepMind). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Wed, 11 Nov 2026 05:28:36 +0000</pubDate>
@@ -124,24 +133,6 @@
       <guid isPermaLink="false">ep-2026-10-30</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-30/daily-briefing-2026-10-30.mp3" length="11300094" type="audio/mpeg"/>
       <itunes:duration>1130</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Donnerstag, 29. Oktober 2026</title>
-      <description>Themen heute: Schweres Zugunglueck in Spanien (Deutschlandfunk, Zeit Online, Spiegel, Tagesschau); Mercedes-Benz mit Gewinnwarnung und China-Krise (Handelsblatt, FAZ, Tagesschau); BASF plant Evonik-Uebernahme und erhoeht Gewinnprognose (WirtschaftsWoche, FAZ, Handelsblatt, Spiegel, Manager Magazin); Google stellt KI-Modell Gemini 4 Carbon vor (Heise, The Decoder, Hacker News, Google DeepMind); Microsoft waechst stark durch Cloud- und KI-Geschaeft (Heise, FAZ, Manager Magazin, TechCrunch, Handelsblatt); Flucht und Wahlsieger-Erklaerung von Flavio Bolsonaro (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Israel-Wahl ohne klare Mehrheit (Tagesschau, Spiegel, Deutschlandfunk); Kanzler Merz auf Asienreise (Deutschlandfunk, Tagesschau, FAZ, Spiegel); US-Notenbank Fed belaesst Leitzins unveraendert (Deutschlandfunk, Handelsblatt, Spiegel, Zeit Online); Wirbel um Auftritt von Audi-CEO Doellner mit Trump (Zeit Online, Handelsblatt, WirtschaftsWoche, Manager Magazin). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Thu, 29 Oct 2026 05:35:00 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-29</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-29/daily-briefing-2026-10-29.mp3" length="10767457" type="audio/mpeg"/>
-      <itunes:duration>1077</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Mittwoch, 28. Oktober 2026</title>
-      <description>Themen heute: Patt-Situation nach Parlamentswahl in Israel (Zeit Online, Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Anthropic bereitet Börsengang vor und legt Zahlen offen (TechCrunch, FAZ, Heise, Handelsblatt, The Decoder, Manager Magazin); Flávio Bolsonaro flieht trotz Ausreiseverbots in die USA (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Kritik an Audi-Chef Döllner nach Trump-Auftritt (Zeit Online, FAZ, Spiegel, WirtschaftsWoche); Mercedes-Benz senkt Gewinnprognose spürbar (Handelsblatt, WirtschaftsWoche, Manager Magazin, Spiegel); Tarifstreit in der Metall- und Elektroindustrie eskaliert (FAZ, Tagesschau, Handelsblatt, Spiegel); Google DeepMind stellt KI-Weltmodell Genie 4 vor (The Decoder, TechCrunch, Google DeepMind); Ausweitung der Waffenruhe bei Oleschky in der Ukraine (Deutschlandfunk, Spiegel, Handelsblatt); Suche nach Atommüll-Endlager eingegrenzt (Tagesschau, FAZ, Deutschlandfunk); EU plant deutlichen Ausbau der Grenzschutzagentur Frontex (Heise, Tagesschau, Deutschlandfunk). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Wed, 28 Oct 2026 05:41:33 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-28</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-28/daily-briefing-2026-10-28.mp3" length="11942184" type="audio/mpeg"/>
-      <itunes:duration>1194</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
