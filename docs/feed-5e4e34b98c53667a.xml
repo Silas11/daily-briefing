@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Samstag, 14. November 2026</title>
+      <description>Themen heute: Skandal und Führungswechsel bei Nvidia (Deutschlandfunk, FAZ, TechCrunch, The Decoder, Tagesschau, Handelsblatt, Spiegel, Manager Magazin, WirtschaftsWoche); Geplantes Spitzentreffen von Trump, Putin und Xi (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, Spiegel); Weltweite Großstörung bei Microsoft-Onlinediensten (Deutschlandfunk, Tagesschau, FAZ, Manager Magazin, WirtschaftsWoche, Handelsblatt, Spiegel, Horizont); Eskalierender Tarif- und Standortkonflikt bei Mercedes-Benz (FAZ, Handelsblatt, Manager Magazin, Zeit Online); Geplanter Milliarden-Börsengang von Anthropic überzeichnet (Handelsblatt, The Decoder, Manager Magazin); Anthropic veröffentlicht Claude for Manufacturing und Code Update (Claude Code Releases, The Decoder); Stundenlanges Flugverbot in den USA wegen IT-Störung (Deutschlandfunk, Tagesschau, Spiegel, Zeit Online, FAZ, Heise, Hacker News, Handelsblatt); EU einigt sich auf Verhandlungsteam für Ukraine-Friedensgespräche (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Einigung auf Bundeshaushalt 2027 und Warnung vor Finanzkrise (Deutschlandfunk, Spiegel, Tagesschau, FAZ); OpenAI bringt ChatGPT Wallet und Cybersecurity-Sparte (The Decoder, TechCrunch, OpenAI). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Sat, 14 Nov 2026 05:42:01 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-14</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-14/daily-briefing-2026-11-14.mp3" length="10955277" type="audio/mpeg"/>
+      <itunes:duration>1095</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Freitag, 13. November 2026</title>
       <description>Themen heute: Spionageaffäre und Rücktritt von Nvidia-Gründer Jensen Huang (Handelsblatt, FAZ, Tagesschau, Spiegel, Manager Magazin, WirtschaftsWoche, Zeit Online, Deutschlandfunk, TechCrunch, The Decoder, Hacker News); Einigung auf Bundeshaushalt 2027 und Streit um Stromsteuer (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Handelsblatt, FAZ, WirtschaftsWoche); Mercedes-Benz beschließt Investitionsstopp und prüft Werksschließungen (Handelsblatt, Deutschlandfunk, Heise, Zeit Online, Spiegel, Manager Magazin, WirtschaftsWoche); Weltweite Störung bei Microsoft-365-Diensten belaste Unternehmen (FAZ, Handelsblatt, Zeit Online, Deutschlandfunk, Spiegel, Tagesschau, Manager Magazin, Horizont); Diplomatische Bewegung und anhaltende Gefechte im Ukraine-Krieg (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Heise); Google bringt KI-Modell Gemini 4 Hydrogen auf den Markt (Heise, TechCrunch, The Decoder, Hacker News, Google DeepMind, Google AI Blog); Anthropic erweitert Claude um Meetings-Funktion und Code-Updates (The Decoder, Claude Code Releases); Bundestag stimmt über Ausweitung der Befugnisse der Nachrichtendienste ab (Deutschlandfunk, Tagesschau); Börsengang von Anthropic verzeichnet hohe Nachfrage (Handelsblatt, Hacker News); Volkswagen setzt auf Abfindungsprogramm bei schrumpfenden Gewinnmargen (Manager Magazin, Spiegel, WirtschaftsWoche, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Fri, 13 Nov 2026 09:45:31 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-11-01</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-01/daily-briefing-2026-11-01.mp3" length="10801416" type="audio/mpeg"/>
       <itunes:duration>1080</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Samstag, 31. Oktober 2026</title>
-      <description>Themen heute: Sparzwang bei Volkswagen: Entwicklung des ID.Golf vorerst gestoppt (Deutschlandfunk, Manager Magazin, Heise, Handelsblatt, WirtschaftsWoche, FAZ); Audi-Krise: Gewinneinbruch um 87 Prozent und Nachspiel für Chef Döllner nach Trump-Auftritt (Heise, WirtschaftsWoche, Handelsblatt, FAZ, Deutschlandfunk, Manager Magazin, Tagesschau); Rekord-Hackerangriff auf Binance: 6,3 Milliarden Dollar aus Hot Wallet entwendet (Deutschlandfunk, Tagesschau, Manager Magazin, Spiegel, Handelsblatt, Hacker News); G20-Außenministertreffen in Atlanta von tiefen Gräben und Lawrow-Auftritt überschattet (Deutschlandfunk, Spiegel, Handelsblatt, Tagesschau); Juristische Härte und Ermittlungen im Vorfeld der US-Midterms (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Turbulenzen an den US-Börsen: Historischer Absturz der Intel-Aktie zieht Tech-Sektor mit (TechCrunch, Handelsblatt, Tagesschau, WirtschaftsWoche, Zeit Online, Manager Magazin); Deutsche Wirtschaft wächst im dritten Quartal überraschend um 0,2 Prozent (FAZ, Handelsblatt, Spiegel, Tagesschau, Zeit Online); Inflationsrate in Deutschland sinkt im Oktober auf 2,8 Prozent (Tagesschau, Spiegel, Zeit Online, Handelsblatt, WirtschaftsWoche); Backdoor in Claude-Code-Erweiterung auf Cursor-Marketplace entdeckt (The Decoder, Heise, Hacker News); Bundesweite Jugendproteste der Initiative Gen Z regelt (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Sat, 31 Oct 2026 05:37:42 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-10-31</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-10-31/daily-briefing-2026-10-31.mp3" length="11614608" type="audio/mpeg"/>
-      <itunes:duration>1161</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
