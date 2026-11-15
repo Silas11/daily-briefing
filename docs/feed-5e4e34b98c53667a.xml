@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Sonntag, 15. November 2026</title>
+      <description>Themen heute: US-Friedensvorstoss fuer Ukraine (Deutschlandfunk, Tagesschau, Handelsblatt); Nvidia-Fuehrungswechsel nach Skandal (TechCrunch, Hacker News, Zeit Online, FAZ, Handelsblatt, Heise, WirtschaftsWoche); Machtkampf in der SPD-Spitze (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Eskalation im Nahen Osten (Deutschlandfunk, Zeit Online, Spiegel, Handelsblatt, Tagesschau); Staatlicher Ausstieg bei der Meyer Werft (Manager Magazin, Handelsblatt, WirtschaftsWoche, Spiegel); Massives Flugchaos in den USA (Deutschlandfunk, FAZ, Spiegel, Tagesschau, Handelsblatt, WirtschaftsWoche, Zeit Online); Globale IT-Stoerung bei Microsoft-Diensten (Spiegel, Tagesschau, WirtschaftsWoche, Heise, FAZ, Manager Magazin); Anthropic IPO-Vorbereitungen und Claude Updates (The Decoder); Debatte um Selbstzahler-Termine bei Fachaerzten (Spiegel, Deutschlandfunk, Tagesschau); Hoehere Abschlaege bei Fruehrente geplant (Deutschlandfunk, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Sun, 15 Nov 2026 05:32:54 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-15</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-15/daily-briefing-2026-11-15.mp3" length="11487652" type="audio/mpeg"/>
+      <itunes:duration>1149</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Samstag, 14. November 2026</title>
       <description>Themen heute: Skandal und Führungswechsel bei Nvidia (Deutschlandfunk, FAZ, TechCrunch, The Decoder, Tagesschau, Handelsblatt, Spiegel, Manager Magazin, WirtschaftsWoche); Geplantes Spitzentreffen von Trump, Putin und Xi (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, Spiegel); Weltweite Großstörung bei Microsoft-Onlinediensten (Deutschlandfunk, Tagesschau, FAZ, Manager Magazin, WirtschaftsWoche, Handelsblatt, Spiegel, Horizont); Eskalierender Tarif- und Standortkonflikt bei Mercedes-Benz (FAZ, Handelsblatt, Manager Magazin, Zeit Online); Geplanter Milliarden-Börsengang von Anthropic überzeichnet (Handelsblatt, The Decoder, Manager Magazin); Anthropic veröffentlicht Claude for Manufacturing und Code Update (Claude Code Releases, The Decoder); Stundenlanges Flugverbot in den USA wegen IT-Störung (Deutschlandfunk, Tagesschau, Spiegel, Zeit Online, FAZ, Heise, Hacker News, Handelsblatt); EU einigt sich auf Verhandlungsteam für Ukraine-Friedensgespräche (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Einigung auf Bundeshaushalt 2027 und Warnung vor Finanzkrise (Deutschlandfunk, Spiegel, Tagesschau, FAZ); OpenAI bringt ChatGPT Wallet und Cybersecurity-Sparte (The Decoder, TechCrunch, OpenAI). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Sat, 14 Nov 2026 05:42:01 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-11-02</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-02/daily-briefing-2026-11-02.mp3" length="10927849" type="audio/mpeg"/>
       <itunes:duration>1093</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Sonntag, 1. November 2026</title>
-      <description>Themen heute: Bundesweite Ausschreitungen nach Protesten von Gen Z regelt (Tagesschau, Spiegel, Deutschlandfunk, Zeit Online, Handelsblatt, FAZ, WirtschaftsWoche); IG Metall startet bundesweite Warnstreiks in der Industrie (Tagesschau, Deutschlandfunk, Handelsblatt, FAZ, WirtschaftsWoche); OpenAI verfehlt Finanzierungsziel und senkt Bewertungserwartung (The Decoder, Handelsblatt, TechCrunch, FAZ); Machtkampf um das polnische Verfassungsgericht eskaliert (Tagesschau, Deutschlandfunk, Spiegel, Handelsblatt); FBI belastet Nordkorea fuer Milliarden-Hackerangriff auf Kryptoboerse Binance (Deutschlandfunk, Tagesschau, FAZ, Spiegel); Microsoft streicht bis zu 60000 Stellen fuer KI-Milliardeninvestitionen (The Decoder, WirtschaftsWoche); Anthropic: Claude-Updates zu Wasserzeichen, Modellsicherheit und Pharma (The Decoder, Hacker News); Massenproteste in Frankreich und Italien gegen Bildungsmissstaende und Teuerung (Deutschlandfunk, Tagesschau, Spiegel); G20-Aussenministertreffen in Atlanta und Kontroverse um Sergej Lawrow (Handelsblatt, Spiegel, Deutschlandfunk); Berliner Linke beschliesst Koalitionsverhandlungen fuer Rot-Gruen-Rot (Tagesschau, Deutschlandfunk, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Sun, 01 Nov 2026 05:22:19 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-11-01</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-01/daily-briefing-2026-11-01.mp3" length="10801416" type="audio/mpeg"/>
-      <itunes:duration>1080</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
