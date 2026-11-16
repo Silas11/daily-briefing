@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Montag, 16. November 2026</title>
+      <description>Themen heute: Affäre und Rückkehr-Debatte um Ex-Nvidia-Chef Jensen Huang (Spiegel, Zeit Online, TechCrunch, Handelsblatt, FAZ, Heise, WirtschaftsWoche, The Decoder); Machtkampf um die SPD-Führung (Deutschlandfunk, Zeit Online, Spiegel, Handelsblatt, Tagesschau); Estland schließt Grenze zu Russland nach Anschlagsversuch (Deutschlandfunk, Tagesschau, Spiegel); Fehlschlag bei Vulcan-Raketenstart zerstört Amazon-Satelliten (Deutschlandfunk, Heise, Handelsblatt, FAZ); Anthropic zeigt Claude Fable 5.2 und plant Börsengang (The Decoder, Heise, Spiegel, Handelsblatt); UN-Beratungen über Regulierung von KI-Waffensystemen (Deutschlandfunk, Handelsblatt); Massenproteste in Tschechien gegen Rundfunkreform (Deutschlandfunk, Tagesschau, Spiegel); Gegenseitige Luftangriffe im Ukraine-Krieg (Zeit Online, Tagesschau, Spiegel); Militärische Spannungen und Truppenaufstockung im Nahen Osten (Deutschlandfunk, Spiegel, Zeit Online); Folgen und Ursachen des US-Flugstopps (Deutschlandfunk, Spiegel, FAZ, Handelsblatt, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Mon, 16 Nov 2026 05:40:58 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-16</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-16/daily-briefing-2026-11-16.mp3" length="11660844" type="audio/mpeg"/>
+      <itunes:duration>1166</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Sonntag, 15. November 2026</title>
       <description>Themen heute: US-Friedensvorstoss fuer Ukraine (Deutschlandfunk, Tagesschau, Handelsblatt); Nvidia-Fuehrungswechsel nach Skandal (TechCrunch, Hacker News, Zeit Online, FAZ, Handelsblatt, Heise, WirtschaftsWoche); Machtkampf in der SPD-Spitze (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Eskalation im Nahen Osten (Deutschlandfunk, Zeit Online, Spiegel, Handelsblatt, Tagesschau); Staatlicher Ausstieg bei der Meyer Werft (Manager Magazin, Handelsblatt, WirtschaftsWoche, Spiegel); Massives Flugchaos in den USA (Deutschlandfunk, FAZ, Spiegel, Tagesschau, Handelsblatt, WirtschaftsWoche, Zeit Online); Globale IT-Stoerung bei Microsoft-Diensten (Spiegel, Tagesschau, WirtschaftsWoche, Heise, FAZ, Manager Magazin); Anthropic IPO-Vorbereitungen und Claude Updates (The Decoder); Debatte um Selbstzahler-Termine bei Fachaerzten (Spiegel, Deutschlandfunk, Tagesschau); Hoehere Abschlaege bei Fruehrente geplant (Deutschlandfunk, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Sun, 15 Nov 2026 05:32:54 +0000</pubDate>
@@ -124,15 +133,6 @@
       <guid isPermaLink="false">ep-2026-11-03</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-03/daily-briefing-2026-11-03.mp3" length="10817351" type="audio/mpeg"/>
       <itunes:duration>1082</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Montag, 2. November 2026</title>
-      <description>Themen heute: Debatte und politische Kontroverse nach Ausschreitungen bei Gen-Z-Protesten (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, FAZ, Handelsblatt); BSI-Warnung vor Spähsoftware auf iPhones von Spitzenpolitikern (Deutschlandfunk, Heise, Spiegel, Tagesschau); Bundesweite Ausweitung der IG-Metall-Warnstreiks (Deutschlandfunk, Tagesschau, Spiegel, FAZ, WirtschaftsWoche); Start der Koalitionsverhandlungen in Berlin und Gegenwind aus der Bundes-SPD (Deutschlandfunk, Tagesschau, Spiegel); Cyberangriffe auf Notfall-Apps und Ende lokaler Waffenruhe im Ukraine-Krieg (Tagesschau, Handelsblatt, Spiegel, Deutschlandfunk); FBI identifiziert Nordkorea hinter Milliarden-Diebstahl bei Binance (Handelsblatt, Heise, Manager Magazin, FAZ); Deutsche Gasspeicher verfehlen gesetzliche Füllstandsvorgabe (Tagesschau, Zeit Online); Digitalgipfel der Bundesregierung zur europäischen KI-Strategie (Tagesschau, Spiegel, FAZ); OpenAI verschärft Gerätelimits und vereint Kontingente bei ChatGPT (The Decoder); Eskalierender Richtungsstreit bei US-Demokraten vor den Midterms (Spiegel, Handelsblatt, FAZ, Deutschlandfunk). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Mon, 02 Nov 2026 05:29:51 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-11-02</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-02/daily-briefing-2026-11-02.mp3" length="10927849" type="audio/mpeg"/>
-      <itunes:duration>1093</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

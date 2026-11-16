@@ -1,14 +1,5 @@
 [
  {
-  "tag": "ep-2026-11-02",
-  "title": "Daily Briefing, Montag, 2. November 2026",
-  "description": "Themen heute: Debatte und politische Kontroverse nach Ausschreitungen bei Gen-Z-Protesten (Deutschlandfunk, Zeit Online, Tagesschau, Spiegel, FAZ, Handelsblatt); BSI-Warnung vor Spähsoftware auf iPhones von Spitzenpolitikern (Deutschlandfunk, Heise, Spiegel, Tagesschau); Bundesweite Ausweitung der IG-Metall-Warnstreiks (Deutschlandfunk, Tagesschau, Spiegel, FAZ, WirtschaftsWoche); Start der Koalitionsverhandlungen in Berlin und Gegenwind aus der Bundes-SPD (Deutschlandfunk, Tagesschau, Spiegel); Cyberangriffe auf Notfall-Apps und Ende lokaler Waffenruhe im Ukraine-Krieg (Tagesschau, Handelsblatt, Spiegel, Deutschlandfunk); FBI identifiziert Nordkorea hinter Milliarden-Diebstahl bei Binance (Handelsblatt, Heise, Manager Magazin, FAZ); Deutsche Gasspeicher verfehlen gesetzliche Füllstandsvorgabe (Tagesschau, Zeit Online); Digitalgipfel der Bundesregierung zur europäischen KI-Strategie (Tagesschau, Spiegel, FAZ); OpenAI verschärft Gerätelimits und vereint Kontingente bei ChatGPT (The Decoder); Eskalierender Richtungsstreit bei US-Demokraten vor den Midterms (Spiegel, Handelsblatt, FAZ, Deutschlandfunk). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-02T05:29:51.264293+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-02/daily-briefing-2026-11-02.mp3",
-  "bytes": 10927849,
-  "duration": 1093
- },
- {
   "tag": "ep-2026-11-03",
   "title": "Daily Briefing, Dienstag, 3. November 2026",
   "description": "Themen heute: US-Midterms: Entscheidende Kongresswahlen (Zeit Online, Spiegel, Deutschlandfunk, Tagesschau, Handelsblatt); Militärschläge in der Straße von Hormus (WirtschaftsWoche, Tagesschau, Deutschlandfunk, Handelsblatt); Anthropic meldet Umsatzplus und Milliardenverlust vor Börsengang (Hacker News, Handelsblatt, Spiegel, Heise, Zeit Online, Manager Magazin, FAZ, The Decoder); Neue Verhandlungsrunde im Ukraine-Krieg angekündigt (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Marvell übernimmt Lumentum für 115 Milliarden Dollar (Manager Magazin, WirtschaftsWoche, Handelsblatt); Mittelabfluss bei Binance nach Krypto-Hackerangriff (Deutschlandfunk, Handelsblatt, Spiegel, Manager Magazin, Tagesschau); Cyberangriffe auf europäischen Lebensmittelhandel (Tagesschau, WirtschaftsWoche, Handelsblatt, FAZ, Manager Magazin); Neue Regeln und Updates bei Claude Code (Claude Code Releases, Heise); Unternehmen begrenzen Einsatz von KI-Coding-Agenten (The Decoder, TechCrunch, Handelsblatt); Nachwehen der Gen-Z-Jugendproteste (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.",
@@ -124,5 +115,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-15/daily-briefing-2026-11-15.mp3",
   "bytes": 11487652,
   "duration": 1149
+ },
+ {
+  "tag": "ep-2026-11-16",
+  "title": "Daily Briefing, Montag, 16. November 2026",
+  "description": "Themen heute: Affäre und Rückkehr-Debatte um Ex-Nvidia-Chef Jensen Huang (Spiegel, Zeit Online, TechCrunch, Handelsblatt, FAZ, Heise, WirtschaftsWoche, The Decoder); Machtkampf um die SPD-Führung (Deutschlandfunk, Zeit Online, Spiegel, Handelsblatt, Tagesschau); Estland schließt Grenze zu Russland nach Anschlagsversuch (Deutschlandfunk, Tagesschau, Spiegel); Fehlschlag bei Vulcan-Raketenstart zerstört Amazon-Satelliten (Deutschlandfunk, Heise, Handelsblatt, FAZ); Anthropic zeigt Claude Fable 5.2 und plant Börsengang (The Decoder, Heise, Spiegel, Handelsblatt); UN-Beratungen über Regulierung von KI-Waffensystemen (Deutschlandfunk, Handelsblatt); Massenproteste in Tschechien gegen Rundfunkreform (Deutschlandfunk, Tagesschau, Spiegel); Gegenseitige Luftangriffe im Ukraine-Krieg (Zeit Online, Tagesschau, Spiegel); Militärische Spannungen und Truppenaufstockung im Nahen Osten (Deutschlandfunk, Spiegel, Zeit Online); Folgen und Ursachen des US-Flugstopps (Deutschlandfunk, Spiegel, FAZ, Handelsblatt, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-16T05:40:58.790810+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-16/daily-briefing-2026-11-16.mp3",
+  "bytes": 11660844,
+  "duration": 1166
  }
 ]
