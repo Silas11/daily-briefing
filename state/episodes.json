@@ -1,23 +1,5 @@
 [
  {
-  "tag": "ep-2026-11-03",
-  "title": "Daily Briefing, Dienstag, 3. November 2026",
-  "description": "Themen heute: US-Midterms: Entscheidende Kongresswahlen (Zeit Online, Spiegel, Deutschlandfunk, Tagesschau, Handelsblatt); Militärschläge in der Straße von Hormus (WirtschaftsWoche, Tagesschau, Deutschlandfunk, Handelsblatt); Anthropic meldet Umsatzplus und Milliardenverlust vor Börsengang (Hacker News, Handelsblatt, Spiegel, Heise, Zeit Online, Manager Magazin, FAZ, The Decoder); Neue Verhandlungsrunde im Ukraine-Krieg angekündigt (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Marvell übernimmt Lumentum für 115 Milliarden Dollar (Manager Magazin, WirtschaftsWoche, Handelsblatt); Mittelabfluss bei Binance nach Krypto-Hackerangriff (Deutschlandfunk, Handelsblatt, Spiegel, Manager Magazin, Tagesschau); Cyberangriffe auf europäischen Lebensmittelhandel (Tagesschau, WirtschaftsWoche, Handelsblatt, FAZ, Manager Magazin); Neue Regeln und Updates bei Claude Code (Claude Code Releases, Heise); Unternehmen begrenzen Einsatz von KI-Coding-Agenten (The Decoder, TechCrunch, Handelsblatt); Nachwehen der Gen-Z-Jugendproteste (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-03T05:27:10.250349+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-03/daily-briefing-2026-11-03.mp3",
-  "bytes": 10817351,
-  "duration": 1082
- },
- {
-  "tag": "ep-2026-11-04",
-  "title": "Daily Briefing, Mittwoch, 4. November 2026",
-  "description": "Themen heute: US-Midterms 2026: Demokraten erobern Mehrheit in beiden Kongresskammern (Tagesschau, Zeit Online, Spiegel, Deutschlandfunk, Handelsblatt); Kahlschlag bei Schaeffler: Tausende Stellen entfallen und Standorte schließen (Deutschlandfunk, WirtschaftsWoche, FAZ, Handelsblatt, Tagesschau, Zeit Online, Spiegel, Manager Magazin); Erneute Gewinnwarnung bei BMW (Deutschlandfunk, FAZ, Spiegel, Zeit Online, Handelsblatt, WirtschaftsWoche, Manager Magazin); EU-Kommission genehmigt Verkauf von MediaMarktSaturn an JD.com (Tagesschau, Manager Magazin, Horizont, Zeit Online, WirtschaftsWoche, Handelsblatt, Spiegel); OpenAI: Hardware-Design mit GPT-6-Astra und neuer Militärberater (The Decoder, OpenAI, Hacker News); Anthropic beschleunigt API-Agenten und aktualisiert Claude Code (Claude Code Releases, TechCrunch, The Decoder); Rücktritt von Spaniens Verkehrsminister nach tödlichen Zugunglücken (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel); Selenskyj-Besuch in Berlin und Flugabwehr-Gespräche (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel, WirtschaftsWoche); Cyberattacken auf Kühlanlagen in europäischen und deutschen Supermärkten (WirtschaftsWoche, Handelsblatt, Tagesschau, Manager Magazin, Zeit Online); Ausschreibung für Gaskraftwerke: RWE und LEAG sichern sich Förderungen (FAZ, Spiegel, WirtschaftsWoche, Tagesschau). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-04T05:27:50.895611+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-04/daily-briefing-2026-11-04.mp3",
-  "bytes": 11919719,
-  "duration": 1192
- },
- {
   "tag": "ep-2026-11-05",
   "title": "Daily Briefing, Donnerstag, 5. November 2026",
   "description": "Themen heute: US-Midterms: Demokraten erobern Kongress (Tagesschau, Deutschlandfunk, Spiegel, Handelsblatt, Zeit Online, FAZ); Bayerischer Wirtschaftsminister Hubert Aiwanger gestorben (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); EU-Umweltausschuss votiert für Lockerung des Verbrenner-Aus (Heise, Spiegel, FAZ); Absatzeinbruch in China belastet deutsche Autobauer (Handelsblatt, FAZ, Spiegel, WirtschaftsWoche, Tagesschau); Bosch und Schaeffler verschärfen Personalabbau (Handelsblatt, WirtschaftsWoche); Euro-Inflation steigt auf 4,0 Prozent / EZB-Kandidatur Klaas Knot (Handelsblatt, Spiegel, Tagesschau, FAZ, Manager Magazin); OpenAI übernimmt Entwickler-Start-up Pierre (Heise, The Decoder, OpenAI); Gewerkschaften rufen zu Generalstreik in Frankreich auf (Zeit Online, Deutschlandfunk, Tagesschau); Rheinmetall senkt Jahresprognose wegen Verzögerungen (Handelsblatt, Manager Magazin); Preiskorrektur und Zinsdruck am Immobilienmarkt (Handelsblatt, FAZ, Manager Magazin). KI-generierte Zusammenfassung von Pressematerial.",
@@ -124,5 +106,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-16/daily-briefing-2026-11-16.mp3",
   "bytes": 11660844,
   "duration": 1166
+ },
+ {
+  "tag": "ep-2026-11-18",
+  "title": "Daily Briefing, Mittwoch, 18. November 2026",
+  "description": "Themen heute: Massives Datenleak erschüttert Deutsche Bank (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt, WirtschaftsWoche, Manager Magazin, Zeit Online); Nvidia lehnt Rückkehr von Jensen Huang trotz Rekordzahlen ab (Deutschlandfunk, WirtschaftsWoche, TechCrunch, FAZ, Tagesschau, Spiegel, Zeit Online, Manager Magazin, Handelsblatt, Hacker News); Koalitionsausschuss ringt um Stromsteuer und Entlastungen (Deutschlandfunk, Tagesschau, Spiegel, FAZ, Handelsblatt, Zeit Online); Serie technischer Störungen bei US-Behörden und Unternehmen (Deutschlandfunk, Zeit Online, Spiegel, Heise, Handelsblatt, Hacker News, Manager Magazin); Ukrainischer Angriff auf Krim-Brücke und US-Kritik (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); USA verschärfen Ausfuhrregeln für KI-Chips (FAZ, The Decoder, Tagesschau, Manager Magazin); OpenAI kündigt GPT-6.2 Astra und Sol an (The Decoder, OpenAI); APEC-Gipfel in Shenzhen gestartet (Deutschlandfunk, Zeit Online, Handelsblatt); Machtwechsel im israelischen Parlament (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); EU-Kommission hebt Wachstumsprognose für Deutschland an (FAZ, Tagesschau, Spiegel, Zeit Online). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-18T05:30:23.455861+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-18/daily-briefing-2026-11-18.mp3",
+  "bytes": 11464142,
+  "duration": 1146
  }
 ]

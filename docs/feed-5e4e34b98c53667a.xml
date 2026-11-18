@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Mittwoch, 18. November 2026</title>
+      <description>Themen heute: Massives Datenleak erschüttert Deutsche Bank (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt, WirtschaftsWoche, Manager Magazin, Zeit Online); Nvidia lehnt Rückkehr von Jensen Huang trotz Rekordzahlen ab (Deutschlandfunk, WirtschaftsWoche, TechCrunch, FAZ, Tagesschau, Spiegel, Zeit Online, Manager Magazin, Handelsblatt, Hacker News); Koalitionsausschuss ringt um Stromsteuer und Entlastungen (Deutschlandfunk, Tagesschau, Spiegel, FAZ, Handelsblatt, Zeit Online); Serie technischer Störungen bei US-Behörden und Unternehmen (Deutschlandfunk, Zeit Online, Spiegel, Heise, Handelsblatt, Hacker News, Manager Magazin); Ukrainischer Angriff auf Krim-Brücke und US-Kritik (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); USA verschärfen Ausfuhrregeln für KI-Chips (FAZ, The Decoder, Tagesschau, Manager Magazin); OpenAI kündigt GPT-6.2 Astra und Sol an (The Decoder, OpenAI); APEC-Gipfel in Shenzhen gestartet (Deutschlandfunk, Zeit Online, Handelsblatt); Machtwechsel im israelischen Parlament (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); EU-Kommission hebt Wachstumsprognose für Deutschland an (FAZ, Tagesschau, Spiegel, Zeit Online). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Wed, 18 Nov 2026 05:30:23 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-18</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-18/daily-briefing-2026-11-18.mp3" length="11464142" type="audio/mpeg"/>
+      <itunes:duration>1146</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Montag, 16. November 2026</title>
       <description>Themen heute: Affäre und Rückkehr-Debatte um Ex-Nvidia-Chef Jensen Huang (Spiegel, Zeit Online, TechCrunch, Handelsblatt, FAZ, Heise, WirtschaftsWoche, The Decoder); Machtkampf um die SPD-Führung (Deutschlandfunk, Zeit Online, Spiegel, Handelsblatt, Tagesschau); Estland schließt Grenze zu Russland nach Anschlagsversuch (Deutschlandfunk, Tagesschau, Spiegel); Fehlschlag bei Vulcan-Raketenstart zerstört Amazon-Satelliten (Deutschlandfunk, Heise, Handelsblatt, FAZ); Anthropic zeigt Claude Fable 5.2 und plant Börsengang (The Decoder, Heise, Spiegel, Handelsblatt); UN-Beratungen über Regulierung von KI-Waffensystemen (Deutschlandfunk, Handelsblatt); Massenproteste in Tschechien gegen Rundfunkreform (Deutschlandfunk, Tagesschau, Spiegel); Gegenseitige Luftangriffe im Ukraine-Krieg (Zeit Online, Tagesschau, Spiegel); Militärische Spannungen und Truppenaufstockung im Nahen Osten (Deutschlandfunk, Spiegel, Zeit Online); Folgen und Ursachen des US-Flugstopps (Deutschlandfunk, Spiegel, FAZ, Handelsblatt, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Mon, 16 Nov 2026 05:40:58 +0000</pubDate>
@@ -115,24 +124,6 @@
       <guid isPermaLink="false">ep-2026-11-05</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-05/daily-briefing-2026-11-05.mp3" length="11547474" type="audio/mpeg"/>
       <itunes:duration>1155</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Mittwoch, 4. November 2026</title>
-      <description>Themen heute: US-Midterms 2026: Demokraten erobern Mehrheit in beiden Kongresskammern (Tagesschau, Zeit Online, Spiegel, Deutschlandfunk, Handelsblatt); Kahlschlag bei Schaeffler: Tausende Stellen entfallen und Standorte schließen (Deutschlandfunk, WirtschaftsWoche, FAZ, Handelsblatt, Tagesschau, Zeit Online, Spiegel, Manager Magazin); Erneute Gewinnwarnung bei BMW (Deutschlandfunk, FAZ, Spiegel, Zeit Online, Handelsblatt, WirtschaftsWoche, Manager Magazin); EU-Kommission genehmigt Verkauf von MediaMarktSaturn an JD.com (Tagesschau, Manager Magazin, Horizont, Zeit Online, WirtschaftsWoche, Handelsblatt, Spiegel); OpenAI: Hardware-Design mit GPT-6-Astra und neuer Militärberater (The Decoder, OpenAI, Hacker News); Anthropic beschleunigt API-Agenten und aktualisiert Claude Code (Claude Code Releases, TechCrunch, The Decoder); Rücktritt von Spaniens Verkehrsminister nach tödlichen Zugunglücken (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel); Selenskyj-Besuch in Berlin und Flugabwehr-Gespräche (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel, WirtschaftsWoche); Cyberattacken auf Kühlanlagen in europäischen und deutschen Supermärkten (WirtschaftsWoche, Handelsblatt, Tagesschau, Manager Magazin, Zeit Online); Ausschreibung für Gaskraftwerke: RWE und LEAG sichern sich Förderungen (FAZ, Spiegel, WirtschaftsWoche, Tagesschau). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Wed, 04 Nov 2026 05:27:50 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-11-04</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-04/daily-briefing-2026-11-04.mp3" length="11919719" type="audio/mpeg"/>
-      <itunes:duration>1192</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Dienstag, 3. November 2026</title>
-      <description>Themen heute: US-Midterms: Entscheidende Kongresswahlen (Zeit Online, Spiegel, Deutschlandfunk, Tagesschau, Handelsblatt); Militärschläge in der Straße von Hormus (WirtschaftsWoche, Tagesschau, Deutschlandfunk, Handelsblatt); Anthropic meldet Umsatzplus und Milliardenverlust vor Börsengang (Hacker News, Handelsblatt, Spiegel, Heise, Zeit Online, Manager Magazin, FAZ, The Decoder); Neue Verhandlungsrunde im Ukraine-Krieg angekündigt (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Marvell übernimmt Lumentum für 115 Milliarden Dollar (Manager Magazin, WirtschaftsWoche, Handelsblatt); Mittelabfluss bei Binance nach Krypto-Hackerangriff (Deutschlandfunk, Handelsblatt, Spiegel, Manager Magazin, Tagesschau); Cyberangriffe auf europäischen Lebensmittelhandel (Tagesschau, WirtschaftsWoche, Handelsblatt, FAZ, Manager Magazin); Neue Regeln und Updates bei Claude Code (Claude Code Releases, Heise); Unternehmen begrenzen Einsatz von KI-Coding-Agenten (The Decoder, TechCrunch, Handelsblatt); Nachwehen der Gen-Z-Jugendproteste (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Tue, 03 Nov 2026 05:27:10 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-11-03</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-03/daily-briefing-2026-11-03.mp3" length="10817351" type="audio/mpeg"/>
-      <itunes:duration>1082</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
