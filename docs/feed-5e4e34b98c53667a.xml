@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Freitag, 20. November 2026</title>
+      <description>Themen heute: Gipfeltreffen in Shenzhen und Berliner Gegengipfel zur Ukraine (Handelsblatt, Tagesschau, Spiegel, Deutschlandfunk); Historischer Rekord-Börsengang von Anthropic (Deutschlandfunk, Spiegel, Handelsblatt, TechCrunch, Zeit Online, WirtschaftsWoche, FAZ, Heise, Hacker News, Tagesschau, Manager Magazin); BASF gibt Übernahmeversuch von Evonik auf (Zeit Online, WirtschaftsWoche, Tagesschau, Handelsblatt, Manager Magazin, FAZ, Spiegel); Harter Tarifkonflikt bei Volkswagen um Nullrunden und Arbeitszeiten (Deutschlandfunk, Zeit Online, Tagesschau, WirtschaftsWoche, Manager Magazin, Spiegel, FAZ, Handelsblatt); Ganztägige Warnstreiks der IG Metall in der Metall- und Elektroindustrie (Deutschlandfunk, Tagesschau, FAZ, Handelsblatt, WirtschaftsWoche, Manager Magazin, Spiegel); Einigung zwischen Bundesregierung und UniCredit über Commerzbank-Übernahme (WirtschaftsWoche, FAZ, Zeit Online, Manager Magazin); Stellenabbau und Flottenkürzungen bei der Lufthansa (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, FAZ); Deutsche Telekom investiert 100 Millionen Euro in Mistral AI (Deutschlandfunk, WirtschaftsWoche, Tagesschau, Manager Magazin, FAZ, Spiegel); KI-Cyberangriff auf EU-Kommission und Systemausfälle im US-Regierungsapparat (Deutschlandfunk, Handelsblatt, Spiegel, TechCrunch, Heise, Tagesschau); Verschärfte US-Chipkontrollen und Untersuchung zu Nvidia-Lieferungen (Handelsblatt, TechCrunch, The Decoder). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Fri, 20 Nov 2026 05:23:33 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-20</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-20/daily-briefing-2026-11-20.mp3" length="13316485" type="audio/mpeg"/>
+      <itunes:duration>1332</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Mittwoch, 18. November 2026</title>
       <description>Themen heute: Massives Datenleak erschüttert Deutsche Bank (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt, WirtschaftsWoche, Manager Magazin, Zeit Online); Nvidia lehnt Rückkehr von Jensen Huang trotz Rekordzahlen ab (Deutschlandfunk, WirtschaftsWoche, TechCrunch, FAZ, Tagesschau, Spiegel, Zeit Online, Manager Magazin, Handelsblatt, Hacker News); Koalitionsausschuss ringt um Stromsteuer und Entlastungen (Deutschlandfunk, Tagesschau, Spiegel, FAZ, Handelsblatt, Zeit Online); Serie technischer Störungen bei US-Behörden und Unternehmen (Deutschlandfunk, Zeit Online, Spiegel, Heise, Handelsblatt, Hacker News, Manager Magazin); Ukrainischer Angriff auf Krim-Brücke und US-Kritik (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); USA verschärfen Ausfuhrregeln für KI-Chips (FAZ, The Decoder, Tagesschau, Manager Magazin); OpenAI kündigt GPT-6.2 Astra und Sol an (The Decoder, OpenAI); APEC-Gipfel in Shenzhen gestartet (Deutschlandfunk, Zeit Online, Handelsblatt); Machtwechsel im israelischen Parlament (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); EU-Kommission hebt Wachstumsprognose für Deutschland an (FAZ, Tagesschau, Spiegel, Zeit Online). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Wed, 18 Nov 2026 05:30:23 +0000</pubDate>
@@ -115,15 +124,6 @@
       <guid isPermaLink="false">ep-2026-11-06</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-06/daily-briefing-2026-11-06.mp3" length="10435702" type="audio/mpeg"/>
       <itunes:duration>1044</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Donnerstag, 5. November 2026</title>
-      <description>Themen heute: US-Midterms: Demokraten erobern Kongress (Tagesschau, Deutschlandfunk, Spiegel, Handelsblatt, Zeit Online, FAZ); Bayerischer Wirtschaftsminister Hubert Aiwanger gestorben (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); EU-Umweltausschuss votiert für Lockerung des Verbrenner-Aus (Heise, Spiegel, FAZ); Absatzeinbruch in China belastet deutsche Autobauer (Handelsblatt, FAZ, Spiegel, WirtschaftsWoche, Tagesschau); Bosch und Schaeffler verschärfen Personalabbau (Handelsblatt, WirtschaftsWoche); Euro-Inflation steigt auf 4,0 Prozent / EZB-Kandidatur Klaas Knot (Handelsblatt, Spiegel, Tagesschau, FAZ, Manager Magazin); OpenAI übernimmt Entwickler-Start-up Pierre (Heise, The Decoder, OpenAI); Gewerkschaften rufen zu Generalstreik in Frankreich auf (Zeit Online, Deutschlandfunk, Tagesschau); Rheinmetall senkt Jahresprognose wegen Verzögerungen (Handelsblatt, Manager Magazin); Preiskorrektur und Zinsdruck am Immobilienmarkt (Handelsblatt, FAZ, Manager Magazin). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Thu, 05 Nov 2026 05:29:15 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-11-05</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-05/daily-briefing-2026-11-05.mp3" length="11547474" type="audio/mpeg"/>
-      <itunes:duration>1155</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

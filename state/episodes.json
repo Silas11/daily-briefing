@@ -1,14 +1,5 @@
 [
  {
-  "tag": "ep-2026-11-05",
-  "title": "Daily Briefing, Donnerstag, 5. November 2026",
-  "description": "Themen heute: US-Midterms: Demokraten erobern Kongress (Tagesschau, Deutschlandfunk, Spiegel, Handelsblatt, Zeit Online, FAZ); Bayerischer Wirtschaftsminister Hubert Aiwanger gestorben (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); EU-Umweltausschuss votiert für Lockerung des Verbrenner-Aus (Heise, Spiegel, FAZ); Absatzeinbruch in China belastet deutsche Autobauer (Handelsblatt, FAZ, Spiegel, WirtschaftsWoche, Tagesschau); Bosch und Schaeffler verschärfen Personalabbau (Handelsblatt, WirtschaftsWoche); Euro-Inflation steigt auf 4,0 Prozent / EZB-Kandidatur Klaas Knot (Handelsblatt, Spiegel, Tagesschau, FAZ, Manager Magazin); OpenAI übernimmt Entwickler-Start-up Pierre (Heise, The Decoder, OpenAI); Gewerkschaften rufen zu Generalstreik in Frankreich auf (Zeit Online, Deutschlandfunk, Tagesschau); Rheinmetall senkt Jahresprognose wegen Verzögerungen (Handelsblatt, Manager Magazin); Preiskorrektur und Zinsdruck am Immobilienmarkt (Handelsblatt, FAZ, Manager Magazin). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-05T05:29:15.756052+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-05/daily-briefing-2026-11-05.mp3",
-  "bytes": 11547474,
-  "duration": 1155
- },
- {
   "tag": "ep-2026-11-06",
   "title": "Daily Briefing, Freitag, 6. November 2026",
   "description": "Themen heute: US-Midterms: Wahlsieg der Demokraten schwächt Trump und Milliardäre (Zeit Online, Spiegel, Handelsblatt, FAZ, Deutschlandfunk); US-Börsen und Asien-Märkte: Kurseinbruch bei Chip- und Tech-Aktien (Handelsblatt, Zeit Online, Tagesschau); OpenAI bringt GPT-6 Cyber und plant Börsengang bis 2027 (Heise, The Decoder, TechCrunch, OpenAI); Paraguay: Präsident Peña tritt nach Kollaps von Digitalbank zurück (Tagesschau, Handelsblatt, Deutschlandfunk, Spiegel); Rheinmetall: Erneute Prognosesenkung führt zu Kurseinbruch (WirtschaftsWoche, FAZ, Handelsblatt, Manager Magazin); KNDS: Bund einigt sich auf 50-Prozent-Einstieg beim Panzerbauer (Tagesschau, Manager Magazin, Zeit Online, WirtschaftsWoche, Spiegel); Signa-Gründer René Benko erhält weitere zwei Jahre Haft wegen Betrugs (Deutschlandfunk, Tagesschau, WirtschaftsWoche, Handelsblatt, Spiegel, Manager Magazin, FAZ); Autokrise: Bosch streicht weitere 750 Stellen in Abstatt (Handelsblatt, FAZ, Spiegel, WirtschaftsWoche, Manager Magazin); Anthropic schließt erste Verlagsdeals und erweitert Claude um Finanztanz-Tools (Handelsblatt, TechCrunch, The Decoder); Frankreich: Hunderttausende protestieren für höhere Löhne und Bildung (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.",
@@ -115,5 +106,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-18/daily-briefing-2026-11-18.mp3",
   "bytes": 11464142,
   "duration": 1146
+ },
+ {
+  "tag": "ep-2026-11-20",
+  "title": "Daily Briefing, Freitag, 20. November 2026",
+  "description": "Themen heute: Gipfeltreffen in Shenzhen und Berliner Gegengipfel zur Ukraine (Handelsblatt, Tagesschau, Spiegel, Deutschlandfunk); Historischer Rekord-Börsengang von Anthropic (Deutschlandfunk, Spiegel, Handelsblatt, TechCrunch, Zeit Online, WirtschaftsWoche, FAZ, Heise, Hacker News, Tagesschau, Manager Magazin); BASF gibt Übernahmeversuch von Evonik auf (Zeit Online, WirtschaftsWoche, Tagesschau, Handelsblatt, Manager Magazin, FAZ, Spiegel); Harter Tarifkonflikt bei Volkswagen um Nullrunden und Arbeitszeiten (Deutschlandfunk, Zeit Online, Tagesschau, WirtschaftsWoche, Manager Magazin, Spiegel, FAZ, Handelsblatt); Ganztägige Warnstreiks der IG Metall in der Metall- und Elektroindustrie (Deutschlandfunk, Tagesschau, FAZ, Handelsblatt, WirtschaftsWoche, Manager Magazin, Spiegel); Einigung zwischen Bundesregierung und UniCredit über Commerzbank-Übernahme (WirtschaftsWoche, FAZ, Zeit Online, Manager Magazin); Stellenabbau und Flottenkürzungen bei der Lufthansa (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, FAZ); Deutsche Telekom investiert 100 Millionen Euro in Mistral AI (Deutschlandfunk, WirtschaftsWoche, Tagesschau, Manager Magazin, FAZ, Spiegel); KI-Cyberangriff auf EU-Kommission und Systemausfälle im US-Regierungsapparat (Deutschlandfunk, Handelsblatt, Spiegel, TechCrunch, Heise, Tagesschau); Verschärfte US-Chipkontrollen und Untersuchung zu Nvidia-Lieferungen (Handelsblatt, TechCrunch, The Decoder). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-20T05:23:33.618410+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-20/daily-briefing-2026-11-20.mp3",
+  "bytes": 13316485,
+  "duration": 1332
  }
 ]
