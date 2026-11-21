@@ -10,6 +10,15 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Daily Briefing, Samstag, 21. November 2026</title>
+      <description>Themen heute: Milliardenvergleich im Glyphosat-Rechtsstreit von Bayer gerichtlich gebilligt (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, FAZ); SEC-Ermittlungen und Führungskrise bei Nvidia (Zeit Online, Handelsblatt, Spiegel, Manager Magazin, TechCrunch, Tagesschau); Globaler Tech-Ausverkauf nach Rekord-Börsengang von Anthropic (Deutschlandfunk, Zeit Online, Handelsblatt, Heise, Tagesschau, Spiegel, FAZ); Verlängerung der Weltklimakonferenz in Antalya (Deutschlandfunk, Zeit Online, Tagesschau, FAZ); Ganztägige Warnstreiks von 150.000 Beschäftigten in der Metallindustrie (Deutschlandfunk, Tagesschau, Zeit Online, WirtschaftsWoche, Handelsblatt, Manager Magazin); BASF bricht Übernahme von Evonik wegen politischem Widerstand ab (FAZ, Handelsblatt, Manager Magazin, WirtschaftsWoche); Eskalierender Tarifkonflikt und Sparforderungen bei Volkswagen (WirtschaftsWoche, Handelsblatt, Tagesschau, Spiegel); Lufthansa streicht 1.000 Arbeitsplätze an deutschen Drehkreuzen (FAZ, Handelsblatt, WirtschaftsWoche, Manager Magazin, Spiegel); Filialschließungen und drohende Halbierung des Galeria-Netzes (Tagesschau, Zeit Online, FAZ, Handelsblatt, Manager Magazin, WirtschaftsWoche); Bundesweite Gen-Z-Jugendproteste für Bildung und Zukunftsthemen (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.</description>
+      <pubDate>Sat, 21 Nov 2026 05:44:31 +0000</pubDate>
+      <guid isPermaLink="false">ep-2026-11-21</guid>
+      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-21/daily-briefing-2026-11-21.mp3" length="13007979" type="audio/mpeg"/>
+      <itunes:duration>1301</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Daily Briefing, Freitag, 20. November 2026</title>
       <description>Themen heute: Gipfeltreffen in Shenzhen und Berliner Gegengipfel zur Ukraine (Handelsblatt, Tagesschau, Spiegel, Deutschlandfunk); Historischer Rekord-Börsengang von Anthropic (Deutschlandfunk, Spiegel, Handelsblatt, TechCrunch, Zeit Online, WirtschaftsWoche, FAZ, Heise, Hacker News, Tagesschau, Manager Magazin); BASF gibt Übernahmeversuch von Evonik auf (Zeit Online, WirtschaftsWoche, Tagesschau, Handelsblatt, Manager Magazin, FAZ, Spiegel); Harter Tarifkonflikt bei Volkswagen um Nullrunden und Arbeitszeiten (Deutschlandfunk, Zeit Online, Tagesschau, WirtschaftsWoche, Manager Magazin, Spiegel, FAZ, Handelsblatt); Ganztägige Warnstreiks der IG Metall in der Metall- und Elektroindustrie (Deutschlandfunk, Tagesschau, FAZ, Handelsblatt, WirtschaftsWoche, Manager Magazin, Spiegel); Einigung zwischen Bundesregierung und UniCredit über Commerzbank-Übernahme (WirtschaftsWoche, FAZ, Zeit Online, Manager Magazin); Stellenabbau und Flottenkürzungen bei der Lufthansa (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, FAZ); Deutsche Telekom investiert 100 Millionen Euro in Mistral AI (Deutschlandfunk, WirtschaftsWoche, Tagesschau, Manager Magazin, FAZ, Spiegel); KI-Cyberangriff auf EU-Kommission und Systemausfälle im US-Regierungsapparat (Deutschlandfunk, Handelsblatt, Spiegel, TechCrunch, Heise, Tagesschau); Verschärfte US-Chipkontrollen und Untersuchung zu Nvidia-Lieferungen (Handelsblatt, TechCrunch, The Decoder). KI-generierte Zusammenfassung von Pressematerial.</description>
       <pubDate>Fri, 20 Nov 2026 05:23:33 +0000</pubDate>
@@ -106,24 +115,6 @@
       <guid isPermaLink="false">ep-2026-11-08</guid>
       <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-08/daily-briefing-2026-11-08.mp3" length="11586657" type="audio/mpeg"/>
       <itunes:duration>1159</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Samstag, 7. November 2026</title>
-      <description>Themen heute: Börsenabsturz bei Chip- und Tech-Aktien (Handelsblatt, Tagesschau, Zeit Online, Spiegel); Nominierung von Ilse Aigner als Bundespräsidentin (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Trumps neuer Stabschef Stephen Miller (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Produktionsstopp für Teslas Cybertruck (Zeit Online, Spiegel, FAZ, Heise, Tagesschau, Manager Magazin, WirtschaftsWoche, Hacker News, Handelsblatt); Milliarden-Finanzierungsrunde für OpenAI (Handelsblatt, TechCrunch); Verzögerung beim Börsengang von Anthropic (TechCrunch, The Decoder, Manager Magazin); Staatskrise und Amtsenthebung in Paraguay (Deutschlandfunk, Zeit Online, Handelsblatt, Tagesschau); AfD-E-Mail-Leak und Prüfverfahren (Tagesschau, Deutschlandfunk, Zeit Online); Koordinierte Bombendrohungen in Europa (Deutschlandfunk, Tagesschau); Gewinnsprung bei Daimler Truck (Tagesschau, Manager Magazin, Handelsblatt, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Sat, 07 Nov 2026 05:40:15 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-11-07</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-07/daily-briefing-2026-11-07.mp3" length="10065025" type="audio/mpeg"/>
-      <itunes:duration>1006</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Daily Briefing, Freitag, 6. November 2026</title>
-      <description>Themen heute: US-Midterms: Wahlsieg der Demokraten schwächt Trump und Milliardäre (Zeit Online, Spiegel, Handelsblatt, FAZ, Deutschlandfunk); US-Börsen und Asien-Märkte: Kurseinbruch bei Chip- und Tech-Aktien (Handelsblatt, Zeit Online, Tagesschau); OpenAI bringt GPT-6 Cyber und plant Börsengang bis 2027 (Heise, The Decoder, TechCrunch, OpenAI); Paraguay: Präsident Peña tritt nach Kollaps von Digitalbank zurück (Tagesschau, Handelsblatt, Deutschlandfunk, Spiegel); Rheinmetall: Erneute Prognosesenkung führt zu Kurseinbruch (WirtschaftsWoche, FAZ, Handelsblatt, Manager Magazin); KNDS: Bund einigt sich auf 50-Prozent-Einstieg beim Panzerbauer (Tagesschau, Manager Magazin, Zeit Online, WirtschaftsWoche, Spiegel); Signa-Gründer René Benko erhält weitere zwei Jahre Haft wegen Betrugs (Deutschlandfunk, Tagesschau, WirtschaftsWoche, Handelsblatt, Spiegel, Manager Magazin, FAZ); Autokrise: Bosch streicht weitere 750 Stellen in Abstatt (Handelsblatt, FAZ, Spiegel, WirtschaftsWoche, Manager Magazin); Anthropic schließt erste Verlagsdeals und erweitert Claude um Finanztanz-Tools (Handelsblatt, TechCrunch, The Decoder); Frankreich: Hunderttausende protestieren für höhere Löhne und Bildung (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.</description>
-      <pubDate>Fri, 06 Nov 2026 05:32:18 +0000</pubDate>
-      <guid isPermaLink="false">ep-2026-11-06</guid>
-      <enclosure url="https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-06/daily-briefing-2026-11-06.mp3" length="10435702" type="audio/mpeg"/>
-      <itunes:duration>1044</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

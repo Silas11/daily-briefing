@@ -1,23 +1,5 @@
 [
  {
-  "tag": "ep-2026-11-06",
-  "title": "Daily Briefing, Freitag, 6. November 2026",
-  "description": "Themen heute: US-Midterms: Wahlsieg der Demokraten schwächt Trump und Milliardäre (Zeit Online, Spiegel, Handelsblatt, FAZ, Deutschlandfunk); US-Börsen und Asien-Märkte: Kurseinbruch bei Chip- und Tech-Aktien (Handelsblatt, Zeit Online, Tagesschau); OpenAI bringt GPT-6 Cyber und plant Börsengang bis 2027 (Heise, The Decoder, TechCrunch, OpenAI); Paraguay: Präsident Peña tritt nach Kollaps von Digitalbank zurück (Tagesschau, Handelsblatt, Deutschlandfunk, Spiegel); Rheinmetall: Erneute Prognosesenkung führt zu Kurseinbruch (WirtschaftsWoche, FAZ, Handelsblatt, Manager Magazin); KNDS: Bund einigt sich auf 50-Prozent-Einstieg beim Panzerbauer (Tagesschau, Manager Magazin, Zeit Online, WirtschaftsWoche, Spiegel); Signa-Gründer René Benko erhält weitere zwei Jahre Haft wegen Betrugs (Deutschlandfunk, Tagesschau, WirtschaftsWoche, Handelsblatt, Spiegel, Manager Magazin, FAZ); Autokrise: Bosch streicht weitere 750 Stellen in Abstatt (Handelsblatt, FAZ, Spiegel, WirtschaftsWoche, Manager Magazin); Anthropic schließt erste Verlagsdeals und erweitert Claude um Finanztanz-Tools (Handelsblatt, TechCrunch, The Decoder); Frankreich: Hunderttausende protestieren für höhere Löhne und Bildung (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-06T05:32:18.591867+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-06/daily-briefing-2026-11-06.mp3",
-  "bytes": 10435702,
-  "duration": 1044
- },
- {
-  "tag": "ep-2026-11-07",
-  "title": "Daily Briefing, Samstag, 7. November 2026",
-  "description": "Themen heute: Börsenabsturz bei Chip- und Tech-Aktien (Handelsblatt, Tagesschau, Zeit Online, Spiegel); Nominierung von Ilse Aigner als Bundespräsidentin (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Trumps neuer Stabschef Stephen Miller (Zeit Online, Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Produktionsstopp für Teslas Cybertruck (Zeit Online, Spiegel, FAZ, Heise, Tagesschau, Manager Magazin, WirtschaftsWoche, Hacker News, Handelsblatt); Milliarden-Finanzierungsrunde für OpenAI (Handelsblatt, TechCrunch); Verzögerung beim Börsengang von Anthropic (TechCrunch, The Decoder, Manager Magazin); Staatskrise und Amtsenthebung in Paraguay (Deutschlandfunk, Zeit Online, Handelsblatt, Tagesschau); AfD-E-Mail-Leak und Prüfverfahren (Tagesschau, Deutschlandfunk, Zeit Online); Koordinierte Bombendrohungen in Europa (Deutschlandfunk, Tagesschau); Gewinnsprung bei Daimler Truck (Tagesschau, Manager Magazin, Handelsblatt, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-07T05:40:15.873961+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-07/daily-briefing-2026-11-07.mp3",
-  "bytes": 10065025,
-  "duration": 1006
- },
- {
   "tag": "ep-2026-11-08",
   "title": "Daily Briefing, Sonntag, 8. November 2026",
   "description": "Themen heute: Tödliche Schüsse in Krakau (Zeit Online, Spiegel, Deutschlandfunk, Tagesschau, Handelsblatt); Anthropic plant Börsengang noch vor Thanksgiving (The Decoder); Trumps Personalumbau im Weißen Haus (Zeit Online, Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Mandat zur Regierungsbildung in Israel an Eisenkot (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel); Union bringt Ilse Aigner für das Bundespräsidentenamt in Stellung (Zeit Online, Deutschlandfunk); OpenAI verfehlt Finanzierungsziel und öffnet Runde für Privatanleger (The Decoder, Manager Magazin, WirtschaftsWoche); Trumps Konfrontation mit Demokraten nach Midterm-Niederlage (Zeit Online, Handelsblatt, Spiegel); Spionageverdacht gegen Nvidia-Chef Jensen Huang (TechCrunch, Manager Magazin, Spiegel); Sicherheitslücke bei Claude Code legt Passwörter offen (Hacker News); Autonome KI-Agenten überwinden Firmennetzwerke (The Decoder). KI-generierte Zusammenfassung von Pressematerial.",
@@ -115,5 +97,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-20/daily-briefing-2026-11-20.mp3",
   "bytes": 13316485,
   "duration": 1332
+ },
+ {
+  "tag": "ep-2026-11-21",
+  "title": "Daily Briefing, Samstag, 21. November 2026",
+  "description": "Themen heute: Milliardenvergleich im Glyphosat-Rechtsstreit von Bayer gerichtlich gebilligt (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, FAZ); SEC-Ermittlungen und Führungskrise bei Nvidia (Zeit Online, Handelsblatt, Spiegel, Manager Magazin, TechCrunch, Tagesschau); Globaler Tech-Ausverkauf nach Rekord-Börsengang von Anthropic (Deutschlandfunk, Zeit Online, Handelsblatt, Heise, Tagesschau, Spiegel, FAZ); Verlängerung der Weltklimakonferenz in Antalya (Deutschlandfunk, Zeit Online, Tagesschau, FAZ); Ganztägige Warnstreiks von 150.000 Beschäftigten in der Metallindustrie (Deutschlandfunk, Tagesschau, Zeit Online, WirtschaftsWoche, Handelsblatt, Manager Magazin); BASF bricht Übernahme von Evonik wegen politischem Widerstand ab (FAZ, Handelsblatt, Manager Magazin, WirtschaftsWoche); Eskalierender Tarifkonflikt und Sparforderungen bei Volkswagen (WirtschaftsWoche, Handelsblatt, Tagesschau, Spiegel); Lufthansa streicht 1.000 Arbeitsplätze an deutschen Drehkreuzen (FAZ, Handelsblatt, WirtschaftsWoche, Manager Magazin, Spiegel); Filialschließungen und drohende Halbierung des Galeria-Netzes (Tagesschau, Zeit Online, FAZ, Handelsblatt, Manager Magazin, WirtschaftsWoche); Bundesweite Gen-Z-Jugendproteste für Bildung und Zukunftsthemen (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel, FAZ). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-21T05:44:31.593157+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-21/daily-briefing-2026-11-21.mp3",
+  "bytes": 13007979,
+  "duration": 1301
  }
 ]
