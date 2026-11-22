@@ -106,5 +106,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-21/daily-briefing-2026-11-21.mp3",
   "bytes": 13007979,
   "duration": 1301
+ },
+ {
+  "tag": "ep-2026-11-22",
+  "title": "Daily Briefing, Sonntag, 22. November 2026",
+  "description": "Themen heute: Börsenbeben bei Tech-Aktien: SEC ermittelt gegen Nvidia (Handelsblatt, Zeit Online, Spiegel, The Decoder, FAZ, Manager Magazin); Stellenabbau und Konjunkturkrise in der deutschen Industrie (Zeit Online, Spiegel, WirtschaftsWoche); Anthropic-Forscher behauptet KI-Beweis der Riemannschen Vermutung mit Claude (Tagesschau, Hacker News, Handelsblatt, The Decoder, Heise); COP31: Neuer Verhandlungstext ohne Bekenntnis zum Ausstieg aus fossilen Energien (FAZ, Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Ukraine-Krieg: Drohnenangriff auf russisches Frachtschiff in der Ostsee (Deutschlandfunk, Zeit Online, Handelsblatt, Spiegel, Tagesschau); EU und Indonesien schließen umfassendes Freihandelsabkommen (Deutschlandfunk, Tagesschau, Spiegel, FAZ); Streit um EU-Haushalt: Merz weist Kompromiss von Ratspräsident Costa zurück (Deutschlandfunk, Handelsblatt, Spiegel, Tagesschau); IG Metall weitet Warnstreiks in der Metall- und Elektroindustrie aus (Deutschlandfunk, Tagesschau, Handelsblatt); US-Gericht genehmigt Milliarden-Vergleich für Bayer im Glyphosat-Streit (WirtschaftsWoche, Manager Magazin); OpenAI veröffentlicht Prompting-Richtlinien für GPT-6.2 Astra und Sol (The Decoder). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-22T05:30:14.111054+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-22/daily-briefing-2026-11-22.mp3",
+  "bytes": 11910052,
+  "duration": 1191
  }
 ]
