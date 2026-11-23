@@ -1,23 +1,5 @@
 [
  {
-  "tag": "ep-2026-11-08",
-  "title": "Daily Briefing, Sonntag, 8. November 2026",
-  "description": "Themen heute: Tödliche Schüsse in Krakau (Zeit Online, Spiegel, Deutschlandfunk, Tagesschau, Handelsblatt); Anthropic plant Börsengang noch vor Thanksgiving (The Decoder); Trumps Personalumbau im Weißen Haus (Zeit Online, Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Mandat zur Regierungsbildung in Israel an Eisenkot (Deutschlandfunk, Handelsblatt, Tagesschau, Spiegel); Union bringt Ilse Aigner für das Bundespräsidentenamt in Stellung (Zeit Online, Deutschlandfunk); OpenAI verfehlt Finanzierungsziel und öffnet Runde für Privatanleger (The Decoder, Manager Magazin, WirtschaftsWoche); Trumps Konfrontation mit Demokraten nach Midterm-Niederlage (Zeit Online, Handelsblatt, Spiegel); Spionageverdacht gegen Nvidia-Chef Jensen Huang (TechCrunch, Manager Magazin, Spiegel); Sicherheitslücke bei Claude Code legt Passwörter offen (Hacker News); Autonome KI-Agenten überwinden Firmennetzwerke (The Decoder). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-08T05:33:11.733824+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-08/daily-briefing-2026-11-08.mp3",
-  "bytes": 11586657,
-  "duration": 1159
- },
- {
-  "tag": "ep-2026-11-09",
-  "title": "Daily Briefing, Montag, 9. November 2026",
-  "description": "Themen heute: Merz schlaegt Ilse Aigner als naechste Bundespraesidentin vor (Deutschlandfunk, Tagesschau, Handelsblatt, Spiegel); Spionageuntersuchung gegen Nvidia-Chef Huang wegen mutmasslicher Agentin (Deutschlandfunk, FAZ, Handelsblatt, Tagesschau, Hacker News, Heise, Zeit Online, TechCrunch, Spiegel); Auftakt der 31. Weltklimakonferenz in Antalya (FAZ, Zeit Online, Deutschlandfunk, Tagesschau, Handelsblatt); Claude Code in der Praxis: Goldman Sachs zieht Tool zurueck waehrend Entwickler Erfolge vermelden (Hacker News, The Decoder, Heise); Gedenken und Terrorermittlungen nach Toetungsdelikten in Krakau (Deutschlandfunk, Tagesschau, Spiegel); Ukraine-Krieg: Erste Uebung multinationaler Schutztruppe in Polen und Verhandlungsdebatte (Deutschlandfunk, Zeit Online); Anthropic investiert ueber drei Milliarden Dollar in eigene Stromgeneratoren (Handelsblatt); Regierungsbildung in Israel: Oppositionschef Eisenkot erhaelt Auftrag (Deutschlandfunk, Tagesschau, Handelsblatt); Papst Leo XIV. kritisiert Mileis Sparpolitik bei Argentinien-Besuch (Deutschlandfunk, Spiegel, Tagesschau); US-Politik nach Midterms: Trump relativiert Abschiebepolitik und droht Demokraten (Deutschlandfunk, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-09T05:34:17.362382+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-09/daily-briefing-2026-11-09.mp3",
-  "bytes": 11479816,
-  "duration": 1148
- },
- {
   "tag": "ep-2026-11-10",
   "title": "Daily Briefing, Dienstag, 10. November 2026",
   "description": "Themen heute: Spionageermittlungen und Krise um Nvidia-CEO Jensen Huang (Deutschlandfunk, WirtschaftsWoche, Spiegel, FAZ, Manager Magazin, Tagesschau, TechCrunch, The Decoder); Trilaterale Gespräche zum Ukraine-Krieg in Abu Dhabi (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt); Anthropic stellt Claude Fable 5.2 vor und kauft Gasturbinen (Heise, TechCrunch, The Decoder, Claude Code Releases, Hacker News); Arbeitsagentur erwartet 800.000 Jobverluste durch KI (Deutschlandfunk, Zeit Online, Handelsblatt, Spiegel); Stellenabbau bei Vodafone Deutschland (WirtschaftsWoche, FAZ, Zeit Online, Tagesschau, Manager Magazin, Spiegel); Ilse Aigner stellt sich Bundestagsfraktionen vor (Deutschlandfunk, Handelsblatt, Tagesschau); Chinas Handelsüberschuss knackt erneut Billionen-Dollar-Marke (Deutschlandfunk, Handelsblatt, Tagesschau, FAZ); Rekordumsatz bei Infineon durch KI-Boom (Deutschlandfunk, Tagesschau, FAZ, Manager Magazin, WirtschaftsWoche, Handelsblatt); Maschinenbauverband VDMA kritisiert Reformstau (Zeit Online, Handelsblatt, FAZ); Schichtausfälle bei BMW wegen Teilemangels (Handelsblatt, Heise, Manager Magazin, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.",
@@ -115,5 +97,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-22/daily-briefing-2026-11-22.mp3",
   "bytes": 11910052,
   "duration": 1191
+ },
+ {
+  "tag": "ep-2026-11-23",
+  "title": "Daily Briefing, Montag, 23. November 2026",
+  "description": "Themen heute: Weltklimakonferenz COP31 scheitert ohne Abschlusserklärung (Zeit Online, Deutschlandfunk, Tagesschau, Handelsblatt, FAZ); Ermittlungen gegen Nvidia und Erschütterungen im Tech-Sektor (Handelsblatt, TechCrunch, Heise, Spiegel); Warnung vor russischer Atomwaffe im All und fehlendem Krisenplan (Tagesschau); NATO-Beratungen nach Luftraumverletzungen und Angriffe auf Schiffe (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Haushaltsstreit um Entlastungen bei der Kalten Progression (Deutschlandfunk, Zeit Online, Spiegel, Handelsblatt); Eskalierende Warnstreiks in der Metall- und Elektroindustrie (Deutschlandfunk, Handelsblatt); OpenAI-Release GPT-6.2 und Debatte um Evaluierung von KI-Modellen (TechCrunch, Hacker News, The Decoder); Russische Luftangriffe auf Kiewer Vororte verursachen zivile Opfer (Deutschlandfunk, Tagesschau, Spiegel); US-Midterms: Demokraten bauen Mehrheit im Repräsentantenhaus aus (Deutschlandfunk, Tagesschau, Spiegel); Fluglotsenstreik legt Flugverkehr in Belgien lahm (Deutschlandfunk, FAZ, Spiegel). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-23T05:38:57.098902+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-23/daily-briefing-2026-11-23.mp3",
+  "bytes": 11433056,
+  "duration": 1143
  }
 ]
