@@ -1,23 +1,5 @@
 [
  {
-  "tag": "ep-2026-11-10",
-  "title": "Daily Briefing, Dienstag, 10. November 2026",
-  "description": "Themen heute: Spionageermittlungen und Krise um Nvidia-CEO Jensen Huang (Deutschlandfunk, WirtschaftsWoche, Spiegel, FAZ, Manager Magazin, Tagesschau, TechCrunch, The Decoder); Trilaterale Gespräche zum Ukraine-Krieg in Abu Dhabi (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt); Anthropic stellt Claude Fable 5.2 vor und kauft Gasturbinen (Heise, TechCrunch, The Decoder, Claude Code Releases, Hacker News); Arbeitsagentur erwartet 800.000 Jobverluste durch KI (Deutschlandfunk, Zeit Online, Handelsblatt, Spiegel); Stellenabbau bei Vodafone Deutschland (WirtschaftsWoche, FAZ, Zeit Online, Tagesschau, Manager Magazin, Spiegel); Ilse Aigner stellt sich Bundestagsfraktionen vor (Deutschlandfunk, Handelsblatt, Tagesschau); Chinas Handelsüberschuss knackt erneut Billionen-Dollar-Marke (Deutschlandfunk, Handelsblatt, Tagesschau, FAZ); Rekordumsatz bei Infineon durch KI-Boom (Deutschlandfunk, Tagesschau, FAZ, Manager Magazin, WirtschaftsWoche, Handelsblatt); Maschinenbauverband VDMA kritisiert Reformstau (Zeit Online, Handelsblatt, FAZ); Schichtausfälle bei BMW wegen Teilemangels (Handelsblatt, Heise, Manager Magazin, WirtschaftsWoche). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-10T09:59:36.238201+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-10/daily-briefing-2026-11-10.mp3",
-  "bytes": 10979833,
-  "duration": 1098
- },
- {
-  "tag": "ep-2026-11-11",
-  "title": "Daily Briefing, Mittwoch, 11. November 2026",
-  "description": "Themen heute: Anthropic veroeffentlicht IPO-Prospekt und praesentiert Bueroplattform Claude (The Decoder, TechCrunch, Handelsblatt, WirtschaftsWoche, Tagesschau, Spiegel, FAZ); Spionageaffaere um Nvidia-Chef Jensen Huang und Kursrutsch (Handelsblatt, FAZ, Manager Magazin, Heise, WirtschaftsWoche, Spiegel); OpenAI wandelt ChatGPT mit Business Hub und Agenten zur Geschaeftsplattform (The Decoder, TechCrunch, OpenAI); Kandidatur von Ilse Aigner als Bundespraesidentin (Spiegel, Deutschlandfunk, Tagesschau); Verhandlungen zum Ukraine-Krieg in Abu Dhabi (Deutschlandfunk, Handelsblatt, Tagesschau, Zeit Online); Historischer Tiefstand deutscher Gasspeicher und drohende Versorgungsengpaesse (WirtschaftsWoche, Handelsblatt, Manager Magazin, Spiegel); Aufstockung der Bundespraemie fuer Elektroautos (Tagesschau, Deutschlandfunk, Manager Magazin, WirtschaftsWoche); Industriekrise im deutschen Maschinenbau und Kritik an Wirtschaftsministerin Reiche (Spiegel, Handelsblatt, WirtschaftsWoche, Zeit Online); Haushaltsstreit 2027 und Plaene zur Abschaffung der Steuerklassen 3 und 5 (Zeit Online, Spiegel, FAZ); Google praesentiert Gemini 4 Carbon mit Agenten-Schwarm und Robotik-Einsatz bei Mercedes (The Decoder, Google DeepMind). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-11T05:28:36.600518+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-11/daily-briefing-2026-11-11.mp3",
-  "bytes": 11713090,
-  "duration": 1171
- },
- {
   "tag": "ep-2026-11-12",
   "title": "Daily Briefing, Donnerstag, 12. November 2026",
   "description": "Themen heute: Führungskrise bei Nvidia um Jensen Huang (Zeit Online, Heise, TechCrunch, FAZ, Spiegel, Manager Magazin, Handelsblatt, Hacker News, WirtschaftsWoche, Tagesschau); Ukraine-Verhandlungen und US-Vorstoß (Tagesschau, Deutschlandfunk, Spiegel); Demokratischer Erfolg bei US-Midterms in Mississippi (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Kompromiss zum Bundeshaushalt 2027 (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Stopp des VW-Modernisierungsprojekts Gamechanger (Deutschlandfunk, Manager Magazin, WirtschaftsWoche, Handelsblatt, Zeit Online, FAZ); Jahresgutachten des Sachverständigenrats (Deutschlandfunk, FAZ, Zeit Online, Tagesschau, Spiegel); Rekordzahlen bei Siemens Energy (FAZ, Handelsblatt, Zeit Online, WirtschaftsWoche, Tagesschau, Manager Magazin); OpenAI-Quartalszahlen und Verlustentwicklung (TechCrunch, The Decoder, Manager Magazin); Untersuchung zu sexuellem Fehlverhalten in der Bundeswehr (Deutschlandfunk, Tagesschau, Spiegel); EU-Entwurf für den Digital Fairness Act (Deutschlandfunk, FAZ, Horizont, Heise, Tagesschau, Zeit Online). KI-generierte Zusammenfassung von Pressematerial.",
@@ -115,5 +97,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-24/daily-briefing-2026-11-24.mp3",
   "bytes": 12006705,
   "duration": 1201
+ },
+ {
+  "tag": "ep-2026-11-25",
+  "title": "Daily Briefing, Mittwoch, 25. November 2026",
+  "description": "Themen heute: Causa Nvidia: Turbulenzen um CEO-Comeback und Aufsichtsbehörden (Zeit Online, Spiegel, Handelsblatt, Deutschlandfunk, FAZ, TechCrunch, Tagesschau, Manager Magazin); VW-Tarifstreit und Konflikt um die 35-Stunden-Woche (Deutschlandfunk, Tagesschau, Handelsblatt, FAZ, WirtschaftsWoche, Zeit Online, Manager Magazin, Spiegel); Anthropic-Updates: Artifacts Desktop-Apps, MCP & Claude Ship (Claude Code Releases, The Decoder); Generaldebatte und Kritik am Haushalt 2027 (Spiegel, Deutschlandfunk, FAZ); Anstieg häuslicher Gewalt & Reform des Sexualstrafrechts (Tagesschau, Deutschlandfunk); Neue US-Handelszölle gegen EU und China (Tagesschau, Handelsblatt); Ifo-Geschäftsklimaindex steigt im November erneut (Zeit Online, Tagesschau, Spiegel); Sanofi plant 41-Milliarden-Dollar-Übernahme von Insmed (Manager Magazin, Handelsblatt, WirtschaftsWoche); GPT-6 Proteindesign, Informatik-Beweise & KI-Sicherheitswarnungen (Heise, The Decoder, OpenAI); Bedrohung durch Nuklearwaffen im All & Abwehr der Bundeswehr (Deutschlandfunk). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-25T05:32:09.035738+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-25/daily-briefing-2026-11-25.mp3",
+  "bytes": 11088762,
+  "duration": 1109
  }
 ]
