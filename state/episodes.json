@@ -1,14 +1,5 @@
 [
  {
-  "tag": "ep-2026-11-12",
-  "title": "Daily Briefing, Donnerstag, 12. November 2026",
-  "description": "Themen heute: Führungskrise bei Nvidia um Jensen Huang (Zeit Online, Heise, TechCrunch, FAZ, Spiegel, Manager Magazin, Handelsblatt, Hacker News, WirtschaftsWoche, Tagesschau); Ukraine-Verhandlungen und US-Vorstoß (Tagesschau, Deutschlandfunk, Spiegel); Demokratischer Erfolg bei US-Midterms in Mississippi (Deutschlandfunk, Tagesschau, Spiegel, Handelsblatt); Kompromiss zum Bundeshaushalt 2027 (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt); Stopp des VW-Modernisierungsprojekts Gamechanger (Deutschlandfunk, Manager Magazin, WirtschaftsWoche, Handelsblatt, Zeit Online, FAZ); Jahresgutachten des Sachverständigenrats (Deutschlandfunk, FAZ, Zeit Online, Tagesschau, Spiegel); Rekordzahlen bei Siemens Energy (FAZ, Handelsblatt, Zeit Online, WirtschaftsWoche, Tagesschau, Manager Magazin); OpenAI-Quartalszahlen und Verlustentwicklung (TechCrunch, The Decoder, Manager Magazin); Untersuchung zu sexuellem Fehlverhalten in der Bundeswehr (Deutschlandfunk, Tagesschau, Spiegel); EU-Entwurf für den Digital Fairness Act (Deutschlandfunk, FAZ, Horizont, Heise, Tagesschau, Zeit Online). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-12T05:37:51.446112+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-12/daily-briefing-2026-11-12.mp3",
-  "bytes": 11396746,
-  "duration": 1140
- },
- {
   "tag": "ep-2026-11-13",
   "title": "Daily Briefing, Freitag, 13. November 2026",
   "description": "Themen heute: Spionageaffäre und Rücktritt von Nvidia-Gründer Jensen Huang (Handelsblatt, FAZ, Tagesschau, Spiegel, Manager Magazin, WirtschaftsWoche, Zeit Online, Deutschlandfunk, TechCrunch, The Decoder, Hacker News); Einigung auf Bundeshaushalt 2027 und Streit um Stromsteuer (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Handelsblatt, FAZ, WirtschaftsWoche); Mercedes-Benz beschließt Investitionsstopp und prüft Werksschließungen (Handelsblatt, Deutschlandfunk, Heise, Zeit Online, Spiegel, Manager Magazin, WirtschaftsWoche); Weltweite Störung bei Microsoft-365-Diensten belaste Unternehmen (FAZ, Handelsblatt, Zeit Online, Deutschlandfunk, Spiegel, Tagesschau, Manager Magazin, Horizont); Diplomatische Bewegung und anhaltende Gefechte im Ukraine-Krieg (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Heise); Google bringt KI-Modell Gemini 4 Hydrogen auf den Markt (Heise, TechCrunch, The Decoder, Hacker News, Google DeepMind, Google AI Blog); Anthropic erweitert Claude um Meetings-Funktion und Code-Updates (The Decoder, Claude Code Releases); Bundestag stimmt über Ausweitung der Befugnisse der Nachrichtendienste ab (Deutschlandfunk, Tagesschau); Börsengang von Anthropic verzeichnet hohe Nachfrage (Handelsblatt, Hacker News); Volkswagen setzt auf Abfindungsprogramm bei schrumpfenden Gewinnmargen (Manager Magazin, Spiegel, WirtschaftsWoche, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.",
@@ -115,5 +106,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-26/daily-briefing-2026-11-26.mp3",
   "bytes": 11834558,
   "duration": 1183
+ },
+ {
+  "tag": "ep-2026-11-27",
+  "title": "Daily Briefing, Freitag, 27. November 2026",
+  "description": "Themen heute: Tarifabschluss in der Metall- und Elektroindustrie bringt 4,3 Prozent mehr Gehalt (Deutschlandfunk, Handelsblatt, Tagesschau, Zeit Online, FAZ, Manager Magazin, Spiegel); EU-Sondergipfel zum Haushalt bricht ergebnislos ab (Deutschlandfunk, Spiegel, Tagesschau, Handelsblatt, FAZ); UniCredit erzwingt Machtuebernahme bei der Commerzbank (Manager Magazin, WirtschaftsWoche, Spiegel, Zeit Online, Tagesschau); Pablo Hernandez de Cos wird neuer Praesident der EZB (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Nvidia stoppt Lieferungen von KI-Servern nach Suedostasien (Heise, TechCrunch, FAZ, The Decoder, Handelsblatt); Koalitionsstreit um Rente mit 63 und Fruehverrentung (Deutschlandfunk, Spiegel, FAZ, Tagesschau, Zeit Online); SAP erwägt Streichung von mindestens 10.000 Stellen durch KI-Ausrichtung (Heise, Handelsblatt, WirtschaftsWoche, Manager Magazin); US-Behoerde genehmigt SpaceX eine Million Satelliten fuer KI-Rechenzentren (WirtschaftsWoche, Heise, The Decoder, Manager Magazin); VRM stoppt Druck der Nius-Wochenzeitung nach heftiger Kritik (Deutschlandfunk, Spiegel, Horizont); Rheinmetall-Mitarbeiter bei Drohnenangriff in Kuwait getoetet (Tagesschau, Spiegel). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-27T05:25:33.111349+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-27/daily-briefing-2026-11-27.mp3",
+  "bytes": 12634950,
+  "duration": 1263
  }
 ]
