@@ -1,14 +1,5 @@
 [
  {
-  "tag": "ep-2026-11-13",
-  "title": "Daily Briefing, Freitag, 13. November 2026",
-  "description": "Themen heute: Spionageaffäre und Rücktritt von Nvidia-Gründer Jensen Huang (Handelsblatt, FAZ, Tagesschau, Spiegel, Manager Magazin, WirtschaftsWoche, Zeit Online, Deutschlandfunk, TechCrunch, The Decoder, Hacker News); Einigung auf Bundeshaushalt 2027 und Streit um Stromsteuer (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Handelsblatt, FAZ, WirtschaftsWoche); Mercedes-Benz beschließt Investitionsstopp und prüft Werksschließungen (Handelsblatt, Deutschlandfunk, Heise, Zeit Online, Spiegel, Manager Magazin, WirtschaftsWoche); Weltweite Störung bei Microsoft-365-Diensten belaste Unternehmen (FAZ, Handelsblatt, Zeit Online, Deutschlandfunk, Spiegel, Tagesschau, Manager Magazin, Horizont); Diplomatische Bewegung und anhaltende Gefechte im Ukraine-Krieg (Deutschlandfunk, Tagesschau, Zeit Online, Spiegel, Heise); Google bringt KI-Modell Gemini 4 Hydrogen auf den Markt (Heise, TechCrunch, The Decoder, Hacker News, Google DeepMind, Google AI Blog); Anthropic erweitert Claude um Meetings-Funktion und Code-Updates (The Decoder, Claude Code Releases); Bundestag stimmt über Ausweitung der Befugnisse der Nachrichtendienste ab (Deutschlandfunk, Tagesschau); Börsengang von Anthropic verzeichnet hohe Nachfrage (Handelsblatt, Hacker News); Volkswagen setzt auf Abfindungsprogramm bei schrumpfenden Gewinnmargen (Manager Magazin, Spiegel, WirtschaftsWoche, Handelsblatt). KI-generierte Zusammenfassung von Pressematerial.",
-  "pubdate": "2026-11-13T09:45:31.307003+00:00",
-  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-13/daily-briefing-2026-11-13.mp3",
-  "bytes": 11859897,
-  "duration": 1186
- },
- {
   "tag": "ep-2026-11-14",
   "title": "Daily Briefing, Samstag, 14. November 2026",
   "description": "Themen heute: Skandal und Führungswechsel bei Nvidia (Deutschlandfunk, FAZ, TechCrunch, The Decoder, Tagesschau, Handelsblatt, Spiegel, Manager Magazin, WirtschaftsWoche); Geplantes Spitzentreffen von Trump, Putin und Xi (Deutschlandfunk, Tagesschau, Zeit Online, Handelsblatt, Spiegel); Weltweite Großstörung bei Microsoft-Onlinediensten (Deutschlandfunk, Tagesschau, FAZ, Manager Magazin, WirtschaftsWoche, Handelsblatt, Spiegel, Horizont); Eskalierender Tarif- und Standortkonflikt bei Mercedes-Benz (FAZ, Handelsblatt, Manager Magazin, Zeit Online); Geplanter Milliarden-Börsengang von Anthropic überzeichnet (Handelsblatt, The Decoder, Manager Magazin); Anthropic veröffentlicht Claude for Manufacturing und Code Update (Claude Code Releases, The Decoder); Stundenlanges Flugverbot in den USA wegen IT-Störung (Deutschlandfunk, Tagesschau, Spiegel, Zeit Online, FAZ, Heise, Hacker News, Handelsblatt); EU einigt sich auf Verhandlungsteam für Ukraine-Friedensgespräche (Deutschlandfunk, Zeit Online, Tagesschau, Handelsblatt, Spiegel); Einigung auf Bundeshaushalt 2027 und Warnung vor Finanzkrise (Deutschlandfunk, Spiegel, Tagesschau, FAZ); OpenAI bringt ChatGPT Wallet und Cybersecurity-Sparte (The Decoder, TechCrunch, OpenAI). KI-generierte Zusammenfassung von Pressematerial.",
@@ -115,5 +106,14 @@
   "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-27/daily-briefing-2026-11-27.mp3",
   "bytes": 12634950,
   "duration": 1263
+ },
+ {
+  "tag": "ep-2026-11-28",
+  "title": "Daily Briefing, Samstag, 28. November 2026",
+  "description": "Themen heute: Rentenreform: Schweitzers Alleingang spaltet die Koalition (Tagesschau, Deutschlandfunk, Spiegel, Zeit Online, Handelsblatt); SAP plant Abbau von über 10.000 Stellen und meldet Sicherheitsvorfall (FAZ, Handelsblatt, WirtschaftsWoche, Spiegel, Tagesschau, Manager Magazin, The Decoder); Bundeshaushalt 2027 und Begleitgesetze vom Bundestag beschlossen (Tagesschau, Deutschlandfunk, Handelsblatt, FAZ, Spiegel); Rheinmetall senkt Mittelfristziele und betrauert getötete Techniker (FAZ, WirtschaftsWoche, Handelsblatt, Manager Magazin); Tesla beantragt Übernahme des deutschen Maschinenbauers EMAG (Manager Magazin, WirtschaftsWoche, Handelsblatt); Eskalierender Rechtsstreit: OpenAI reicht Gegenklage gegen Apple ein (The Decoder, Zeit Online, Handelsblatt, Spiegel); Deutscher Arbeitsmarkt: Herbstbelebung bleibt aus (Tagesschau, FAZ, Zeit Online, Spiegel, Deutschlandfunk); Mercedes-Benz startet Abfindungsprogramm für Führungskräfte und Ingenieure (Handelsblatt, Spiegel); Anthropic: Volatile erste Handelswoche nach Börsengang (Tagesschau, Handelsblatt); US-Militär beschießt Handelsschiff im Golf von Oman (Tagesschau, Deutschlandfunk). KI-generierte Zusammenfassung von Pressematerial.",
+  "pubdate": "2026-11-28T05:27:11.875755+00:00",
+  "url": "https://github.com/Silas11/daily-briefing/releases/download/ep-2026-11-28/daily-briefing-2026-11-28.mp3",
+  "bytes": 11556877,
+  "duration": 1156
  }
 ]
